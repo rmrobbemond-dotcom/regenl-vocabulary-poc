@@ -1,4 +1,6 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vocab: <https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/> .
 
@@ -1181,6 +1183,7 @@ vocab:RestrictionInTimingAboveLegalNorms a skos:Concept ;
         "Aanvullende beperking van tijdstip boven wettelijke normen"@nl .
 
 vocab:RotationalGrazing a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
     skos:broader vocab:GrazingSystem ;
     skos:definition "use more than one paddock in a pasture to restrict livestock grazing to a certain area"@en,
         "Een beweidingsmethode waarbij dieren achtereenvolgens toegang krijgen tot verschillende delen van grasland in plaats van voortdurend het hele perceel te beweiden."@nl ;
@@ -1188,7 +1191,11 @@ vocab:RotationalGrazing a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "rotational grazing"@en,
-        "Rotatiebeweiding"@nl .
+        "Rotatiebeweiding"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
+    schema:caption "Rotational grazing using electric fencing: contrast between grazed and ungrazed pasture."@en,
+        "Rotatiebeweiding met elektrische afrastering: verschil tussen beweid en nog niet beweid grasland."@nl ;
+    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:RowIntercropping a skos:Concept ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
@@ -2689,8 +2696,8 @@ vocab:UseOfSpecificFertilizerTypesOrManure a skos:Concept ;
         "Specifieke meststoffen of mesttypen gebruiken"@nl .
 
 vocab: a skos:ConceptScheme ;
-    dct:description "SKOS publication representation derived from the ReGeNL ontology. Hierarchical levels: Mega, Macro, Meso, Micro, Nano. Labels and definitions are copied from the source where present; missing text is not generated."@en ;
-    dct:title "ReGeNL – regenerative practices (PoC)"@en,
+    dcterms:description "SKOS publication representation derived from the ReGeNL ontology. Hierarchical levels: Mega, Macro, Meso, Micro, Nano. Labels and definitions are copied from the source where present; missing text is not generated."@en ;
+    dcterms:title "ReGeNL – regenerative practices (PoC)"@en,
         "ReGeNL – regeneratieve landbouwpraktijken (PoC)"@nl ;
     skos:definition "Controlled vocabulary of regenerative practice classifications in the ReGeNL programme. This publication is a draft for review."@en,
         "Gecontroleerde begrippenlijst van classificaties van regeneratieve landbouwpraktijken in ReGeNL. Deze publicatie is een concept voor beoordeling."@nl ;
