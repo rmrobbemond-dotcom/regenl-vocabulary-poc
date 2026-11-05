@@ -6,11 +6,12 @@
     "nl": "Specifieke meststoffen verminderen of beperken"
   },
   "definition": {
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op specifieke meststoffen verminderen of beperken. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+    "en": "quantity or time limitation of application",
+    "nl": "Het beperken van de hoeveelheid meststof of het tijdstip waarop bepaalde meststoffen worden toegediend."
   },
   "editorialNote": {
     "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [

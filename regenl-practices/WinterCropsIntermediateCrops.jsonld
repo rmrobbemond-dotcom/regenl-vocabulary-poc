@@ -6,12 +6,11 @@
     "nl": "Wintergewassen en tussengewassen"
   },
   "definition": {
-    "en": "a cash crops grown (in winter) between two main crops",
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op wintergewassen en tussengewassen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+    "nl": "Een tussenteelt die in de winter wordt geteeld tussen twee hoofdteelten."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    "en": [
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [

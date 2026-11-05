@@ -7,11 +7,11 @@
   },
   "definition": {
     "en": "Type of intercropping where the species overlap only for a portion of their growth duration",
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op volgteelt in overlap met hoofdgewas (relay intercropping). De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+    "nl": "Een mengteelt waarbij de groeiperiodes van twee of meer gewassen slechts gedeeltelijk overlappen."
   },
   "editorialNote": {
     "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [

@@ -5,13 +5,9 @@
     "en": "Implement housing system to seperate manure and urine in solid and liquid fractions",
     "nl": "Huisvestingssysteem voor scheiding van mest en urine"
   },
-  "definition": {
-    "en": "A classification entry in the ReGeNL regenerative practice framework referring to implement housing system to seperate manure and urine in solid and liquid fractions. The precise scope and operational criteria have not yet been validated.",
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op huisvestingssysteem voor scheiding van mest en urine. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
-  },
   "editorialNote": {
-    "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    "en": [
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [

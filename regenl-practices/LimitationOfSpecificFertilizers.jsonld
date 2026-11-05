@@ -6,11 +6,12 @@
     "nl": "Beperking van specifieke meststoffen"
   },
   "definition": {
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op beperking van specifieke meststoffen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+    "en": "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)",
+    "nl": "Het beperken van het gebruik van bepaalde meststoffen op een perceel, bijvoorbeeld door typen of hoeveelheden toe te laten of uit te sluiten."
   },
   "editorialNote": {
     "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [

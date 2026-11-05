@@ -5,16 +5,9 @@
     "en": "fertilization and manure management",
     "nl": "Bemesting en mestbeheer"
   },
-  "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'fertilization and manure management'.",
-    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op bemesting en mestbeheer. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
-  },
   "editorialNote": {
     "en": [
-      "The existing English definition is generic or insufficiently specified and requires expert review."
-    ],
-    "nl": [
-      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
