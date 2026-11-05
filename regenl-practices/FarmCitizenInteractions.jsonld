@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmCitizenInteractions",
   "type": "Concept",
   "prefLabel": {
-    "en": "farm-citizen interactions",
-    "nl": "Interacties tussen landbouwbedrijf en burgers"
+    "nl": "Interacties tussen landbouwbedrijf en burgers",
+    "en": "farm-citizen interactions"
   },
   "editorialNote": {
     "en": [
@@ -17,59 +17,59 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormsOfDirectFoodProvisioning",
       "prefLabel": {
-        "en": "Forms of direct food provisioning",
-        "nl": "Vormen van directe voedselvoorziening"
+        "nl": "Vormen van directe voedselvoorziening",
+        "en": "Forms of direct food provisioning"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GreenCare",
       "prefLabel": {
-        "en": "Green care",
-        "nl": "Groene zorg"
+        "nl": "Groene zorg",
+        "en": "Green care"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmEducation",
       "prefLabel": {
-        "en": "Farm education",
-        "nl": "Educatie op het landbouwbedrijf"
+        "nl": "Educatie op het landbouwbedrijf",
+        "en": "Farm education"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityEngagement",
       "prefLabel": {
-        "en": "Community engagement",
-        "nl": "Betrokkenheid van de lokale gemeenschap"
+        "nl": "Betrokkenheid van de lokale gemeenschap",
+        "en": "Community engagement"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RepresentationOfFarmers",
       "prefLabel": {
-        "en": "Representation of farmers",
-        "nl": "Belangenvertegenwoordiging van boeren"
+        "nl": "Belangenvertegenwoordiging van boeren",
+        "en": "Representation of farmers"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Agrotourism",
       "prefLabel": {
-        "en": "Agrotourism",
-        "nl": "Agritoerisme"
+        "nl": "Agritoerisme",
+        "en": "Agrotourism"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PeopleManagement",
     "prefLabel": {
-      "en": "people management",
-      "nl": "Personeelsbeheer"
+      "nl": "Personeelsbeheer",
+      "en": "people management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BuildingForEmissionReduction",
   "type": "Concept",
   "prefLabel": {
-    "en": "building for emission reduction",
-    "nl": "Gebouwen voor emissiereductie"
+    "nl": "Gebouwen voor emissiereductie",
+    "en": "building for emission reduction"
   },
   "editorialNote": {
     "en": [
@@ -17,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions",
       "prefLabel": {
-        "en": "Implement housing system to seperate manure and urine in solid and liquid fractions",
-        "nl": "Huisvestingssysteem voor scheiding van mest en urine"
+        "nl": "Huisvestingssysteem voor scheiding van mest en urine",
+        "en": "Implement housing system to seperate manure and urine in solid and liquid fractions"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AnimalHousing",
     "prefLabel": {
-      "en": "animal housing",
-      "nl": "Dierhuisvesting"
+      "nl": "Dierhuisvesting",
+      "en": "animal housing"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

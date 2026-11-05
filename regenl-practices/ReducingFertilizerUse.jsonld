@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingFertilizerUse",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reducing fertilizer use",
-    "nl": "Meststoffengebruik verminderen"
+    "nl": "Meststoffengebruik verminderen",
+    "en": "Reducing fertilizer use"
   },
   "definition": {
+    "nl": "Algemene vermindering van meststoffengebruik",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing fertilizer use'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
     "prefLabel": {
-      "en": "Reduction/ limitation of specific  fertilizers",
-      "nl": "Specifieke meststoffen verminderen of beperken"
+      "nl": "Specifieke meststoffen verminderen of beperken",
+      "en": "Reduction/ limitation of specific  fertilizers"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

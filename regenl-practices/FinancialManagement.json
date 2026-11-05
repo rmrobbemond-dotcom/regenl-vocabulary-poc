@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FinancialManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Financial management",
-    "nl": "Financieel beheer"
+    "nl": "Financieel beheer",
+    "en": "Financial management"
   },
   "editorialNote": {
     "en": [
@@ -17,8 +17,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
       "prefLabel": {
-        "en": "Farm socio-economic management",
-        "nl": "Sociaal-economisch bedrijfsbeheer"
+        "nl": "Sociaal-economisch bedrijfsbeheer",
+        "en": "Farm socio-economic management"
       }
     }
   ],
@@ -26,8 +26,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -40,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

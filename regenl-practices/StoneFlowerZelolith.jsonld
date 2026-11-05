@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StoneFlowerZelolith",
   "type": "Concept",
   "prefLabel": {
-    "en": "Stone flower, Zelolith",
-    "nl": "Steenmeel en zeoliet"
+    "nl": "Steenmeel en zeoliet",
+    "en": "Stone flower, Zelolith"
   },
   "definition": {
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Stone flower, Zelolith'."
@@ -19,16 +19,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
     "prefLabel": {
-      "en": "Soil amendments",
-      "nl": "Bodemverbeteraars"
+      "nl": "Bodemverbeteraars",
+      "en": "Soil amendments"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

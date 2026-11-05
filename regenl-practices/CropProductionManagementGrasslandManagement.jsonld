@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagementGrasslandManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Crop production management : grassland management",
-    "nl": "Graslandbeheer binnen gewasproductie"
+    "nl": "Graslandbeheer binnen gewasproductie",
+    "en": "Crop production management : grassland management"
   },
   "editorialNote": {
     "en": [
@@ -17,8 +17,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
       "prefLabel": {
-        "en": "Grassland and grazing",
-        "nl": "Grasland en beweiding"
+        "nl": "Grasland en beweiding",
+        "en": "Grassland and grazing"
       }
     }
   ],
@@ -26,8 +26,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -40,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

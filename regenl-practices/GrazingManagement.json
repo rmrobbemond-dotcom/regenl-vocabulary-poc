@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "grazing management",
-    "nl": "Beweidingsbeheer"
+    "nl": "Beweidingsbeheer",
+    "en": "grazing management"
   },
   "editorialNote": {
     "en": [
@@ -17,38 +17,38 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf1500HoursYear",
       "prefLabel": {
-        "en": "Extended grazing time: minimum of 1500 hours/year",
-        "nl": "Verlengde weidegang: minimaal 1.500 uur per jaar"
+        "nl": "Verlengde weidegang: minimaal 1.500 uur per jaar",
+        "en": "Extended grazing time: minimum of 1500 hours/year"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear",
       "prefLabel": {
-        "en": "Extended grazing time: minimum of 720 hours/year (maximum of 1500 hours per year)",
-        "nl": "Verlengde weidegang: 720–1.500 uur per jaar"
+        "nl": "Verlengde weidegang: 720–1.500 uur per jaar",
+        "en": "Extended grazing time: minimum of 720 hours/year (maximum of 1500 hours per year)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral",
       "prefLabel": {
-        "en": "Grazing (general)",
-        "nl": "Beweiding (algemeen)"
+        "nl": "Beweiding (algemeen)",
+        "en": "Grazing (general)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
     "prefLabel": {
-      "en": "Grassland and grazing",
-      "nl": "Grasland en beweiding"
+      "nl": "Grasland en beweiding",
+      "en": "Grassland and grazing"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

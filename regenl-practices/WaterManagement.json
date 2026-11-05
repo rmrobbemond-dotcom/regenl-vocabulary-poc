@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Water management",
-    "nl": "Waterbeheer"
+    "nl": "Waterbeheer",
+    "en": "Water management"
   },
   "editorialNote": {
     "en": [
@@ -17,45 +17,45 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterStorage",
       "prefLabel": {
-        "en": "Water storage",
-        "nl": "Wateropslag"
+        "nl": "Wateropslag",
+        "en": "Water storage"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeWaterUse",
       "prefLabel": {
-        "en": "Minimize water use",
-        "nl": "Watergebruik minimaliseren"
+        "nl": "Watergebruik minimaliseren",
+        "en": "Minimize water use"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMeso",
       "prefLabel": {
-        "en": "keep water levels high",
-        "nl": "Hoge waterstanden handhaven"
+        "nl": "Hoge waterstanden handhaven",
+        "en": "keep water levels high"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MaintainWaterlevelsConstant",
       "prefLabel": {
-        "en": "maintain waterlevels constant",
-        "nl": "Waterstanden constant houden"
+        "nl": "Waterstanden constant houden",
+        "en": "maintain waterlevels constant"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LandManagement",
     "prefLabel": {
-      "en": "Land management",
-      "nl": "Landbeheer"
+      "nl": "Landbeheer",
+      "en": "Land management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

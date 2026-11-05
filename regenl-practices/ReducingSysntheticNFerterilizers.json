@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingSysntheticNFerterilizers",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reducing sysnthetic N-ferterilizers",
-    "nl": "Gebruik van synthetische stikstofmeststoffen verminderen"
+    "nl": "Gebruik van synthetische stikstofmeststoffen verminderen",
+    "en": "Reducing sysnthetic N-ferterilizers"
   },
   "definition": {
+    "nl": "Het verminderd of minimaal gebruik van kunstmest met stikstof",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing sysnthetic N-ferterilizers'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
     "prefLabel": {
-      "en": "Reduction/ limitation of specific  fertilizers",
-      "nl": "Specifieke meststoffen verminderen of beperken"
+      "nl": "Specifieke meststoffen verminderen of beperken",
+      "en": "Reduction/ limitation of specific  fertilizers"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

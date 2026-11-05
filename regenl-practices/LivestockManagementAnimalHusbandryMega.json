@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LivestockManagementAnimalHusbandryMega",
   "type": "Concept",
   "prefLabel": {
-    "en": "Livestock management / animal husbandry",
-    "nl": "Veehouderijbeheer"
+    "nl": "Veehouderijbeheer",
+    "en": "Livestock management / animal husbandry"
   },
   "editorialNote": {
     "en": [
@@ -17,8 +17,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LivestockManagementAnimalHusbandryMacro",
       "prefLabel": {
-        "en": "Livestock management / animal husbandry",
-        "nl": "Veehouderijbeheer"
+        "nl": "Veehouderijbeheer",
+        "en": "Livestock management / animal husbandry"
       }
     }
   ],
@@ -26,8 +26,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -40,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

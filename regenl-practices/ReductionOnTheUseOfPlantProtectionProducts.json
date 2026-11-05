@@ -2,12 +2,26 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduction on the use of plant protection products",
-    "nl": "Gewasbeschermingsmiddelengebruik verminderen"
+    "nl": "Gewasbeschermingsmiddelengebruik verminderen",
+    "en": "Reduction on the use of plant protection products"
+  },
+  "definition": {
+    "en": "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (en): this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)",
+      "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction on the use of plant protection products'."
     ]
   },
   "notation": [
@@ -17,45 +31,45 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceFungicides",
       "prefLabel": {
-        "en": "Reduce fungicides",
-        "nl": "Fungicidengebruik verminderen"
+        "nl": "Fungicidengebruik verminderen",
+        "en": "Reduce fungicides"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHerbicides",
       "prefLabel": {
-        "en": "Reduce herbicides",
-        "nl": "Herbicidengebruik verminderen"
+        "nl": "Herbicidengebruik verminderen",
+        "en": "Reduce herbicides"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceInsecticides",
       "prefLabel": {
-        "en": "Reduce insecticides",
-        "nl": "Insecticidengebruik verminderen"
+        "nl": "Insecticidengebruik verminderen",
+        "en": "Reduce insecticides"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticPesticides",
       "prefLabel": {
-        "en": "Reduce synthetic pesticides",
-        "nl": "Gebruik van synthetische gewasbeschermingsmiddelen verminderen"
+        "nl": "Gebruik van synthetische gewasbeschermingsmiddelen verminderen",
+        "en": "Reduce synthetic pesticides"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantProtection",
     "prefLabel": {
-      "en": "plant protection",
-      "nl": "Gewasbescherming"
+      "nl": "Gewasbescherming",
+      "en": "plant protection"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

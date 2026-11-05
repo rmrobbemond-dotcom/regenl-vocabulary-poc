@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Digestate",
   "type": "Concept",
   "prefLabel": {
-    "en": "digestate",
-    "nl": "Digestaat"
+    "nl": "Digestaat",
+    "en": "digestate"
   },
   "definition": {
+    "nl": "Het gebruik van restproducten uit vergisters, als bemesting",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'digestate'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfSpecificFertilizerTypesOrManure",
     "prefLabel": {
-      "en": "use of specific fertilizer types or manure",
-      "nl": "Specifieke meststoffen of mesttypen gebruiken"
+      "nl": "Specifieke meststoffen of mesttypen gebruiken",
+      "en": "use of specific fertilizer types or manure"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

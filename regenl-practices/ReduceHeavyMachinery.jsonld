@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHeavyMachinery",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduce heavy machinery",
-    "nl": "Inzet van zware machines verminderen"
+    "nl": "Inzet van zware machines verminderen",
+    "en": "Reduce heavy machinery"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAndMachineryUse",
     "prefLabel": {
-      "en": "Soil and machinery use",
-      "nl": "Bodem en machinegebruik"
+      "nl": "Bodem en machinegebruik",
+      "en": "Soil and machinery use"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

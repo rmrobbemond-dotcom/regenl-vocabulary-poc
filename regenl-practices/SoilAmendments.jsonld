@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
   "type": "Concept",
   "prefLabel": {
-    "en": "Soil amendments",
-    "nl": "Bodemverbeteraars"
+    "nl": "Bodemverbeteraars",
+    "en": "Soil amendments"
   },
   "definition": {
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Soil amendments'."
@@ -20,59 +20,59 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilInnoculationWithMicrobiology",
       "prefLabel": {
-        "en": "Soil innoculation with microbiology",
-        "nl": "Bodem enten met micro-organismen"
+        "nl": "Bodem enten met micro-organismen",
+        "en": "Soil innoculation with microbiology"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Biochar",
       "prefLabel": {
-        "en": "biochar",
-        "nl": "Biochar"
+        "nl": "Biochar",
+        "en": "biochar"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Gypsum",
       "prefLabel": {
-        "en": "gypsum",
-        "nl": "Gips"
+        "nl": "Gips",
+        "en": "gypsum"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PreparationMadeFromOrganicMaterials",
       "prefLabel": {
-        "en": "Preparation made from organic materials",
-        "nl": "Preparaat van organisch materiaal"
+        "nl": "Preparaat van organisch materiaal",
+        "en": "Preparation made from organic materials"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Liming",
       "prefLabel": {
-        "en": "Liming",
-        "nl": "Bekalking"
+        "nl": "Bekalking",
+        "en": "Liming"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StoneFlowerZelolith",
       "prefLabel": {
-        "en": "Stone flower, Zelolith",
-        "nl": "Steenmeel en zeoliet"
+        "nl": "Steenmeel en zeoliet",
+        "en": "Stone flower, Zelolith"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FertilizationAndManureManagement",
     "prefLabel": {
-      "en": "fertilization and manure management",
-      "nl": "Bemesting en mestbeheer"
+      "nl": "Bemesting en mestbeheer",
+      "en": "fertilization and manure management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

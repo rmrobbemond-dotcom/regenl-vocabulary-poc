@@ -2,16 +2,26 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ShallowNonInversionTillage",
   "type": "Concept",
   "prefLabel": {
-    "en": "Shallow non-inversion tillage",
-    "nl": "Ondiepe niet-kerende grondbewerking"
+    "nl": "Ondiepe niet-kerende grondbewerking",
+    "en": "Shallow non-inversion tillage"
   },
   "definition": {
-    "en": "non-inversion tillage until e.g. maximum 0.06m depth",
-    "nl": "Niet-kerende bodembewerking tot beperkte diepte; in de bron wordt als voorbeeld maximaal 6 cm genoemd."
+    "nl": "Losmaken van de bodem zonder deze te keren, tot bijvoorbeeld maximaal 6 cm diep",
+    "en": "non-inversion tillage until e.g. maximum 0.06m depth"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "nl": [
       "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (nl): Niet-kerende bodembewerking tot beperkte diepte; in de bron wordt als voorbeeld maximaal 6 cm genoemd."
     ]
   },
   "notation": [
@@ -20,16 +30,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceTillageMinimalTillage",
     "prefLabel": {
-      "en": "Reduce tillage/ minimal tillage",
-      "nl": "Grondbewerking verminderen of minimaliseren"
+      "nl": "Grondbewerking verminderen of minimaliseren",
+      "en": "Reduce tillage/ minimal tillage"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

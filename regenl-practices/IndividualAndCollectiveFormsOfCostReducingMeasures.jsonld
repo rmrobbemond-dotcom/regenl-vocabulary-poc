@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IndividualAndCollectiveFormsOfCostReducingMeasures",
   "type": "Concept",
   "prefLabel": {
-    "en": "Individual and collective forms of cost reducing measures",
-    "nl": "Individuele en collectieve kostenbesparende maatregelen"
+    "nl": "Individuele en collectieve kostenbesparende maatregelen",
+    "en": "Individual and collective forms of cost reducing measures"
   },
   "editorialNote": {
     "en": [
@@ -17,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InputReductionOfEGAgrochemicalsAndFeed",
       "prefLabel": {
-        "en": "Input reduction of e.g. agrochemicals and feed",
-        "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer"
+        "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer",
+        "en": "Input reduction of e.g. agrochemicals and feed"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital",
       "prefLabel": {
-        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)",
-        "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal"
+        "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal",
+        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "en": "Farm socio-economic management",
-      "nl": "Sociaal-economisch bedrijfsbeheer"
+      "nl": "Sociaal-economisch bedrijfsbeheer",
+      "en": "Farm socio-economic management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

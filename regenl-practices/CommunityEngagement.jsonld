@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityEngagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Community engagement",
-    "nl": "Betrokkenheid van de lokale gemeenschap"
+    "nl": "Betrokkenheid van de lokale gemeenschap",
+    "en": "Community engagement"
   },
   "editorialNote": {
     "en": [
@@ -17,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties",
       "prefLabel": {
-        "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)",
-        "nl": "Activiteiten voor de lokale gemeenschap organiseren"
+        "nl": "Activiteiten voor de lokale gemeenschap organiseren",
+        "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmCitizenInteractions",
     "prefLabel": {
-      "en": "farm-citizen interactions",
-      "nl": "Interacties tussen landbouwbedrijf en burgers"
+      "nl": "Interacties tussen landbouwbedrijf en burgers",
+      "en": "farm-citizen interactions"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

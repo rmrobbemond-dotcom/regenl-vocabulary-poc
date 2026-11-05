@@ -2,16 +2,26 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WinterCropsIntermediateCrops",
   "type": "Concept",
   "prefLabel": {
-    "en": "Winter crops / intermediate crops:",
-    "nl": "Wintergewassen en tussengewassen"
+    "nl": "Wintergewassen en tussengewassen",
+    "en": "Winter crops / intermediate crops:"
   },
   "definition": {
-    "en": "a cash crops grown (in winter) between two main crops",
-    "nl": "Een tussenteelt die in de winter wordt geteeld tussen twee hoofdteelten."
+    "nl": "Een handelsgewas dat (in de winter) wordt geteeld tussen twee hoofdgewassen",
+    "en": "a cash crops grown (in winter) between two main crops"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (nl): Een tussenteelt die in de winter wordt geteeld tussen twee hoofdteelten."
     ]
   },
   "notation": [
@@ -20,16 +30,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations",
     "prefLabel": {
-      "en": "Extensive crop rotations",
-      "nl": "Ruime vruchtwisseling"
+      "nl": "Ruime vruchtwisseling",
+      "en": "Extensive crop rotations"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

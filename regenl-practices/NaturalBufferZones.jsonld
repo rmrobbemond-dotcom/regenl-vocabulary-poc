@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalBufferZones",
   "type": "Concept",
   "prefLabel": {
-    "en": "Natural buffer zones",
-    "nl": "Natuurlijke bufferzones"
+    "nl": "Natuurlijke bufferzones",
+    "en": "Natural buffer zones"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement",
     "prefLabel": {
-      "en": "Habitat provision/ biodiversity enhancement",
-      "nl": "Leefgebieden creëren en biodiversiteit versterken"
+      "nl": "Leefgebieden creëren en biodiversiteit versterken",
+      "en": "Habitat provision/ biodiversity enhancement"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

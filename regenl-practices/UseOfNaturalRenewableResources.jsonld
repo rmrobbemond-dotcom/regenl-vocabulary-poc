@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfNaturalRenewableResources",
   "type": "Concept",
   "prefLabel": {
-    "en": "Use of natural/renewable resources",
-    "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken"
+    "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken",
+    "en": "Use of natural/renewable resources"
   },
   "editorialNote": {
     "en": [
@@ -17,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WoodBioplastics",
       "prefLabel": {
-        "en": "wood, bioplastics",
-        "nl": "Hout en bioplastics"
+        "nl": "Hout en bioplastics",
+        "en": "wood, bioplastics"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs",
     "prefLabel": {
-      "en": "Reduce external inputs",
-      "nl": "Externe inputs verminderen"
+      "nl": "Externe inputs verminderen",
+      "en": "Reduce external inputs"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

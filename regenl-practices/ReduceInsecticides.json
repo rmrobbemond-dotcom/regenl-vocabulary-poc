@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceInsecticides",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduce insecticides",
-    "nl": "Insecticidengebruik verminderen"
+    "nl": "Insecticidengebruik verminderen",
+    "en": "Reduce insecticides"
   },
   "definition": {
+    "nl": "Insecticiden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce insecticides'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "en": "Reduction on the use of plant protection products",
-      "nl": "Gewasbeschermingsmiddelengebruik verminderen"
+      "nl": "Gewasbeschermingsmiddelengebruik verminderen",
+      "en": "Reduction on the use of plant protection products"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

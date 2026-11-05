@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingSystem",
   "type": "Concept",
   "prefLabel": {
-    "en": "grazing system",
-    "nl": "Beweidingssysteem"
+    "nl": "Beweidingssysteem",
+    "en": "grazing system"
   },
   "editorialNote": {
     "en": [
@@ -17,73 +17,73 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompartmentedContinousGrazingNewNederlandsWeiden",
       "prefLabel": {
-        "en": "compartmented continous grazing (New nederlands weiden)",
-        "nl": "Gecompartimenteerd continu beweiden (Nieuw Nederlands Weiden)"
+        "nl": "Gecompartimenteerd continu beweiden (Nieuw Nederlands Weiden)",
+        "en": "compartmented continous grazing (New nederlands weiden)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingTrainingOfYoungstock",
       "prefLabel": {
-        "en": "grazing training of youngstock",
-        "nl": "Jongvee laten wennen aan weidegang"
+        "nl": "Jongvee laten wennen aan weidegang",
+        "en": "grazing training of youngstock"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HolisticGrazing",
       "prefLabel": {
-        "en": "Holistic grazing",
-        "nl": "Holistisch beweiden"
+        "nl": "Holistisch beweiden",
+        "en": "Holistic grazing"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MOBGrazing",
       "prefLabel": {
-        "en": "MOB grazing",
-        "nl": "Mobbeweiding"
+        "nl": "Mobbeweiding",
+        "en": "MOB grazing"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RotationalGrazing",
       "prefLabel": {
-        "en": "rotational grazing",
-        "nl": "Rotatiebeweiding"
+        "nl": "Rotatiebeweiding",
+        "en": "rotational grazing"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Standweide",
       "prefLabel": {
-        "en": "standweide",
-        "nl": "Standweide"
+        "nl": "Standweide",
+        "en": "standweide"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StripGrazing",
       "prefLabel": {
-        "en": "strip grazing",
-        "nl": "Stripgrazen"
+        "nl": "Stripgrazen",
+        "en": "strip grazing"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/VoisinRationalGrazing",
       "prefLabel": {
-        "en": "Voisin rational grazing",
-        "nl": "Rationeel beweiden volgens Voisin"
+        "nl": "Rationeel beweiden volgens Voisin",
+        "en": "Voisin rational grazing"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
     "prefLabel": {
-      "en": "Grassland and grazing",
-      "nl": "Grasland en beweiding"
+      "nl": "Grasland en beweiding",
+      "en": "Grassland and grazing"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoSyntheticPesticides",
   "type": "Concept",
   "prefLabel": {
-    "en": "No synthetic pesticides",
-    "nl": "Geen synthetische gewasbeschermingsmiddelen"
+    "nl": "Geen synthetische gewasbeschermingsmiddelen",
+    "en": "No synthetic pesticides"
   },
   "definition": {
+    "nl": "Totaal geen gebruik van synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen op het bedrijf. Geen enkel type.",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "en": "Limitation on the use of plant protection products",
-      "nl": "Beperking van gewasbeschermingsmiddelen"
+      "nl": "Beperking van gewasbeschermingsmiddelen",
+      "en": "Limitation on the use of plant protection products"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

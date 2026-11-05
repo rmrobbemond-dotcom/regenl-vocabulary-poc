@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PluralactivityWorkBeyondFarm",
   "type": "Concept",
   "prefLabel": {
-    "en": "Pluralactivity - work beyond farm",
-    "nl": "Nevenactiviteiten buiten de landbouw"
+    "nl": "Nevenactiviteiten buiten de landbouw",
+    "en": "Pluralactivity - work beyond farm"
   },
   "editorialNote": {
     "en": [
@@ -17,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonFarmAndOffFarmEmployment",
       "prefLabel": {
-        "en": "non-farm and off-farm employment",
-        "nl": "Werk buiten het landbouwbedrijf"
+        "nl": "Werk buiten het landbouwbedrijf",
+        "en": "non-farm and off-farm employment"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "en": "Farm socio-economic management",
-      "nl": "Sociaal-economisch bedrijfsbeheer"
+      "nl": "Sociaal-economisch bedrijfsbeheer",
+      "en": "Farm socio-economic management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PeopleManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "people management",
-    "nl": "Personeelsbeheer"
+    "nl": "Personeelsbeheer",
+    "en": "people management"
   },
   "editorialNote": {
     "en": [
@@ -17,15 +17,15 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmCitizenInteractions",
       "prefLabel": {
-        "en": "farm-citizen interactions",
-        "nl": "Interacties tussen landbouwbedrijf en burgers"
+        "nl": "Interacties tussen landbouwbedrijf en burgers",
+        "en": "farm-citizen interactions"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RegenerativeCapacityClassificationElement",
       "prefLabel": {
-        "en": "regenerative capacity",
-        "nl": "Regeneratief vermogen"
+        "nl": "Regeneratief vermogen",
+        "en": "regenerative capacity"
       }
     }
   ],
@@ -33,8 +33,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -47,8 +47,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

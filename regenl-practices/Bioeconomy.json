@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Bioeconomy",
   "type": "Concept",
   "prefLabel": {
-    "en": "Bioeconomy",
-    "nl": "Bio-economie"
+    "nl": "Bio-economie",
+    "en": "Bioeconomy"
   },
   "editorialNote": {
     "en": [
@@ -17,8 +17,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioeconomyEnergyEfficiencyAndProduction",
       "prefLabel": {
-        "en": "Bioeconomy, energy efficiency and production",
-        "nl": "Bio-economie, energie-efficiëntie en productie"
+        "nl": "Bio-economie, energie-efficiëntie en productie",
+        "en": "Bioeconomy, energy efficiency and production"
       }
     }
   ],
@@ -26,8 +26,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -40,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

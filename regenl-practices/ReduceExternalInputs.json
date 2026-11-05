@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduce external inputs",
-    "nl": "Externe inputs verminderen"
+    "nl": "Externe inputs verminderen",
+    "en": "Reduce external inputs"
   },
   "editorialNote": {
     "en": [
@@ -17,59 +17,59 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Food_crops_only",
       "prefLabel": {
-        "en": "Food crops only",
-        "nl": "Alleen voedselgewassen"
+        "nl": "Alleen voedselgewassen",
+        "en": "Food crops only"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoResidualStreams",
       "prefLabel": {
-        "en": "No residual streams",
-        "nl": "Geen reststromen"
+        "nl": "Geen reststromen",
+        "en": "No residual streams"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelfSufficiency",
       "prefLabel": {
-        "en": "Self-sufficiency",
-        "nl": "Zelfvoorziening"
+        "nl": "Zelfvoorziening",
+        "en": "Self-sufficiency"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseLocalInputs",
       "prefLabel": {
-        "en": "Use local inputs",
-        "nl": "Lokale inputs gebruiken"
+        "nl": "Lokale inputs gebruiken",
+        "en": "Use local inputs"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfResidualMaterials",
       "prefLabel": {
-        "en": "Use of residual materials",
-        "nl": "Restmaterialen gebruiken"
+        "nl": "Restmaterialen gebruiken",
+        "en": "Use of residual materials"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfNaturalRenewableResources",
       "prefLabel": {
-        "en": "Use of natural/renewable resources",
-        "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken"
+        "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken",
+        "en": "Use of natural/renewable resources"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioeconomyEnergyEfficiencyAndProduction",
     "prefLabel": {
-      "en": "Bioeconomy, energy efficiency and production",
-      "nl": "Bio-economie, energie-efficiëntie en productie"
+      "nl": "Bio-economie, energie-efficiëntie en productie",
+      "en": "Bioeconomy, energy efficiency and production"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

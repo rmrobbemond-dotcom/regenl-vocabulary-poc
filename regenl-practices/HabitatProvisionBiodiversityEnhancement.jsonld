@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Habitat provision/ biodiversity enhancement",
-    "nl": "Leefgebieden creëren en biodiversiteit versterken"
+    "nl": "Leefgebieden creëren en biodiversiteit versterken",
+    "en": "Habitat provision/ biodiversity enhancement"
   },
   "editorialNote": {
     "en": [
@@ -17,87 +17,87 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FlowerHerbNatureStrips",
       "prefLabel": {
-        "en": "Flower/herb/nature strips",
-        "nl": "Bloemen-, kruiden- en natuurstroken"
+        "nl": "Bloemen-, kruiden- en natuurstroken",
+        "en": "Flower/herb/nature strips"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BiodiversitySheltersEGBushes",
       "prefLabel": {
-        "en": "Biodiversity shelters (e.g. bushes)",
-        "nl": "Schuilplaatsen voor biodiversiteit (bijvoorbeeld struiken)"
+        "nl": "Schuilplaatsen voor biodiversiteit (bijvoorbeeld struiken)",
+        "en": "Biodiversity shelters (e.g. bushes)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BirdAndBatBoxes",
       "prefLabel": {
-        "en": "Bird and bat boxes",
-        "nl": "Vogel- en vleermuiskasten"
+        "nl": "Vogel- en vleermuiskasten",
+        "en": "Bird and bat boxes"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InsectHotels",
       "prefLabel": {
-        "en": "Insect hotels",
-        "nl": "Insectenhotels"
+        "nl": "Insectenhotels",
+        "en": "Insect hotels"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalBufferZones",
       "prefLabel": {
-        "en": "Natural buffer zones",
-        "nl": "Natuurlijke bufferzones"
+        "nl": "Natuurlijke bufferzones",
+        "en": "Natural buffer zones"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcologicalWaterwayAndDitchManagement",
       "prefLabel": {
-        "en": "Ecological waterway and ditch management",
-        "nl": "Ecologisch beheer van watergangen en sloten"
+        "nl": "Ecologisch beheer van watergangen en sloten",
+        "en": "Ecological waterway and ditch management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RuggedVegetation",
       "prefLabel": {
-        "en": "rugged vegetation",
-        "nl": "Ruigtevegetatie"
+        "nl": "Ruigtevegetatie",
+        "en": "rugged vegetation"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SteppingStones05Ha",
       "prefLabel": {
-        "en": "stepping stones (> 0.5 ha)",
-        "nl": "Ecologische stapstenen (meer dan 0,5 ha)"
+        "nl": "Ecologische stapstenen (meer dan 0,5 ha)",
+        "en": "stepping stones (> 0.5 ha)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreesAndHedgesAsHabitat",
       "prefLabel": {
-        "en": "Trees and hedges as habitat",
-        "nl": "Bomen en heggen als leefgebied"
+        "nl": "Bomen en heggen als leefgebied",
+        "en": "Trees and hedges as habitat"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WettedZonesSwalesForMeadowBirds",
       "prefLabel": {
-        "en": "Wetted zones/swales (for meadow birds)",
-        "nl": "Natte zones en greppels voor weidevogels"
+        "nl": "Natte zones en greppels voor weidevogels",
+        "en": "Wetted zones/swales (for meadow birds)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection",
     "prefLabel": {
-      "en": "wildlife protection",
-      "nl": "Bescherming van wilde dieren"
+      "nl": "Bescherming van wilde dieren",
+      "en": "wildlife protection"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

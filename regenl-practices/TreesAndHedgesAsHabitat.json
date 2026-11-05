@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreesAndHedgesAsHabitat",
   "type": "Concept",
   "prefLabel": {
-    "en": "Trees and hedges as habitat",
-    "nl": "Bomen en heggen als leefgebied"
+    "nl": "Bomen en heggen als leefgebied",
+    "en": "Trees and hedges as habitat"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement",
     "prefLabel": {
-      "en": "Habitat provision/ biodiversity enhancement",
-      "nl": "Leefgebieden creëren en biodiversiteit versterken"
+      "nl": "Leefgebieden creëren en biodiversiteit versterken",
+      "en": "Habitat provision/ biodiversity enhancement"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

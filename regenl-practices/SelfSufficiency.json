@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelfSufficiency",
   "type": "Concept",
   "prefLabel": {
-    "en": "Self-sufficiency",
-    "nl": "Zelfvoorziening"
+    "nl": "Zelfvoorziening",
+    "en": "Self-sufficiency"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs",
     "prefLabel": {
-      "en": "Reduce external inputs",
-      "nl": "Externe inputs verminderen"
+      "nl": "Externe inputs verminderen",
+      "en": "Reduce external inputs"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

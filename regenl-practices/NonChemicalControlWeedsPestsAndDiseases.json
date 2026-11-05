@@ -2,17 +2,31 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonChemicalControlWeedsPestsAndDiseases",
   "type": "Concept",
   "prefLabel": {
-    "en": "Non-chemical  control- weeds, pests and diseases",
-    "nl": "Niet-chemische beheersing van onkruid, plagen en ziekten"
+    "nl": "Niet-chemische beheersing van onkruid, plagen en ziekten",
+    "en": "Non-chemical  control- weeds, pests and diseases"
   },
   "altLabel": {
     "en": [
       "Non-chemical control- weeds, pests and diseases"
     ]
   },
+  "definition": {
+    "en": "integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Non-chemical control- weeds, pests and diseases'.",
+      "Voorgaande PoC-definitie (en): integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"
     ]
   },
   "notation": [
@@ -22,66 +36,66 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AlternativeBiocontrolProductUse",
       "prefLabel": {
-        "en": "Alternative biocontrol product use",
-        "nl": "Gebruik van alternatieve biologische bestrijdingsmiddelen"
+        "nl": "Gebruik van alternatieve biologische bestrijdingsmiddelen",
+        "en": "Alternative biocontrol product use"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IntegratedPestManagementPrinciplesIPM",
       "prefLabel": {
-        "en": "Integrated pest management principles (IPM)",
-        "nl": "Principes van geïntegreerde gewasbescherming (IPM)"
+        "nl": "Principes van geïntegreerde gewasbescherming (IPM)",
+        "en": "Integrated pest management principles (IPM)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IntegratedWeedManagement",
       "prefLabel": {
-        "en": "Integrated weed management",
-        "nl": "Geïntegreerd onkruidbeheer"
+        "nl": "Geïntegreerd onkruidbeheer",
+        "en": "Integrated weed management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MechanicalPestManagement",
       "prefLabel": {
-        "en": "Mechanical pest management",
-        "nl": "Mechanische plaagbeheersing"
+        "nl": "Mechanische plaagbeheersing",
+        "en": "Mechanical pest management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MechanicalWeedManagement",
       "prefLabel": {
-        "en": "Mechanical weed management",
-        "nl": "Mechanische onkruidbestrijding"
+        "nl": "Mechanische onkruidbestrijding",
+        "en": "Mechanical weed management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalPestManagement",
       "prefLabel": {
-        "en": "Natural pest management",
-        "nl": "Natuurlijke plaagbeheersing"
+        "nl": "Natuurlijke plaagbeheersing",
+        "en": "Natural pest management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalWeedManagement",
       "prefLabel": {
-        "en": "Natural weed management",
-        "nl": "Natuurlijk onkruidbeheer"
+        "nl": "Natuurlijk onkruidbeheer",
+        "en": "Natural weed management"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantProtection",
     "prefLabel": {
-      "en": "plant protection",
-      "nl": "Gewasbescherming"
+      "nl": "Gewasbescherming",
+      "en": "plant protection"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

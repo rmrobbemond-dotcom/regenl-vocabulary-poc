@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LandManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Land management",
-    "nl": "Landbeheer"
+    "nl": "Landbeheer",
+    "en": "Land management"
   },
   "editorialNote": {
     "en": [
@@ -17,22 +17,22 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
       "prefLabel": {
-        "en": "Water management",
-        "nl": "Waterbeheer"
+        "nl": "Waterbeheer",
+        "en": "Water management"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AgroforestryAndPerennialIntegratedSystems",
       "prefLabel": {
-        "en": "Agroforestry and Perennial-Integrated Systems -",
-        "nl": "Agroforestry en systemen met meerjarige gewassen"
+        "nl": "Agroforestry en systemen met meerjarige gewassen",
+        "en": "Agroforestry and Perennial-Integrated Systems -"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection",
       "prefLabel": {
-        "en": "wildlife protection",
-        "nl": "Bescherming van wilde dieren"
+        "nl": "Bescherming van wilde dieren",
+        "en": "wildlife protection"
       }
     }
   ],
@@ -40,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -54,8 +54,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

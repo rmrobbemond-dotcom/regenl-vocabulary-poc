@@ -2,12 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HolisticGrazing",
   "type": "Concept",
   "prefLabel": {
-    "en": "Holistic grazing",
-    "nl": "Holistisch beweiden"
+    "nl": "Holistisch beweiden",
+    "en": "Holistic grazing"
   },
   "definition": {
-    "en": "similar to rotational grazing but differs in that it more explicitly recognizes and provides a framework for adapting to the four basic ecosystem processes by increasing the recovery time",
-    "nl": "Een adaptieve vorm van beweidingsbeheer waarin graasdruk en herstelperioden worden afgestemd op de toestand van vegetatie, bodem en ecosysteemprocessen."
+    "nl": "Een adaptieve vorm van beweidingsbeheer waarin graasdruk en herstelperioden worden afgestemd op de toestand van vegetatie, bodem en ecosysteemprocessen.",
+    "en": "similar to rotational grazing but differs in that it more explicitly recognizes and provides a framework for adapting to the four basic ecosystem processes by increasing the recovery time"
   },
   "editorialNote": {
     "nl": [
@@ -20,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingSystem",
     "prefLabel": {
-      "en": "grazing system",
-      "nl": "Beweidingssysteem"
+      "nl": "Beweidingssysteem",
+      "en": "grazing system"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

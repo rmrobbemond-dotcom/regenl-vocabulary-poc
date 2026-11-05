@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMeso",
   "type": "Concept",
   "prefLabel": {
-    "en": "keep water levels high",
-    "nl": "Hoge waterstanden handhaven"
+    "nl": "Hoge waterstanden handhaven",
+    "en": "keep water levels high"
   },
   "editorialNote": {
     "en": [
@@ -17,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMicro",
       "prefLabel": {
-        "en": "keep water levels high",
-        "nl": "Hoge waterstanden handhaven"
+        "nl": "Hoge waterstanden handhaven",
+        "en": "keep water levels high"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Paludicultuur",
       "prefLabel": {
-        "en": "paludicultuur",
-        "nl": "Paludicultuur (natte teelt)"
+        "nl": "Paludicultuur (natte teelt)",
+        "en": "paludicultuur"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
     "prefLabel": {
-      "en": "Water management",
-      "nl": "Waterbeheer"
+      "nl": "Waterbeheer",
+      "en": "Water management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

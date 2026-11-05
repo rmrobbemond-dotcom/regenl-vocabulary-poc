@@ -2,15 +2,27 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduction/ limitation of specific  fertilizers",
-    "nl": "Specifieke meststoffen verminderen of beperken"
+    "nl": "Specifieke meststoffen verminderen of beperken",
+    "en": "Reduction/ limitation of specific  fertilizers"
   },
   "definition": {
-    "nl": "Het beperken van de hoeveelheid meststof of het tijdstip waarop bepaalde meststoffen worden toegediend."
+    "nl": "Het beperken van de hoeveelheid meststof of het tijdstip waarop bepaalde meststoffen worden toegediend.",
+    "en": "quantity or time limitation of application"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "nl": [
       "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (en): quantity or time limitation of application",
+      "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction/ limitation of specific  fertilizers'."
     ]
   },
   "notation": [
@@ -20,73 +32,73 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOrganicFertilizers",
       "prefLabel": {
-        "en": "Reduction organic fertilizers",
-        "nl": "Organische bemesting verminderen"
+        "nl": "Organische bemesting verminderen",
+        "en": "Reduction organic fertilizers"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm",
       "prefLabel": {
-        "en": "Minimal use of external fertilizers inputs (from outside the farm)",
-        "nl": "Minimaal gebruik van meststoffen van buiten het bedrijf"
+        "nl": "Minimaal gebruik van meststoffen van buiten het bedrijf",
+        "en": "Minimal use of external fertilizers inputs (from outside the farm)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoExternalFertilizersUsedAsInput",
       "prefLabel": {
-        "en": "No external fertilizers used as input",
-        "nl": "Geen meststoffen van buiten het bedrijf"
+        "nl": "Geen meststoffen van buiten het bedrijf",
+        "en": "No external fertilizers used as input"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingFertilizerUse",
       "prefLabel": {
-        "en": "Reducing fertilizer use",
-        "nl": "Meststoffengebruik verminderen"
+        "nl": "Meststoffengebruik verminderen",
+        "en": "Reducing fertilizer use"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingSysntheticNFerterilizers",
       "prefLabel": {
-        "en": "Reducing sysnthetic N-ferterilizers",
-        "nl": "Gebruik van synthetische stikstofmeststoffen verminderen"
+        "nl": "Gebruik van synthetische stikstofmeststoffen verminderen",
+        "en": "Reducing sysnthetic N-ferterilizers"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RestrictionInQuanityAboveLegalNorms",
       "prefLabel": {
-        "en": "restriction in quanity (above legal norms)",
-        "nl": "Aanvullende beperking van hoeveelheden boven wettelijke normen"
+        "nl": "Aanvullende beperking van hoeveelheden boven wettelijke normen",
+        "en": "restriction in quanity (above legal norms)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RestrictionInTimingAboveLegalNorms",
       "prefLabel": {
-        "en": "restriction in timing (above legal norms)",
-        "nl": "Aanvullende beperking van tijdstip boven wettelijke normen"
+        "nl": "Aanvullende beperking van tijdstip boven wettelijke normen",
+        "en": "restriction in timing (above legal norms)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticFertilizers",
       "prefLabel": {
-        "en": "Reduce synthetic fertilizers",
-        "nl": "Kunstmestgebruik verminderen"
+        "nl": "Kunstmestgebruik verminderen",
+        "en": "Reduce synthetic fertilizers"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FertilizationAndManureManagement",
     "prefLabel": {
-      "en": "fertilization and manure management",
-      "nl": "Bemesting en mestbeheer"
+      "nl": "Bemesting en mestbeheer",
+      "en": "fertilization and manure management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

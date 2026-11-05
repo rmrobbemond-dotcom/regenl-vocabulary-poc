@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Flachenrotte",
   "type": "Concept",
   "prefLabel": {
-    "en": "Flachenrotte",
-    "nl": "Flächenrotte (oppervlakkige compostering)"
+    "nl": "Flächenrotte (oppervlakkige compostering)",
+    "en": "Flachenrotte"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSeedbedPreparation",
     "prefLabel": {
-      "en": "soil - seedbed preparation",
-      "nl": "Bodem- en zaaibedvoorbereiding"
+      "nl": "Bodem- en zaaibedvoorbereiding",
+      "en": "soil - seedbed preparation"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

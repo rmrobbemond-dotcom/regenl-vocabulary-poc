@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvoarable",
   "type": "Concept",
   "prefLabel": {
-    "en": "Silvoarable",
-    "nl": "Bomen gecombineerd met akkerbouw"
+    "nl": "Bomen gecombineerd met akkerbouw",
+    "en": "Silvoarable"
   },
   "altLabel": {
     "en": [
@@ -11,12 +11,22 @@
     ]
   },
   "definition": {
-    "en": "the integration of trees and arable crops on the same field",
-    "nl": "Een agroforestrysysteem waarbij bomen en akkerbouwgewassen op hetzelfde perceel worden gecombineerd."
+    "nl": "De integratie van bomen en akkerbousgewassen op hetzelfde perceel",
+    "en": "the integration of trees and arable crops on the same field"
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "nl": [
       "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    ]
+  },
+  "historyNote": {
+    "nl": [
+      "Voorgaande PoC-definitie (nl): Een agroforestrysysteem waarbij bomen en akkerbouwgewassen op hetzelfde perceel worden gecombineerd."
     ]
   },
   "notation": [
@@ -26,8 +36,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

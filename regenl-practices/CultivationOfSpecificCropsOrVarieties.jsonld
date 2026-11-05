@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CultivationOfSpecificCropsOrVarieties",
   "type": "Concept",
   "prefLabel": {
-    "en": "Cultivation of specific crops or varieties",
-    "nl": "Teelt van specifieke gewassen of rassen"
+    "nl": "Teelt van specifieke gewassen of rassen",
+    "en": "Cultivation of specific crops or varieties"
   },
   "definition": {
     "en": "practices where the farmer is requested to use improved crop varieties and/or certified seeds"
@@ -20,38 +20,38 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DeepRootedSpecies",
       "prefLabel": {
-        "en": "Deep rooted species",
-        "nl": "Diepwortelende soorten"
+        "nl": "Diepwortelende soorten",
+        "en": "Deep rooted species"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DroughtTolerantCrops",
       "prefLabel": {
-        "en": "drought tolerant crops",
-        "nl": "Droogtetolerante gewassen"
+        "nl": "Droogtetolerante gewassen",
+        "en": "drought tolerant crops"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste",
       "prefLabel": {
-        "en": "selection of cultivars on basis of nutritional value and taste",
-        "nl": "Rassenkeuze op basis van voedingswaarde en smaak"
+        "nl": "Rassenkeuze op basis van voedingswaarde en smaak",
+        "en": "selection of cultivars on basis of nutritional value and taste"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropManagament",
     "prefLabel": {
-      "en": "Crop managament",
-      "nl": "Gewasbeheer"
+      "nl": "Gewasbeheer",
+      "en": "Crop managament"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

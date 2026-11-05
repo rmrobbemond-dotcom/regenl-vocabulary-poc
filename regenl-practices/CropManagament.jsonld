@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropManagament",
   "type": "Concept",
   "prefLabel": {
-    "en": "Crop managament",
-    "nl": "Gewasbeheer"
+    "nl": "Gewasbeheer",
+    "en": "Crop managament"
   },
   "editorialNote": {
     "en": [
@@ -17,45 +17,45 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations",
       "prefLabel": {
-        "en": "Extensive crop rotations",
-        "nl": "Ruime vruchtwisseling"
+        "nl": "Ruime vruchtwisseling",
+        "en": "Extensive crop rotations"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops",
       "prefLabel": {
-        "en": "Crop diversification -Cover crops:",
-        "nl": "Gewasdiversificatie met bodembedekkers"
+        "nl": "Gewasdiversificatie met bodembedekkers",
+        "en": "Crop diversification -Cover crops:"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CultivationOfSpecificCropsOrVarieties",
       "prefLabel": {
-        "en": "Cultivation of specific crops or varieties",
-        "nl": "Teelt van specifieke gewassen of rassen"
+        "nl": "Teelt van specifieke gewassen of rassen",
+        "en": "Cultivation of specific crops or varieties"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting",
       "prefLabel": {
-        "en": "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting",
-        "nl": "Gewasdiversificatie met mengteelt, polycultuur en combinatieteelt"
+        "nl": "Gewasdiversificatie met mengteelt, polycultuur en combinatieteelt",
+        "en": "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagement",
     "prefLabel": {
-      "en": "Crop Production Management",
-      "nl": "Gewasproductiebeheer"
+      "nl": "Gewasproductiebeheer",
+      "en": "Crop Production Management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

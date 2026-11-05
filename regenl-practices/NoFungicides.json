@@ -2,11 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFungicides",
   "type": "Concept",
   "prefLabel": {
-    "en": "No fungicides",
-    "nl": "Geen fungiciden"
+    "nl": "Geen fungiciden",
+    "en": "No fungicides"
   },
   "definition": {
+    "nl": "Totaal geen gebruik van fungiciden op het bedrijf. Eventueel wel andere middelen.",
     "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
@@ -19,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "en": "Limitation on the use of plant protection products",
-      "nl": "Beperking van gewasbeschermingsmiddelen"
+      "nl": "Beperking van gewasbeschermingsmiddelen",
+      "en": "Limitation on the use of plant protection products"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

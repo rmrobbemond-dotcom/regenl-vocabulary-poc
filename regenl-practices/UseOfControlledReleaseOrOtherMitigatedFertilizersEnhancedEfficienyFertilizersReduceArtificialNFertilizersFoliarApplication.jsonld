@@ -2,8 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication",
   "type": "Concept",
   "prefLabel": {
-    "en": "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application",
-    "nl": "Gecontroleerd vrijkomende en efficiëntere meststoffen gebruiken"
+    "nl": "Gecontroleerd vrijkomende en efficiëntere meststoffen gebruiken",
+    "en": "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application"
   },
   "editorialNote": {
     "en": [
@@ -16,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticFertilizers",
     "prefLabel": {
-      "en": "Reduce synthetic fertilizers",
-      "nl": "Kunstmestgebruik verminderen"
+      "nl": "Kunstmestgebruik verminderen",
+      "en": "Reduce synthetic fertilizers"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
