@@ -5,6 +5,9 @@
     "en": "No synthetic fertilizer use",
     "nl": "Geen kunstmest"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic fertilizer use'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

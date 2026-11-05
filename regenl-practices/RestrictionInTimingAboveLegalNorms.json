@@ -5,6 +5,9 @@
     "en": "restriction in timing (above legal norms)",
     "nl": "Aanvullende beperking van tijdstip boven wettelijke normen"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in timing (above legal norms)'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

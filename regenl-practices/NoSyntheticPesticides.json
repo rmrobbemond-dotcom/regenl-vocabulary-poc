@@ -5,6 +5,9 @@
     "en": "No synthetic pesticides",
     "nl": "Geen synthetische gewasbeschermingsmiddelen"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

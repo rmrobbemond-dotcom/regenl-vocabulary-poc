@@ -5,6 +5,9 @@
     "en": "Reduce herbicides",
     "nl": "Herbicidengebruik verminderen"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

@@ -5,6 +5,9 @@
     "en": "gypsum",
     "nl": "Gips"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'gypsum'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

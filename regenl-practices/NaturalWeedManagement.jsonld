@@ -5,6 +5,9 @@
     "en": "Natural weed management",
     "nl": "Natuurlijk onkruidbeheer"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural weed management'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

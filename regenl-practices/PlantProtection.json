@@ -5,6 +5,9 @@
     "en": "plant protection",
     "nl": "Gewasbescherming"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'plant protection'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

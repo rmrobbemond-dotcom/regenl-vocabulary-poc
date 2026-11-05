@@ -5,6 +5,9 @@
     "en": "Reduce fungicides",
     "nl": "Fungicidengebruik verminderen"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

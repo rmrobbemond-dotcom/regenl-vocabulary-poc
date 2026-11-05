@@ -5,6 +5,9 @@
     "en": "Soil amendments",
     "nl": "Bodemverbeteraars"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Soil amendments'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

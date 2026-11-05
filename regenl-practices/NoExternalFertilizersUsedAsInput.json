@@ -5,6 +5,9 @@
     "en": "No external fertilizers used as input",
     "nl": "Geen meststoffen van buiten het bedrijf"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No external fertilizers used as input'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

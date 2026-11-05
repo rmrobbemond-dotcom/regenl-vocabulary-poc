@@ -5,6 +5,9 @@
     "en": "Shallow tillage",
     "nl": "Ondiepe grondbewerking"
   },
+  "definition": {
+    "en": "inversion tillage (between e.g. 0.12-0.20m depth)"
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

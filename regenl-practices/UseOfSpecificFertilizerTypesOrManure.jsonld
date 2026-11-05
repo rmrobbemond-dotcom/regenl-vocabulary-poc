@@ -5,6 +5,9 @@
     "en": "use of specific fertilizer types or manure",
     "nl": "Specifieke meststoffen of mesttypen gebruiken"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'use of specific fertilizer types or manure'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."

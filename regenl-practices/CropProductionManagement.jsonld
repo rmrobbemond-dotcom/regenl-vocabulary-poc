@@ -5,6 +5,9 @@
     "en": "Crop Production Management",
     "nl": "Gewasproductiebeheer"
   },
+  "definition": {
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Mega level with label 'Crop Production Management'."
+  },
   "editorialNote": {
     "en": [
       "Definition pending scientific review; no generic placeholder has been inserted."
