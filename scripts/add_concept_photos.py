@@ -46,12 +46,21 @@ js = Path(__file__).with_name('regenl-photos.js').read_text(encoding='utf-8')
 repo = 'regenl-vocabulary-poc'
 script = f'<script defer src="/{repo}/regenl-photos.js"></script>'
 modified = 0
+
 for html_path in public.rglob('*.html'):
     if not html_path.is_file():
-    continue
+        continue
+
     content = html_path.read_text(encoding='utf-8')
+
     if 'regenl-photos.js' not in content and '</body>' in content.lower():
-        content = re.sub(r'</body\s*>', script + '</body>', content, count=1, flags=re.IGNORECASE)
+        content = re.sub(
+            r'</body\s*>',
+            script + '</body>',
+            content,
+            count=1,
+            flags=re.IGNORECASE
+        )
         html_path.write_text(content, encoding='utf-8')
         modified += 1
 
