@@ -21,20 +21,26 @@ vocab:AfforestationReforestationReplantingTrees a skos:Concept ;
         "Bebossing, herbebossing en herplant van bomen"@nl .
 
 vocab:Agroforestry a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Agroforestry.jpg> ;
     skos:broader vocab:TreePlanning ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Agroforestry"@en,
-        "Agroforestry"@nl .
+        "Agroforestry"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agroforestry.jpg?width=960> ;
+    schema:creditText "Foto: NatureDan (CC BY-SA 3.0)."@nl .
 
 vocab:Agrovoltaics a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
     skos:broader vocab:RenewableEnergy ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Agrovoltaics"@en,
-        "Agrovoltaïsche systemen"@nl .
+        "Agrovoltaïsche systemen"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
+    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
 
 vocab:AlternativeBiocontrolProductUse a skos:Concept ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
@@ -61,20 +67,26 @@ vocab:BioInocculantsBiostimulantEffectiveMicroorganismsOrganicBasedPreparations 
         "Microbiële inoculanten, biostimulanten en organische preparaten"@nl .
 
 vocab:Biochar a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Charged_and_inoculated_biochar_ready_for_soil_application.jpg> ;
     skos:broader vocab:SoilAmendments ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "biochar"@en,
-        "Biochar"@nl .
+        "Biochar"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Charged_and_inoculated_biochar_ready_for_soil_application.jpg?width=960> ;
+    schema:creditText "Foto: Tim Brunauer / GIZ (Vrije licentie; controleer bronpagina)."@nl .
 
 vocab:Biodigester a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg> ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Biodigester"@en,
         "Vergistingsinstallatie"@nl ;
-    skos:topConceptOf vocab: .
+    skos:topConceptOf vocab: ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/BiogasDigesterDenmark652021.jpg?width=960> ;
+    schema:creditText "Foto: Paul Gipe (CC BY-SA 4.0)."@nl .
 
 vocab:BiodiversityLanesFieldMarginsSteppingStones05Ha a skos:Concept ;
     skos:broader vocab:FlowerHerbNatureStrips ;
@@ -85,12 +97,15 @@ vocab:BiodiversityLanesFieldMarginsSteppingStones05Ha a skos:Concept ;
         "Biodiversiteitsstroken, akkerranden en stapstenen (meer dan 0,5 ha)"@nl .
 
 vocab:BiodiversitySheltersEGBushes a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
     skos:broader vocab:HabitatProvisionBiodiversityEnhancement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Biodiversity shelters (e.g. bushes)"@en,
-        "Schuilplaatsen voor biodiversiteit (bijvoorbeeld struiken)"@nl .
+        "Schuilplaatsen voor biodiversiteit (bijvoorbeeld struiken)"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
+    schema:creditText "Foto: Stanley Howe (Controleer licentie op Commons)."@nl .
 
 vocab:Biofertilizer a skos:Concept ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
@@ -125,6 +140,7 @@ vocab:CSASelfPickingOnFarmsShops a skos:Concept ;
         "Gemeenschapslandbouw, zelfpluk en boerderijwinkels"@nl .
 
 vocab:CatchCrops a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
     skos:definition "fast growing cover crop, grown between successive plantings of a main crop. \" It scavenges the remaining nitrogen after the main crop is harvested, thereby reducing nutrient losses from leaching\" (for undersow see intercropping)"@en,
         "Een snelgroeiend vanggewas dat tussen opeenvolgende hoofdteelten wordt geteeld en resterende nutriënten, met name stikstof, kan opnemen om uitspoeling te beperken."@nl ;
@@ -132,7 +148,9 @@ vocab:CatchCrops a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Catch crops"@en,
-        "Vanggewassen"@nl .
+        "Vanggewassen"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    schema:creditText "Foto: Hugh Venables (Controleer licentie op Commons)."@nl .
 
 vocab:ChiselPlowingSubsoiling a skos:Concept ;
     skos:broader vocab:NonInversionTillage ;
@@ -201,12 +219,15 @@ vocab:CompostTea a skos:Concept ;
         "Compostthee"@nl .
 
 vocab:CompostUse a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Compost use"@en,
-        "Compostgebruik"@nl .
+        "Compostgebruik"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960> ;
+    schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:ControlledTrafficLanes a skos:Concept ;
     skos:broader vocab:SoilAndMachineryUse ;
@@ -321,12 +342,15 @@ vocab:DragHoseManureSpreading a skos:Concept ;
         "Mest uitrijden met sleepslangen"@nl .
 
 vocab:DripIrrigation a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
     skos:broader vocab:WaterSavingIrrigation ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Nano" ;
     skos:prefLabel "Drip irrigation"@en,
-        "Druppelirrigatie"@nl .
+        "Druppelirrigatie"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
+    schema:creditText "Foto: USDA (Public domain (US federal government))."@nl .
 
 vocab:DroughtTolerantCrops a skos:Concept ;
     skos:broader vocab:CultivationOfSpecificCropsOrVarieties ;
@@ -557,12 +581,15 @@ vocab:InputReductionOfEGAgrochemicalsAndFeed a skos:Concept ;
         "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer"@nl .
 
 vocab:InsectHotels a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg> ;
     skos:broader vocab:HabitatProvisionBiodiversityEnhancement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Insect hotels"@en,
-        "Insectenhotels"@nl .
+        "Insectenhotels"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Insect_hotel.jpg?width=960> ;
+    schema:creditText "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."@nl .
 
 vocab:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
@@ -703,6 +730,7 @@ vocab:MixedFarmingIntegrateLivestock a skos:Concept ;
         "Gemengd bedrijf met geïntegreerde veehouderij"@nl .
 
 vocab:MixedIntercroppingMixedCropping a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
     skos:definition "Mixed cropping is a system of sowing two or more crops mixed together on the same field without any distinct row or strip pattern"@en,
         "Het op hetzelfde perceel gemengd inzaaien of telen van twee of meer gewassen zonder afzonderlijke rijen of stroken."@nl ;
@@ -710,7 +738,9 @@ vocab:MixedIntercroppingMixedCropping a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Mixed intercropping / mixed cropping"@en,
-        "Mengteelt en gewascombinaties"@nl .
+        "Mengteelt en gewascombinaties"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960> ;
+    schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:MobileChickenCoopsMicro a skos:Concept ;
     skos:broader vocab:AnimalHousing ;
@@ -859,12 +889,15 @@ vocab:NoSyntheticPesticides a skos:Concept ;
         "Geen synthetische gewasbeschermingsmiddelen"@nl .
 
 vocab:NoTillageMicro a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:NoTillageMeso ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "No tillage"@en,
-        "Geen grondbewerking"@nl .
+        "Geen grondbewerking"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960> ;
+    schema:creditText "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."@nl .
 
 vocab:NonFarmAndOffFarmEmployment a skos:Concept ;
     skos:broader vocab:PluralactivityWorkBeyondFarm ;
@@ -1198,6 +1231,7 @@ vocab:RotationalGrazing a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:RowIntercropping a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
     skos:definition "two species cultivated in alternate rows"@en,
         "Het gelijktijdig telen van twee gewassen in afwisselende rijen op hetzelfde perceel."@nl ;
@@ -1205,7 +1239,9 @@ vocab:RowIntercropping a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Row intercropping"@en,
-        "Rijenteelten met meerdere gewassen"@nl .
+        "Rijenteelten met meerdere gewassen"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960> ;
+    schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:RuggedVegetation a skos:Concept ;
     skos:broader vocab:HabitatProvisionBiodiversityEnhancement ;
@@ -1298,20 +1334,26 @@ vocab:SinusMowingMosaikMowing a skos:Concept ;
         "Sinusmaaien en mozaïekmaaien"@nl .
 
 vocab:SoilSampling a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
     skos:broader vocab:MeasuringAndMonitoring ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Soil sampling"@en,
-        "Bemonstering van de bodem"@nl .
+        "Bemonstering van de bodem"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
+    schema:creditText "Foto: Alessandro Samuel-rosa (CC0 1.0)."@nl .
 
 vocab:SolarPannels a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Solar pannels"@en,
         "Zonnepanelen"@nl ;
-    skos:topConceptOf vocab: .
+    skos:topConceptOf vocab: ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
+    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
 
 vocab:SolidManure a skos:Concept ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
@@ -1364,6 +1406,7 @@ vocab:StripCropping a skos:Concept ;
         "Strokenteelt"@nl .
 
 vocab:StripGrazing a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Strip_Grazing_at_Merrivale_Farm_-_geograph.org.uk_-_158315.jpg> ;
     skos:broader vocab:GrazingSystem ;
     skos:definition "a rotational grazing method where animals are given access to a narrow strip of pasture using a temporary, movable fence, like electric tape"@en,
         "Een vorm van rotatiebeweiding waarbij dieren met een verplaatsbare afrastering telkens toegang krijgen tot een smalle strook grasland."@nl ;
@@ -1371,7 +1414,9 @@ vocab:StripGrazing a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "strip grazing"@en,
-        "Stripgrazen"@nl .
+        "Stripgrazen"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Strip_Grazing_at_Merrivale_Farm_-_geograph.org.uk_-_158315.jpg?width=960> ;
+    schema:creditText "Foto: Philip Halling (Controleer licentie op Commons)."@nl .
 
 vocab:StripTillage a skos:Concept ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
@@ -1466,12 +1511,15 @@ vocab:TemporaryGrasslandSwardYoungerThan5Years a skos:Concept ;
         "Tijdelijk grasland jonger dan vijf jaar"@nl .
 
 vocab:TreesAndHedgesAsHabitat a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
     skos:broader vocab:HabitatProvisionBiodiversityEnhancement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Trees and hedges as habitat"@en,
-        "Bomen en heggen als leefgebied"@nl .
+        "Bomen en heggen als leefgebied"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
+    schema:creditText "Foto: Stanley Howe (Controleer licentie op Commons)."@nl .
 
 vocab:UnderSowing a skos:Concept ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
@@ -1598,14 +1646,18 @@ vocab:WettedZonesSwalesForMeadowBirds a skos:Concept ;
         "Natte zones en greppels voor weidevogels"@nl .
 
 vocab:WindEnergy a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg> ;
     skos:broader vocab:RenewableEnergy ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Wind energy"@en,
-        "Windenergie"@nl .
+        "Windenergie"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg?width=960> ;
+    schema:creditText "Foto: Geograph contributor (Controleer licentie op Commons)."@nl .
 
 vocab:WinterCoverCrops a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
     skos:definition "cover crops grown to provide vegetative cover of the soil in winter"@en,
         "Groenbedekkers die in de winter aanwezig zijn om de bodem met vegetatie bedekt te houden."@nl ;
@@ -1613,7 +1665,9 @@ vocab:WinterCoverCrops a skos:Concept ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Winter cover crops"@en,
-        "Winterse bodembedekkers"@nl .
+        "Winterse bodembedekkers"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    schema:creditText "Foto: Hugh Venables (Controleer licentie op Commons)."@nl .
 
 vocab:WinterCropsIntermediateCrops a skos:Concept ;
     skos:broader vocab:ExtensiveCropRotations ;
@@ -1883,6 +1937,7 @@ vocab:NoSyntheticFertilizerUse a skos:Concept ;
         "Geen kunstmest"@nl .
 
 vocab:NoTillageMeso a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:SoilManagement ;
     skos:definition "no tillage applied between harvest and sowing. The crop is sown directly into the soil not tilled since the harvest of the previous crop."@en,
         "Een teeltwijze waarbij tussen de oogst en de volgende inzaai geen grondbewerking plaatsvindt en direct in de onbewerkte bodem wordt gezaaid."@nl ;
@@ -1891,7 +1946,9 @@ vocab:NoTillageMeso a skos:Concept ;
     skos:narrower vocab:NoTillageMicro ;
     skos:notation "Meso" ;
     skos:prefLabel "No tillage"@en,
-        "Niet-kerende nulbewerking"@nl .
+        "Niet-kerende nulbewerking"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960> ;
+    schema:creditText "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."@nl .
 
 vocab:NonInversionTillage a skos:Concept ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
@@ -1981,13 +2038,16 @@ vocab:Silvoarable a skos:Concept ;
         "Bomen gecombineerd met akkerbouw"@nl .
 
 vocab:Silvopasture a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
     skos:broader vocab:TreePlanning ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:ShadeTreePlanting ;
     skos:notation "Micro" ;
     skos:prefLabel "Silvopasture"@en,
-        "Bomen gecombineerd met beweiding"@nl .
+        "Bomen gecombineerd met beweiding"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960> ;
+    schema:creditText "Foto: USDA (Public domain (US federal government))."@nl .
 
 vocab:SoilInnoculationWithMicrobiology a skos:Concept ;
     skos:broader vocab:SoilAmendments ;
@@ -2026,13 +2086,16 @@ vocab:UsePerennialsMicro a skos:Concept ;
         "Meerjarige gewassen gebruiken"@nl .
 
 vocab:WaterSavingIrrigation a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
     skos:broader vocab:MinimizeWaterUse ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:DripIrrigation ;
     skos:notation "Micro" ;
     skos:prefLabel "water-saving irrigation"@en,
-        "Waterbesparende irrigatie"@nl .
+        "Waterbesparende irrigatie"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
+    schema:creditText "Foto: USDA (Public domain (US federal government))."@nl .
 
 vocab:AdaptiveMowingManagement a skos:Concept ;
     skos:broader vocab:GrasslandAndGrazing ;
@@ -2145,6 +2208,7 @@ vocab:WildlifeProtection a skos:Concept ;
         "Bescherming van wilde dieren"@nl .
 
 vocab:AgroforestryAndPerennialIntegratedSystems a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Agroforestry.jpg> ;
     skos:broader vocab:LandManagement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2153,7 +2217,9 @@ vocab:AgroforestryAndPerennialIntegratedSystems a skos:Concept ;
         vocab:UsePerennialsMeso ;
     skos:notation "Macro" ;
     skos:prefLabel "Agroforestry and Perennial-Integrated Systems -"@en,
-        "Agroforestry en systemen met meerjarige gewassen"@nl .
+        "Agroforestry en systemen met meerjarige gewassen"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agroforestry.jpg?width=960> ;
+    schema:creditText "Foto: NatureDan (CC BY-SA 3.0)."@nl .
 
 vocab:BioeconomyEnergyEfficiencyAndProduction a skos:Concept ;
     skos:broader vocab:Bioeconomy ;
@@ -2355,6 +2421,7 @@ vocab:WaterManagement a skos:Concept ;
         "Waterbeheer"@nl .
 
 vocab:CropDiversificationCoverCrops a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropManagament ;
     skos:definition "the inclusion of plants grown for agronomic or environmental purposes in addition to the main crop on a land management unit"@en,
         "Het telen van een aanvullend gewas voor landbouwkundige of milieukundige doeleinden naast of tussen de hoofdteelten."@nl ;
@@ -2367,7 +2434,9 @@ vocab:CropDiversificationCoverCrops a skos:Concept ;
         vocab:WinterCoverCrops ;
     skos:notation "Meso" ;
     skos:prefLabel "Crop diversification -Cover crops:"@en,
-        "Gewasdiversificatie met bodembedekkers"@nl .
+        "Gewasdiversificatie met bodembedekkers"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    schema:creditText "Foto: Hugh Venables (Controleer licentie op Commons)."@nl .
 
 vocab:FertilizationAndManureManagement a skos:Concept ;
     skos:broader vocab:CropProductionManagement ;
@@ -2411,6 +2480,7 @@ vocab:SoilSeedbedPreparation a skos:Concept ;
         "Bodem- en zaaibedvoorbereiding"@nl .
 
 vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting a skos:Concept ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropManagament ;
     skos:definition "Intercropping consists of growing several crops (annual or perennial) simultaneously in the same field for a significant amount of time, each crop developing and growing according to its physiology."@en,
         "Het gedurende een overlappende groeiperiode gelijktijdig telen van meerdere gewassen op hetzelfde perceel."@nl ;
@@ -2424,7 +2494,9 @@ vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting 
         vocab:UnderSowing ;
     skos:notation "Meso" ;
     skos:prefLabel "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting"@en,
-        "Gewasdiversificatie met mengteelt, polycultuur en combinatieteelt"@nl .
+        "Gewasdiversificatie met mengteelt, polycultuur en combinatieteelt"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960> ;
+    schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:FarmCitizenInteractions a skos:Concept ;
     skos:broader vocab:PeopleManagement ;
