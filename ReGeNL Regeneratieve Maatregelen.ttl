@@ -1,0 +1,2164 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix regenl: <https://regenl.org/ontology/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+regenl:AddingWaterToSlurryManure a skos:Concept ;
+    skos:broader regenl:SpecificFertilizerApplicationTechniques ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Adding water to slurry manure'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Adding water to slurry manure"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:AfforestationReforestationReplantingTrees a skos:Concept ;
+    skos:broader regenl:Reforestation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Afforestation, Reforestation, replanting trees"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Agroforestry a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Agroforestry"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Agrovoltaics a skos:Concept ;
+    skos:broader regenl:RenewableEnergy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Agrovoltaics"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:AlternativeBiocontrolProductUse a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Alternative biocontrol product use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Alternative biocontrol product use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ApplicationMachinesWithLowerAxelweight10TonsAxle a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Application machines with lower axelweight (<10 tons/axle)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:BioInocculantsBiostimulantEffectiveMicroorganismsOrganicBasedPreparations a skos:Concept ;
+    skos:broader regenl:SoilInnoculationWithMicrobiology ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Bio inocculants; Biostimulant; Effective microorganisms; Organic-based preparations"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:Biochar a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'biochar'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "biochar"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Biodigester a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Biodigester"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:BiodiversityLanesFieldMarginsSteppingStones05Ha a skos:Concept ;
+    skos:broader regenl:FlowerHerbNatureStrips ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "biodiversity lanes; field margins; stepping stones (> 0.5 ha)"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:BiodiversitySheltersEGBushes a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Biodiversity shelters (e.g. bushes)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Biofertilizer a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Biofertilizer'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Biofertilizer"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:BirdAndBatBoxes a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Bird and bat boxes"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:BreakPeriodInTheRotation a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Break period in the rotation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CSASelfPickingOnFarmsShops a skos:Concept ;
+    skos:broader regenl:FormsOfDirectFoodProvisioning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "CSA, self-picking, on-farms shops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CatchCrops a skos:Concept ;
+    skos:broader regenl:CropDiversificationCoverCrops ;
+    skos:definition "fast growing cover crop, grown between successive plantings of a main crop. \" It scavenges the remaining nitrogen after the main crop is harvested, thereby reducing nutrient losses from leaching\" (for undersow see intercropping)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Catch crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ChiselPlowingSubsoiling a skos:Concept ;
+    skos:broader regenl:NonInversionTillage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "chisel plowing, subsoiling"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:ClimateAndLightControl a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "climate and light control"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CollectiveBrand a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Collective brand"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CollectiveProssesing a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Collective prossesing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CommunityBasedSupportedAgriculture a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Community based/supported agriculture"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CompartmentedContinousGrazingNewNederlandsWeiden a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "(CCG) is a daily rotational grazing system where a pasture is divided into multiple compartments, and livestock are moved to a new compartment each day"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "compartmented continous grazing (New nederlands weiden)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes a skos:Concept ;
+    skos:broader regenl:FormalLearning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "(Competence) development opportunities at public educational institutes"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CompostTea a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost tea'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Compost tea"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CompostUse a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Compost use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ControlledTrafficLanes a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Controlled traffic lanes"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ControlledTrafficLanesPerSeason a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Controlled traffic lanes per season"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CropRotation a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Crop rotation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CrowdfundingZoopSharesTimebankingOfLabour a skos:Concept ;
+    skos:broader regenl:NewFormsOfAccessToLandLabourCapital ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Crowdfunding, zoop, shares, timebanking of labour"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DeepRootedSpecies a skos:Concept ;
+    skos:broader regenl:CultivationOfSpecificCropsOrVarieties ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Deep rooted species"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DelayedMowingDateForBirdProtection a skos:Concept ;
+    skos:broader regenl:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "delayed mowing date for bird protection"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:DepeningOnTheNeedOfTheCropLesOrLessOften a skos:Concept ;
+    skos:broader regenl:SpecificFertilizerApplicationTechniques ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Depening on the need of the crop (les or less often)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DifferentTypesOfClients a skos:Concept ;
+    skos:broader regenl:GreenCare ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Different types of clients"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Digestate a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'digestate'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "digestate"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DirectOnfarmAndCollectiveFormsOfSales a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Direct onfarm and collective forms of sales"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DirectSeeding a skos:Concept ;
+    skos:broader regenl:SoilSeedbedPreparation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Direct seeding"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Ditches a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Ditches"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DiversifiedCropRotation a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "diversified crop rotation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DragHoseManureSpreading a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Drag hose manure spreading"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DripIrrigation a skos:Concept ;
+    skos:broader regenl:WaterSavingIrrigation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Drip irrigation"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:DroughtTolerantCrops a skos:Concept ;
+    skos:broader regenl:CultivationOfSpecificCropsOrVarieties ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "drought tolerant crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DryFarming a skos:Concept ;
+    skos:broader regenl:MinimizeWaterUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Dry farming"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:EGAnimalManure a skos:Concept ;
+    skos:broader regenl:ReductionOrganicFertilizers ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "(e.g. animal manure)"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:EcoPlough a skos:Concept ;
+    skos:broader regenl:ShallowTillage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "eco plough"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:EcosystemservicePaymentsFromGovernment a skos:Concept ;
+    skos:broader regenl:IncomeBroadeningPaymentsForEcosystemServices ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Ecosystemservice payments from government"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ExtendedGrazingTimeMinimumOf1500HoursYear a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Extended grazing time: minimum of 1500 hours/year"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Extended grazing time: minimum of 720 hours/year (maximum of 1500 hours per year)"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ExtensiveSpeciesRichGrassland a skos:Concept ;
+    skos:broader regenl:GrasslandTypeEnhancedSpeciesRichness ;
+    skos:definition "> 15 grasses and herbs per  25 m2"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "extensive species rich grassland"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:FaciliateFarmVisits a skos:Concept ;
+    skos:broader regenl:FarmEducation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Faciliate 'farm visits'"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Flachenrotte a skos:Concept ;
+    skos:broader regenl:SoilSeedbedPreparation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Flachenrotte"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:FoliarFertilizerUse a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Foliar fertilizer use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Foliar fertilizer use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:FoodForest a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Food forest"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:FoodPurchasingByCitizensCooperatives a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Food purchasing by citizens cooperatives"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Food_crops_only a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Food crops only"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ForestConservation a skos:Concept ;
+    skos:broader regenl:Reforestation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Forest conservation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:GrazingGeneral a skos:Concept ;
+    skos:broader regenl:GrazingManagement ;
+    skos:definition "for the label \"weidemelk\" the minimum grazing period is 120 days for 6 hours a day, addional payments if grazing is extended"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Grazing (general)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:GrazingTrainingOfYoungstock a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "training of youngstock improves immunity and grass intake"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "grazing training of youngstock"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:GreenManureUse a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Green manure use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Green manure use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Gypsum a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'gypsum'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "gypsum"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:HaveAMinimumRotationLengthOf6YearsFallow a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "have a minimum rotation length of 6 years/ fallow"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:HolisticGrazing a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "similar to rotational grazing but differs in that it more explicitly recognizes and provides a framework for adapting to the four basic ecosystem processes by increasing the recovery time"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Holistic grazing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:HugelkulturRaisedBeds a skos:Concept ;
+    skos:broader regenl:SoilSeedbedPreparation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Hügelkultur/ raised beds"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:HumanureComposting a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Humanure composting'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Humanure composting"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions a skos:Concept ;
+    skos:broader regenl:BuildingForEmissionReduction ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Implement housing system to seperate manure and urine in solid and liquid fractions"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:IncomeBroadeningMicro a skos:Concept ;
+    skos:broader regenl:IncomeBroadeningMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Income broadening"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:IncorperatingCropResidues a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Incorperating crop residues'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Incorperating crop residues"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:InfiltrationChannels a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Infiltration channels"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:InputReductionOfEGAgrochemicalsAndFeed a skos:Concept ;
+    skos:broader regenl:IndividualAndCollectiveFormsOfCostReducingMeasures ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Input reduction of e.g. agrochemicals and feed"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:InsectHotels a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Insect hotels"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated pest management principles (IPM)'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Integrated pest management principles (IPM)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:IntegratedWeedManagement a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated weed management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Integrated weed management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:KeepLivingRoots a skos:Concept ;
+    skos:broader regenl:SoilSeedbedPreparation ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Keep living roots"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:KeepWaterLevelsHighMicro a skos:Concept ;
+    skos:broader regenl:KeepWaterLevelsHighMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "keep water levels high"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:LegumesNFixingPlantsInOration a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Legumes (N-fixing plants) in oration"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:LocalOrNativeCropAndAnimalSpecies a skos:Concept ;
+    skos:broader regenl:NativeCropAndAnimalSpecies ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Local or native crop and animal species"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:LocalOrRegionalCollaborationBetweenSectorsEGCropLivestock a skos:Concept ;
+    skos:broader regenl:ResourceSharingCollaborationBetweenArableProductionAndDairy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Local or regional collaboration between sectors (e.g. crop-livestock)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MOBGrazing a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "high denisty grazing, a grazing management system where a large herd of livestock grazes a small area for a short period, followed by a long rest period for the pasture to recover"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "MOB grazing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ManureSampleAnalysis a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Manure sample analysis"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MechanicalPestManagement a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical pest management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mechanical pest management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MechanicalWeedManagement a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical weed management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mechanical weed management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Minimal use of external fertilizers inputs (from outside the farm)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MinimizeIrrigation a skos:Concept ;
+    skos:broader regenl:MinimizeWaterUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Minimize irrigation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MinimizeTractorUse a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Minimize tractor use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation a skos:Concept ;
+    skos:broader regenl:ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "minimum grazing period; no or restricted grazing; grazing livestock density limitation"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:MinimumTillage a skos:Concept ;
+    skos:broader regenl:ReduceTillageMinimalTillage ;
+    skos:definition "tillage only in spots where plants are seeded"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Minimum tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MixedFarmingIntegrateLivestock a skos:Concept ;
+    skos:broader regenl:ResourceSharingCollaborationBetweenArableProductionAndDairy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mixed farming / integrate livestock"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MixedIntercroppingMixedCropping a skos:Concept ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:definition "Mixed cropping is a system of sowing two or more crops mixed together on the same field without any distinct row or strip pattern"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mixed intercropping / mixed cropping"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MobileChickenCoopsMicro a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mobile chicken coops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MobileChickenCoopsNano a skos:Concept ;
+    skos:broader regenl:OutdoorAccess ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Mobile chicken coops"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:MonitoringOfAnimalWelfare a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "monitoring of animal welfare"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MoreEfficientFertilizerAplication a skos:Concept ;
+    skos:broader regenl:SpecificFertilizerApplicationTechniques ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'More efficient fertilizer aplication'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "More efficient fertilizer aplication"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:MultispeciesCoverCrops a skos:Concept ;
+    skos:broader regenl:CropDiversificationCoverCrops ;
+    skos:definition "More then 1 different types of species of cover crops are sown (eg. Combination of combination of annual grasses, brassicas, and legumes)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Multispecies cover crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NativeTrees a skos:Concept ;
+    skos:broader regenl:NativeCropAndAnimalSpecies ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Native trees"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NaturalBufferZones a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Natural buffer zones"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NaturalPestManagement a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Natural pest management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NaturalWaterHarvesting a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Natural water harvesting"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NaturalWeedManagement a skos:Concept ;
+    skos:broader regenl:NonChemicalControlWeedsPestsAndDiseases ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural weed management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Natural weed management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoExternalFertilizersUsedAsInput a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No external fertilizers used as input'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No external fertilizers used as input"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoFertilizationAlongsideOpenWater a skos:Concept ;
+    skos:broader regenl:SpecificFertilizerApplicationTechniques ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fertilization alongside open water'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No fertilization alongside open water"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoFungicides a skos:Concept ;
+    skos:broader regenl:LimitationOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No fungicides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoHeavyMachinery a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No heavy machinery"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoHerbicides a skos:Concept ;
+    skos:broader regenl:LimitationOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No herbicides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No herbicides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoInsecticides a skos:Concept ;
+    skos:broader regenl:LimitationOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No insecticides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No insecticides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoResidualStreams a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No residual streams"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoSyntheticPesticides a skos:Concept ;
+    skos:broader regenl:LimitationOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No synthetic pesticides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoTillageMicro a skos:Concept ;
+    skos:broader regenl:NoTillageMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "No tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NonFarmAndOffFarmEmployment a skos:Concept ;
+    skos:broader regenl:PluralactivityWorkBeyondFarm ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "non-farm and off-farm employment"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NutrientManagementPlan a skos:Concept ;
+    skos:broader regenl:DiagnosisAndManagementPlansMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "nutrient management plan"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:OnFarmProcessing a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "On-farm processing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:OnlyUseMachineryOnDryPeriods a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "only use machinery on dry periods"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties a skos:Concept ;
+    skos:broader regenl:CommunityEngagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Organise activities for the local community (e.g. participation evenings, workshops, parties)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Paludicultuur a skos:Concept ;
+    skos:broader regenl:KeepWaterLevelsHighMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "paludicultuur"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ParticipationInCollectivesNetworksOrBoardsEGWaterboardPolitics a skos:Concept ;
+    skos:broader regenl:RepresentationOfFarmers ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Participation in collectives, networks or boards (e.g. waterboard, politics)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ParticipationInStudyGroupsReconsideringHumanNonhumanRelations a skos:Concept ;
+    skos:broader regenl:InformalLearning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Participation in study groups, (reconsidering human-nonhuman relations)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Permaculture a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Permaculture"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PermanentGrasslandSwardAtLeast5YearsOldRenewedWithin15years a skos:Concept ;
+    skos:broader regenl:GrasslandTypeSwardAge ;
+    skos:definition "see definition permanent grassland types"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "permanent grassland sward  at least 5 years old renewed within 15years"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PermanentGrasslandSwardOlderThan15Year a skos:Concept ;
+    skos:broader regenl:GrasslandTypeSwardAge ;
+    skos:definition "see definition permanent grassland types"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "permanent grassland sward older than 15 year"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PermanentGrasslandSwardRegularyRenewedWithinThe5Years a skos:Concept ;
+    skos:broader regenl:GrasslandTypeSwardAge ;
+    skos:definition "see definition permanent grassland types"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "permanent grassland sward regulary renewed within the 5 years"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PermanentGrasslandTreesHedges a skos:Concept ;
+    skos:broader regenl:UsePerennialsMicro ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "permanent grassland, trees, hedges"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:PermanentGreeningGreenCoverOnPermanentCrops a skos:Concept ;
+    skos:broader regenl:CropDiversificationCoverCrops ;
+    skos:definition "vegetative cover in orchards and vineyard. This can be between the rows, under the tree crowns or with other patterns"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Permanent greening / green cover on permanent crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PermanentVegetationAtBordersDitchCleaningBaggerenPreventLivestockAccessToWaterways a skos:Concept ;
+    skos:broader regenl:EcologicalWaterwayAndDitchManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "permanent vegetation at borders; ditch cleaning (baggeren); Prevent livestock access to waterways"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:PesticidesManagementPlan a skos:Concept ;
+    skos:broader regenl:DiagnosisAndManagementPlansMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "pesticides management plan"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PlantJuiceAnalysis a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Plant juice analysis"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PlantingShadeTrees a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Planting shade trees"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Pond a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Pond"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PreparationMadeFromOrganicMaterials a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Preparation made from organic materials'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Preparation made from organic materials"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PrivateBrand a skos:Concept ;
+    skos:broader regenl:IncomeDeepeningIncreasingAddedValueOfProduct ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Private brand"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ProductiveMultispeciesSward a skos:Concept ;
+    skos:broader regenl:GrasslandTypeEnhancedSpeciesRichness ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "productive multispecies sward"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ProtectNativeSpecies a skos:Concept ;
+    skos:broader regenl:NativeCropAndAnimalSpecies ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Protect native species"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ProvideCareFarming a skos:Concept ;
+    skos:broader regenl:IncomeBroadeningMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Provide care farming"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RainfedSystem a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Rainfed system"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceDependencyOnFossilFuel a skos:Concept ;
+    skos:broader regenl:RenewableEnergy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce dependency on fossil fuel"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceFungicides a skos:Concept ;
+    skos:broader regenl:ReductionOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce fungicides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceHeavyMachinery a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce heavy machinery"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceHerbicides a skos:Concept ;
+    skos:broader regenl:ReductionOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce herbicides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceInsecticides a skos:Concept ;
+    skos:broader regenl:ReductionOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce insecticides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce insecticides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceMechanizationManualLowTechFarming a skos:Concept ;
+    skos:broader regenl:SoilAndMachineryUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce mechanization, Manual/low tech farming"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceSyntheticPesticides a skos:Concept ;
+    skos:broader regenl:ReductionOnTheUseOfPlantProtectionProducts ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic pesticides'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce synthetic pesticides"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReduceWaterUse a skos:Concept ;
+    skos:broader regenl:MinimizeWaterUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reduce water use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReducingFertilizerUse a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing fertilizer use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reducing fertilizer use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReducingSysntheticNFerterilizers a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing sysnthetic N-ferterilizers'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Reducing sysnthetic N-ferterilizers"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RelayIntercropping a skos:Concept ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:definition "Type of intercropping where the species overlap only for a portion of their growth duration"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Relay intercropping"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RemoteSensingMonitoring a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Remote sensing monitoring"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RestrictionInQuanityAboveLegalNorms a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in quanity (above legal norms)'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "restriction in quanity (above legal norms)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RestrictionInTimingAboveLegalNorms a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in timing (above legal norms)'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "restriction in timing (above legal norms)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RotationalGrazing a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "use more than one paddock in a pasture to restrict livestock grazing to a certain area"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "rotational grazing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RowIntercropping a skos:Concept ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:definition "two species cultivated in alternate rows"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Row intercropping"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RuggedVegetation a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "rugged vegetation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SatelliteImageryAndMonitoring a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Satellite imagery and monitoring"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste a skos:Concept ;
+    skos:broader regenl:CultivationOfSpecificCropsOrVarieties ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "selection of cultivars on basis of nutritional value and taste"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SelfSufficiency a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Self-sufficiency"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ShadeTreePlanting a skos:Concept ;
+    skos:broader regenl:Silvopasture ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "shade tree planting"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:ShallowNonInversionTillage a skos:Concept ;
+    skos:broader regenl:ReduceTillageMinimalTillage ;
+    skos:definition "non-inversion tillage until e.g. maximum 0.06m depth"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Shallow non-inversion tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital a skos:Concept ;
+    skos:broader regenl:IndividualAndCollectiveFormsOfCostReducingMeasures ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SheepWoolFertilizer a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Sheep wool fertilizer"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Shells a skos:Concept ;
+    skos:broader regenl:Liming ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "shells"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:SilageFeedSampleAnalysis a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Silage/feed sample analysis"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SinusMowingMosaikMowing a skos:Concept ;
+    skos:broader regenl:DiversificationOfMowingActivitiesOnFieldAndFarmScale ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "sinus mowing, mosaik mowing,"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:SoilSampling a skos:Concept ;
+    skos:broader regenl:MeasuringAndMonitoring ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Soil sampling"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SolarPannels a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Solar pannels"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SolidManure a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'solid manure'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "solid manure"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SpaceForTheAnimalsToSleepAndRest a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "space for the animals to sleep and rest"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Standweide a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "standweide"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SteppingStones05Ha a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "stepping stones (> 0.5 ha)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:StoneFlowerZelolith a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Stone flower, Zelolith'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Stone flower, Zelolith"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:StripCropping a skos:Concept ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:definition "two or more species cultivated in alternative strips and at least one strip includes more than one row"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Strip cropping"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:StripGrazing a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "a rotational grazing method where animals are given access to a narrow strip of pasture using a temporary, movable fence, like electric tape"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "strip grazing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:StripTillage a skos:Concept ;
+    skos:broader regenl:ReduceTillageMinimalTillage ;
+    skos:definition "tillage in a narrow band (e.g. 0.15-0.30m)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Strip tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:StubbleRetentionIncorporateCropResiduesLeftoverPruningMaterialIncorporateStrawUseGreenCompostGreenManure a skos:Concept ;
+    skos:broader regenl:MulchingWithCropResidues ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Stubble retention; Incorporate crop residues; Leftover pruning material; Incorporate straw; Use green compost ; green manure"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:SubsurfaceDrainage a skos:Concept ;
+    skos:broader regenl:MaintainWaterlevelsConstant ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "subsurface drainage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SuitableMaterialForAnimalBedding a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "suitable material for animal bedding"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SummerCoverCrops a skos:Concept ;
+    skos:broader regenl:CropDiversificationCoverCrops ;
+    skos:definition "Cover crops grown to provide vegetative cover of the soil in summer"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Summer cover crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SustainabilityCertificationEGOrganicBiodynamicOnTheWayTo a skos:Concept ;
+    skos:broader regenl:IncomeBroadeningPaymentsForEcosystemServices ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "(Sustainability) certification (e.g. organic, biodynamic, on the way to...)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SustainabilityPaymentsByChainPartners a skos:Concept ;
+    skos:broader regenl:IncomeBroadeningPaymentsForEcosystemServices ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Sustainability payments by chain partners"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Swales a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Swales"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SyntheticFertilizer a skos:Concept ;
+    skos:broader regenl:NoSyntheticFertilizerUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "synthetic fertilizer"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:SyntropicFarming a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Syntropic farming"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:TemporaryGrasslandSwardYoungerThan5Years a skos:Concept ;
+    skos:broader regenl:GrasslandTypeSwardAge ;
+    skos:definition "see definition permanent grassland types"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "temporary grassland , sward younger than 5 years"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:TreesAndHedgesAsHabitat a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Trees and hedges as habitat"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UnderSowing a skos:Concept ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:definition "catch crop (see also cover crops), grown partly at the same time as the main crop"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Under sowing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UseBreakCrops a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Use break crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UseLocalInputs a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Use local inputs"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UseOfBokashi a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Use of bokashi'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Use of bokashi"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication a skos:Concept ;
+    skos:broader regenl:ReduceSyntheticFertilizers ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:UseOfResidualMaterials a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Use of residual materials"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UsingOrganicFertilizers a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Using organic fertilizers'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Using organic fertilizers"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Vermicompost a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Vermicompost'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Vermicompost"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:VoisinRationalGrazing a skos:Concept ;
+    skos:broader regenl:GrazingSystem ;
+    skos:definition "VRG can be defined as a rational method for managing the soil–plant–animal complex through direct grazing and well-planned pasture rotation. the VRG follows four principles (1ste. recovery period, occupation, maximum performance, regualr performance)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Voisin rational grazing"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WalkingTrailsOnFarmLandCamping a skos:Concept ;
+    skos:broader regenl:Agrotourism ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Walking trails on farm land, camping,"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WaterBuffers a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Water buffers"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WaterFiltration a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Water filtration"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WaterManagementPlan a skos:Concept ;
+    skos:broader regenl:DiagnosisAndManagementPlansMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "water management plan"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WaterReservoirs a skos:Concept ;
+    skos:broader regenl:WaterStorage ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Water reservoirs"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WettedZonesSwalesForMeadowBirds a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Wetted zones/swales (for meadow birds)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WindEnergy a skos:Concept ;
+    skos:broader regenl:RenewableEnergy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Wind energy"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WinterCoverCrops a skos:Concept ;
+    skos:broader regenl:CropDiversificationCoverCrops ;
+    skos:definition "cover crops grown to provide vegetative cover of the soil in winter"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Winter cover crops"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WinterCropsIntermediateCrops a skos:Concept ;
+    skos:broader regenl:ExtensiveCropRotations ;
+    skos:definition "a cash crops grown (in winter) between two main crops"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Winter crops / intermediate crops:"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WoodBioplastics a skos:Concept ;
+    skos:broader regenl:UseOfNaturalRenewableResources ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "wood, bioplastics"@en ;
+    regenl:has_classification_level regenl:Nano .
+
+regenl:WoodChips a skos:Concept ;
+    skos:broader regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Wood chips'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Wood chips"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Agrotourism a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:WalkingTrailsOnFarmLandCamping ;
+    skos:prefLabel "Agrotourism"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:Bioeconomy a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BioeconomyEnergyEfficiencyAndProduction ;
+    skos:prefLabel "Bioeconomy"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:BuildingForEmissionReduction a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions ;
+    skos:prefLabel "building for emission reduction"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:CommunityEngagement a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties ;
+    skos:prefLabel "Community engagement"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:CropProductionManagementGrasslandManagement a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:GrasslandAndGrazing ;
+    skos:prefLabel "Crop production management : grassland management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly a skos:Concept ;
+    skos:broader regenl:AdaptiveMowingManagement ;
+    skos:definition "diversification of mowing activitiesfarm scale to benefit biodiversity"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DelayedMowingDateForBirdProtection ;
+    skos:prefLabel "delayed mowing date for meadow bird protection ( 15 June) or botanical protection (July)"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:DiversificationOfMowingActivitiesOnFieldAndFarmScale a skos:Concept ;
+    skos:broader regenl:AdaptiveMowingManagement ;
+    skos:definition "diversification of mowing activities on field and farm scale to benefit biodiversity and improve connectivity of habitats"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:SinusMowingMosaikMowing ;
+    skos:prefLabel "diversification of mowing activities on field and farm scale"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:EcologicalWaterwayAndDitchManagement a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:PermanentVegetationAtBordersDitchCleaningBaggerenPreventLivestockAccessToWaterways ;
+    skos:prefLabel "Ecological waterway and ditch management"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages ;
+    skos:prefLabel "extensification of grazing management  - adaptive grazing management method"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:FarmEducation a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:FaciliateFarmVisits ;
+    skos:prefLabel "Farm education"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:FinancialManagement a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:FarmSocioEconomicManagement ;
+    skos:prefLabel "Financial management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:FlowerHerbNatureStrips a skos:Concept ;
+    skos:broader regenl:HabitatProvisionBiodiversityEnhancement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BiodiversityLanesFieldMarginsSteppingStones05Ha ;
+    skos:prefLabel "Flower/herb/nature strips"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:FormalLearning a skos:Concept ;
+    skos:broader regenl:RegenerativeCapacityClassificationElement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes ;
+    skos:prefLabel "formal learning"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:FormsOfDirectFoodProvisioning a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CSASelfPickingOnFarmsShops ;
+    skos:prefLabel "Forms of direct food provisioning"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:GrazingManagement a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:GrazingGeneral ;
+    skos:prefLabel "grazing management"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:GreenCare a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DifferentTypesOfClients ;
+    skos:prefLabel "Green care"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:InformalLearning a skos:Concept ;
+    skos:broader regenl:RegenerativeCapacityClassificationElement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ParticipationInStudyGroupsReconsideringHumanNonhumanRelations ;
+    skos:prefLabel "Informal learning"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:InfraAndEquipmentManagement a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DiagnosisAndManagementPlansMacro ;
+    skos:prefLabel "Infra and equipment management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:Liming a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Liming'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Shells ;
+    skos:prefLabel "Liming"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:LimitationOfSpecificFertilizers a skos:Concept ;
+    skos:broader regenl:FertilizationAndManureManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation of specific fertilizers'."@en,
+        "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NoSyntheticFertilizerUse ;
+    skos:prefLabel "Limitation of specific fertilizers"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:LivestockManagementAnimalHusbandryMacro a skos:Concept ;
+    skos:broader regenl:LivestockManagementAnimalHusbandryMega ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AnimalHousing ;
+    skos:prefLabel "Livestock management / animal husbandry"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:LivestockManagementAnimalHusbandryMega a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:LivestockManagementAnimalHusbandryMacro ;
+    skos:prefLabel "Livestock management / animal husbandry"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:MaintainWaterlevelsConstant a skos:Concept ;
+    skos:broader regenl:WaterManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:SubsurfaceDrainage ;
+    skos:prefLabel "maintain waterlevels constant"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:MulchingWithCropResidues a skos:Concept ;
+    skos:broader regenl:SoilSeedbedPreparation ;
+    skos:definition "leaving or applying crop residues on the soil"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:StubbleRetentionIncorporateCropResiduesLeftoverPruningMaterialIncorporateStrawUseGreenCompostGreenManure ;
+    skos:prefLabel "Mulching with crop residues"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NewFormsOfAccessToLandLabourCapital a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CrowdfundingZoopSharesTimebankingOfLabour ;
+    skos:prefLabel "New forms of access to  land, labour, capital"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:NoSyntheticFertilizerUse a skos:Concept ;
+    skos:broader regenl:LimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic fertilizer use'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:SyntheticFertilizer ;
+    skos:prefLabel "No synthetic fertilizer use"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:NoTillageMeso a skos:Concept ;
+    skos:broader regenl:SoilManagement ;
+    skos:definition "no tillage applied between harvest and sowing. The crop is sown directly into the soil not tilled since the harvest of the previous crop."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NoTillageMicro ;
+    skos:prefLabel "No tillage"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:NonInversionTillage a skos:Concept ;
+    skos:broader regenl:ReduceTillageMinimalTillage ;
+    skos:definition "loosens and aerates the soil without turning it over, preserving surface residues and maintaining soil structure"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ChiselPlowingSubsoiling ;
+    skos:prefLabel "Non-inversion tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:OutdoorAccess a skos:Concept ;
+    skos:broader regenl:AnimalHousing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:MobileChickenCoopsNano ;
+    skos:prefLabel "outdoor access"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:PluralactivityWorkBeyondFarm a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NonFarmAndOffFarmEmployment ;
+    skos:prefLabel "Pluralactivity - work beyond farm"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ReduceSyntheticFertilizers a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic fertilizers'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication ;
+    skos:prefLabel "Reduce synthetic fertilizers"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages a skos:Concept ;
+    skos:broader regenl:ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod ;
+    skos:definition "for the ecoregeling , additional payment 2500 hours in 120 days max 3 LU per ha (huiskavel), 1500 hours in 120 days  max 5 LU ha ( huiskavel), for ALNb depending on the region as restriction in the number of LU per grassland site can be restricted"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation ;
+    skos:prefLabel "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:ReductionOrganicFertilizers a skos:Concept ;
+    skos:broader regenl:ReductionLimitationOfSpecificFertilizers ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:EGAnimalManure ;
+    skos:prefLabel "Reduction organic fertilizers"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:RepresentationOfFarmers a skos:Concept ;
+    skos:broader regenl:FarmCitizenInteractions ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ParticipationInCollectivesNetworksOrBoardsEGWaterboardPolitics ;
+    skos:prefLabel "Representation of farmers"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ShallowTillage a skos:Concept ;
+    skos:broader regenl:ReduceTillageMinimalTillage ;
+    skos:definition "inversion tillage (between e.g. 0.12-0.20m depth)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:EcoPlough ;
+    skos:prefLabel "Shallow tillage"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Silvoarable a skos:Concept ;
+    skos:altLabel "silvoarable"@en ;
+    skos:broader regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting,
+        regenl:TreePlanning ;
+    skos:definition "the integration of trees and arable crops on the same field"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:prefLabel "Silvoarable"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:Silvopasture a skos:Concept ;
+    skos:broader regenl:TreePlanning ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ShadeTreePlanting ;
+    skos:prefLabel "Silvopasture"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:SoilInnoculationWithMicrobiology a skos:Concept ;
+    skos:broader regenl:SoilAmendments ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Soil innoculation with microbiology'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BioInocculantsBiostimulantEffectiveMicroorganismsOrganicBasedPreparations ;
+    skos:prefLabel "Soil innoculation with microbiology"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UseOfNaturalRenewableResources a skos:Concept ;
+    skos:broader regenl:ReduceExternalInputs ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:WoodBioplastics ;
+    skos:prefLabel "Use of natural/renewable resources"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:UsePerennialsMeso a skos:Concept ;
+    skos:broader regenl:AgroforestryAndPerennialIntegratedSystems ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:UsePerennialsMicro ;
+    skos:prefLabel "Use perennials"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:UsePerennialsMicro a skos:Concept ;
+    skos:broader regenl:UsePerennialsMeso ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:PermanentGrasslandTreesHedges ;
+    skos:prefLabel "Use perennials"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:WaterSavingIrrigation a skos:Concept ;
+    skos:broader regenl:MinimizeWaterUse ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DripIrrigation ;
+    skos:prefLabel "water-saving irrigation"@en ;
+    regenl:has_classification_level regenl:Micro .
+
+regenl:AdaptiveMowingManagement a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly,
+        regenl:DiversificationOfMowingActivitiesOnFieldAndFarmScale ;
+    skos:prefLabel "adaptive mowing management"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:DiagnosisAndManagementPlansMacro a skos:Concept ;
+    skos:broader regenl:InfraAndEquipmentManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DiagnosisAndManagementPlansMeso,
+        regenl:MeasuringAndMonitoring ;
+    skos:prefLabel "diagnosis and management plans"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:GrasslandTypeEnhancedSpeciesRichness a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ExtensiveSpeciesRichGrassland,
+        regenl:ProductiveMultispeciesSward ;
+    skos:prefLabel "grassland type - enhanced species richness"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:IncomeBroadeningMeso a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:IncomeBroadeningMicro,
+        regenl:ProvideCareFarming ;
+    skos:prefLabel "Income broadening"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:IndividualAndCollectiveFormsOfCostReducingMeasures a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:InputReductionOfEGAgrochemicalsAndFeed,
+        regenl:SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital ;
+    skos:prefLabel "Individual and collective forms of cost reducing measures"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:KeepWaterLevelsHighMeso a skos:Concept ;
+    skos:broader regenl:WaterManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:KeepWaterLevelsHighMicro,
+        regenl:Paludicultuur ;
+    skos:prefLabel "keep water levels high"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:PeopleManagement a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:FarmCitizenInteractions,
+        regenl:RegenerativeCapacityClassificationElement ;
+    skos:prefLabel "people management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:Reforestation a skos:Concept ;
+    skos:broader regenl:AgroforestryAndPerennialIntegratedSystems ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AfforestationReforestationReplantingTrees,
+        regenl:ForestConservation ;
+    skos:prefLabel "Reforestation"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:RegenerativeCapacityClassificationElement a skos:Concept ;
+    skos:broader regenl:PeopleManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'regenerative capacity'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:FormalLearning,
+        regenl:InformalLearning ;
+    skos:prefLabel "regenerative capacity"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:ResourceSharingCollaborationBetweenArableProductionAndDairy a skos:Concept ;
+    skos:broader regenl:BioeconomyEnergyEfficiencyAndProduction ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:LocalOrRegionalCollaborationBetweenSectorsEGCropLivestock,
+        regenl:MixedFarmingIntegrateLivestock ;
+    skos:prefLabel "resource sharing, collaboration between arable production and dairy"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:WildlifeProtection a skos:Concept ;
+    skos:broader regenl:LandManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:HabitatProvisionBiodiversityEnhancement,
+        regenl:NativeCropAndAnimalSpecies ;
+    skos:prefLabel "wildlife protection"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:AgroforestryAndPerennialIntegratedSystems a skos:Concept ;
+    skos:broader regenl:LandManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Reforestation,
+        regenl:TreePlanning,
+        regenl:UsePerennialsMeso ;
+    skos:prefLabel "Agroforestry and Perennial-Integrated Systems -"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:BioeconomyEnergyEfficiencyAndProduction a skos:Concept ;
+    skos:broader regenl:Bioeconomy ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ReduceExternalInputs,
+        regenl:RenewableEnergy,
+        regenl:ResourceSharingCollaborationBetweenArableProductionAndDairy ;
+    skos:prefLabel "Bioeconomy, energy efficiency and production"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:CultivationOfSpecificCropsOrVarieties a skos:Concept ;
+    skos:broader regenl:CropManagament ;
+    skos:definition "practices where the farmer is requested to use improved crop varieties and/or certified seeds"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DeepRootedSpecies,
+        regenl:DroughtTolerantCrops,
+        regenl:SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste ;
+    skos:prefLabel "Cultivation of specific crops or varieties"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:DiagnosisAndManagementPlansMeso a skos:Concept ;
+    skos:broader regenl:DiagnosisAndManagementPlansMacro ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NutrientManagementPlan,
+        regenl:PesticidesManagementPlan,
+        regenl:WaterManagementPlan ;
+    skos:prefLabel "diagnosis and management plans"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:IncomeBroadeningPaymentsForEcosystemServices a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:EcosystemservicePaymentsFromGovernment,
+        regenl:SustainabilityCertificationEGOrganicBiodynamicOnTheWayTo,
+        regenl:SustainabilityPaymentsByChainPartners ;
+    skos:prefLabel "Income broadening- Payments for ecosystem services"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:LandManagement a skos:Concept ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AgroforestryAndPerennialIntegratedSystems,
+        regenl:WaterManagement,
+        regenl:WildlifeProtection ;
+    skos:prefLabel "Land management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:NativeCropAndAnimalSpecies a skos:Concept ;
+    skos:broader regenl:WildlifeProtection ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:LocalOrNativeCropAndAnimalSpecies,
+        regenl:NativeTrees,
+        regenl:ProtectNativeSpecies ;
+    skos:prefLabel "Native crop and animal species"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:PlantProtection a skos:Concept ;
+    skos:broader regenl:CropProductionManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'plant protection'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:LimitationOnTheUseOfPlantProtectionProducts,
+        regenl:NonChemicalControlWeedsPestsAndDiseases,
+        regenl:ReductionOnTheUseOfPlantProtectionProducts ;
+    skos:prefLabel "plant protection"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:RenewableEnergy a skos:Concept ;
+    skos:broader regenl:BioeconomyEnergyEfficiencyAndProduction ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Agrovoltaics,
+        regenl:ReduceDependencyOnFossilFuel,
+        regenl:WindEnergy ;
+    skos:prefLabel "renewable energy"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:CropManagament a skos:Concept ;
+    skos:broader regenl:CropProductionManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CropDiversificationCoverCrops,
+        regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting,
+        regenl:CultivationOfSpecificCropsOrVarieties,
+        regenl:ExtensiveCropRotations ;
+    skos:prefLabel "Crop managament"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:CropProductionManagement a skos:Concept ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Mega level with label 'Crop Production Management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CropManagament,
+        regenl:FertilizationAndManureManagement,
+        regenl:PlantProtection,
+        regenl:SoilManagement ;
+    skos:prefLabel "Crop Production Management"@en ;
+    skos:topConceptOf regenl:RegenerativePracticeFramework ;
+    regenl:has_classification_level regenl:Mega .
+
+regenl:GrasslandTypeSwardAge a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:PermanentGrasslandSwardAtLeast5YearsOldRenewedWithin15years,
+        regenl:PermanentGrasslandSwardOlderThan15Year,
+        regenl:PermanentGrasslandSwardRegularyRenewedWithinThe5Years,
+        regenl:TemporaryGrasslandSwardYoungerThan5Years ;
+    skos:prefLabel "grassland type - sward age"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:LimitationOnTheUseOfPlantProtectionProducts a skos:Concept ;
+    skos:broader regenl:PlantProtection ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation on the use of plant protection products'."@en,
+        "this class includes the practices where there are limitations in the use of plant protection products on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NoFungicides,
+        regenl:NoHerbicides,
+        regenl:NoInsecticides,
+        regenl:NoSyntheticPesticides ;
+    skos:prefLabel "Limitation on the use of plant protection products"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:MinimizeWaterUse a skos:Concept ;
+    skos:broader regenl:WaterManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DryFarming,
+        regenl:MinimizeIrrigation,
+        regenl:ReduceWaterUse,
+        regenl:WaterSavingIrrigation ;
+    skos:prefLabel "Minimize water use"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ReductionOnTheUseOfPlantProtectionProducts a skos:Concept ;
+    skos:broader regenl:PlantProtection ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction on the use of plant protection products'."@en,
+        "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ReduceFungicides,
+        regenl:ReduceHerbicides,
+        regenl:ReduceInsecticides,
+        regenl:ReduceSyntheticPesticides ;
+    skos:prefLabel "Reduction on the use of plant protection products"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:SoilManagement a skos:Concept ;
+    skos:broader regenl:CropProductionManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:NoTillageMeso,
+        regenl:ReduceTillageMinimalTillage,
+        regenl:SoilAndMachineryUse,
+        regenl:SoilSeedbedPreparation ;
+    skos:prefLabel "Soil management"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:SpecificFertilizerApplicationTechniques a skos:Concept ;
+    skos:broader regenl:FertilizationAndManureManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Specific fertilizer application techniques'."@en,
+        "quantity or time limitation of application"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AddingWaterToSlurryManure,
+        regenl:DepeningOnTheNeedOfTheCropLesOrLessOften,
+        regenl:MoreEfficientFertilizerAplication,
+        regenl:NoFertilizationAlongsideOpenWater ;
+    skos:prefLabel "Specific fertilizer application techniques"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:WaterManagement a skos:Concept ;
+    skos:broader regenl:LandManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:KeepWaterLevelsHighMeso,
+        regenl:MaintainWaterlevelsConstant,
+        regenl:MinimizeWaterUse,
+        regenl:WaterStorage ;
+    skos:prefLabel "Water management"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:CropDiversificationCoverCrops a skos:Concept ;
+    skos:broader regenl:CropManagament ;
+    skos:definition "the inclusion of plants grown for agronomic or environmental purposes in addition to the main crop on a land management unit"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CatchCrops,
+        regenl:MultispeciesCoverCrops,
+        regenl:PermanentGreeningGreenCoverOnPermanentCrops,
+        regenl:SummerCoverCrops,
+        regenl:WinterCoverCrops ;
+    skos:prefLabel "Crop diversification -Cover crops:"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:FertilizationAndManureManagement a skos:Concept ;
+    skos:broader regenl:CropProductionManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'fertilization and manure management'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:LimitationOfSpecificFertilizers,
+        regenl:ReductionLimitationOfSpecificFertilizers,
+        regenl:SoilAmendments,
+        regenl:SpecificFertilizerApplicationTechniques,
+        regenl:UseOfSpecificFertilizerTypesOrManure ;
+    skos:prefLabel "fertilization and manure management"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:ReduceTillageMinimalTillage a skos:Concept ;
+    skos:broader regenl:SoilManagement ;
+    skos:definition "minimize soil disturbance due to tillage"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:MinimumTillage,
+        regenl:NonInversionTillage,
+        regenl:ShallowNonInversionTillage,
+        regenl:ShallowTillage,
+        regenl:StripTillage ;
+    skos:prefLabel "Reduce tillage/ minimal tillage"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:SoilSeedbedPreparation a skos:Concept ;
+    skos:broader regenl:SoilManagement ;
+    skos:definition "the practice of applying a layer of organic or inorganic material, to the surface of the soil"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:DirectSeeding,
+        regenl:Flachenrotte,
+        regenl:HugelkulturRaisedBeds,
+        regenl:KeepLivingRoots,
+        regenl:MulchingWithCropResidues ;
+    skos:prefLabel "soil - seedbed preparation"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting a skos:Concept ;
+    skos:broader regenl:CropManagament ;
+    skos:definition "Intercropping consists of growing several crops (annual or perennial) simultaneously in the same field for a significant amount of time, each crop developing and growing according to its physiology."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:MixedIntercroppingMixedCropping,
+        regenl:RelayIntercropping,
+        regenl:RowIntercropping,
+        regenl:Silvoarable,
+        regenl:StripCropping,
+        regenl:UnderSowing ;
+    skos:prefLabel "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:FarmCitizenInteractions a skos:Concept ;
+    skos:broader regenl:PeopleManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Agrotourism,
+        regenl:CommunityEngagement,
+        regenl:FarmEducation,
+        regenl:FormsOfDirectFoodProvisioning,
+        regenl:GreenCare,
+        regenl:RepresentationOfFarmers ;
+    skos:prefLabel "farm-citizen interactions"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:FarmSocioEconomicManagement a skos:Concept ;
+    skos:broader regenl:FinancialManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:IncomeBroadeningMeso,
+        regenl:IncomeBroadeningPaymentsForEcosystemServices,
+        regenl:IncomeDeepeningIncreasingAddedValueOfProduct,
+        regenl:IndividualAndCollectiveFormsOfCostReducingMeasures,
+        regenl:NewFormsOfAccessToLandLabourCapital,
+        regenl:PluralactivityWorkBeyondFarm ;
+    skos:prefLabel "Farm socio-economic management"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:GrasslandAndGrazing a skos:Concept ;
+    skos:broader regenl:CropProductionManagementGrasslandManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AdaptiveMowingManagement,
+        regenl:ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod,
+        regenl:GrasslandTypeEnhancedSpeciesRichness,
+        regenl:GrasslandTypeSwardAge,
+        regenl:GrazingManagement,
+        regenl:GrazingSystem ;
+    skos:prefLabel "Grassland and grazing"@en ;
+    regenl:has_classification_level regenl:Macro .
+
+regenl:MeasuringAndMonitoring a skos:Concept ;
+    skos:broader regenl:DiagnosisAndManagementPlansMacro ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ManureSampleAnalysis,
+        regenl:PlantJuiceAnalysis,
+        regenl:RemoteSensingMonitoring,
+        regenl:SatelliteImageryAndMonitoring,
+        regenl:SilageFeedSampleAnalysis,
+        regenl:SoilSampling ;
+    skos:prefLabel "Measuring and monitoring"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ReduceExternalInputs a skos:Concept ;
+    skos:broader regenl:BioeconomyEnergyEfficiencyAndProduction ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Food_crops_only,
+        regenl:NoResidualStreams,
+        regenl:SelfSufficiency,
+        regenl:UseLocalInputs,
+        regenl:UseOfNaturalRenewableResources,
+        regenl:UseOfResidualMaterials ;
+    skos:prefLabel "Reduce external inputs"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:SoilAmendments a skos:Concept ;
+    skos:broader regenl:FertilizationAndManureManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Soil amendments'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Biochar,
+        regenl:Gypsum,
+        regenl:Liming,
+        regenl:PreparationMadeFromOrganicMaterials,
+        regenl:SoilInnoculationWithMicrobiology,
+        regenl:StoneFlowerZelolith ;
+    skos:prefLabel "Soil amendments"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:AnimalHousing a skos:Concept ;
+    skos:broader regenl:LivestockManagementAnimalHusbandryMacro ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BuildingForEmissionReduction,
+        regenl:ClimateAndLightControl,
+        regenl:MobileChickenCoopsMicro,
+        regenl:MonitoringOfAnimalWelfare,
+        regenl:OutdoorAccess,
+        regenl:SpaceForTheAnimalsToSleepAndRest,
+        regenl:SuitableMaterialForAnimalBedding ;
+    skos:prefLabel "animal housing"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ExtensiveCropRotations a skos:Concept ;
+    skos:broader regenl:CropManagament ;
+    skos:definition "practices where the farmer is requested to use improved crop varieties and/or certified seeds"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BreakPeriodInTheRotation,
+        regenl:CropRotation,
+        regenl:DiversifiedCropRotation,
+        regenl:HaveAMinimumRotationLengthOf6YearsFallow,
+        regenl:LegumesNFixingPlantsInOration,
+        regenl:UseBreakCrops,
+        regenl:WinterCropsIntermediateCrops ;
+    skos:prefLabel "Extensive crop rotations"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:IncomeDeepeningIncreasingAddedValueOfProduct a skos:Concept ;
+    skos:broader regenl:FarmSocioEconomicManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CollectiveBrand,
+        regenl:CollectiveProssesing,
+        regenl:CommunityBasedSupportedAgriculture,
+        regenl:DirectOnfarmAndCollectiveFormsOfSales,
+        regenl:FoodPurchasingByCitizensCooperatives,
+        regenl:OnFarmProcessing,
+        regenl:PrivateBrand ;
+    skos:prefLabel "Income deepening -increasing added value of product"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:NonChemicalControlWeedsPestsAndDiseases a skos:Concept ;
+    skos:altLabel "Non-chemical control- weeds, pests and diseases"@en ;
+    skos:broader regenl:PlantProtection ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Non-chemical control- weeds, pests and diseases'."@en,
+        "integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:AlternativeBiocontrolProductUse,
+        regenl:IntegratedPestManagementPrinciplesIPM,
+        regenl:IntegratedWeedManagement,
+        regenl:MechanicalPestManagement,
+        regenl:MechanicalWeedManagement,
+        regenl:NaturalPestManagement,
+        regenl:NaturalWeedManagement ;
+    skos:prefLabel "Non-chemical  control- weeds, pests and diseases"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:TreePlanning a skos:Concept ;
+    skos:broader regenl:AgroforestryAndPerennialIntegratedSystems ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Agroforestry,
+        regenl:FoodForest,
+        regenl:Permaculture,
+        regenl:PlantingShadeTrees,
+        regenl:Silvoarable,
+        regenl:Silvopasture,
+        regenl:SyntropicFarming ;
+    skos:prefLabel "tree planning"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:GrazingSystem a skos:Concept ;
+    skos:broader regenl:GrasslandAndGrazing ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:CompartmentedContinousGrazingNewNederlandsWeiden,
+        regenl:GrazingTrainingOfYoungstock,
+        regenl:HolisticGrazing,
+        regenl:MOBGrazing,
+        regenl:RotationalGrazing,
+        regenl:Standweide,
+        regenl:StripGrazing,
+        regenl:VoisinRationalGrazing ;
+    skos:prefLabel "grazing system"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:ReductionLimitationOfSpecificFertilizers a skos:Concept ;
+    skos:broader regenl:FertilizationAndManureManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction/ limitation of specific  fertilizers'."@en,
+        "quantity or time limitation of application"@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm,
+        regenl:NoExternalFertilizersUsedAsInput,
+        regenl:ReduceSyntheticFertilizers,
+        regenl:ReducingFertilizerUse,
+        regenl:ReducingSysntheticNFerterilizers,
+        regenl:ReductionOrganicFertilizers,
+        regenl:RestrictionInQuanityAboveLegalNorms,
+        regenl:RestrictionInTimingAboveLegalNorms ;
+    skos:prefLabel "Reduction/ limitation of specific  fertilizers"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:SoilAndMachineryUse a skos:Concept ;
+    skos:broader regenl:SoilManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:ApplicationMachinesWithLowerAxelweight10TonsAxle,
+        regenl:ControlledTrafficLanes,
+        regenl:ControlledTrafficLanesPerSeason,
+        regenl:DragHoseManureSpreading,
+        regenl:MinimizeTractorUse,
+        regenl:NoHeavyMachinery,
+        regenl:OnlyUseMachineryOnDryPeriods,
+        regenl:ReduceHeavyMachinery,
+        regenl:ReduceMechanizationManualLowTechFarming ;
+    skos:prefLabel "Soil and machinery use"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:WaterStorage a skos:Concept ;
+    skos:broader regenl:WaterManagement ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Ditches,
+        regenl:InfiltrationChannels,
+        regenl:NaturalWaterHarvesting,
+        regenl:Pond,
+        regenl:RainfedSystem,
+        regenl:Swales,
+        regenl:WaterBuffers,
+        regenl:WaterFiltration,
+        regenl:WaterReservoirs ;
+    skos:prefLabel "Water storage"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:HabitatProvisionBiodiversityEnhancement a skos:Concept ;
+    skos:broader regenl:WildlifeProtection ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:BiodiversitySheltersEGBushes,
+        regenl:BirdAndBatBoxes,
+        regenl:EcologicalWaterwayAndDitchManagement,
+        regenl:FlowerHerbNatureStrips,
+        regenl:InsectHotels,
+        regenl:NaturalBufferZones,
+        regenl:RuggedVegetation,
+        regenl:SteppingStones05Ha,
+        regenl:TreesAndHedgesAsHabitat,
+        regenl:WettedZonesSwalesForMeadowBirds ;
+    skos:prefLabel "Habitat provision/ biodiversity enhancement"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:UseOfSpecificFertilizerTypesOrManure a skos:Concept ;
+    skos:broader regenl:FertilizationAndManureManagement ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'use of specific fertilizer types or manure'."@en ;
+    skos:inScheme regenl:RegenerativePracticeFramework ;
+    skos:narrower regenl:Biofertilizer,
+        regenl:CompostTea,
+        regenl:CompostUse,
+        regenl:Digestate,
+        regenl:FoliarFertilizerUse,
+        regenl:GreenManureUse,
+        regenl:HumanureComposting,
+        regenl:IncorperatingCropResidues,
+        regenl:SheepWoolFertilizer,
+        regenl:SolidManure,
+        regenl:UseOfBokashi,
+        regenl:UsingOrganicFertilizers,
+        regenl:Vermicompost,
+        regenl:WoodChips ;
+    skos:prefLabel "use of specific fertilizer types or manure"@en ;
+    regenl:has_classification_level regenl:Meso .
+
+regenl:RegenerativePracticeFramework a skos:ConceptScheme ;
+    dct:description "SKOS publication representation derived from the ReGeNL ontology. Hierarchical levels: Mega, Macro, Meso, Micro, Nano. Labels and definitions are copied from the source where present; missing text is not generated."@en ;
+    dct:source regenl: ;
+    skos:hasTopConcept regenl:Biodigester,
+        regenl:Bioeconomy,
+        regenl:CropProductionManagement,
+        regenl:CropProductionManagementGrasslandManagement,
+        regenl:ExtendedGrazingTimeMinimumOf1500HoursYear,
+        regenl:ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear,
+        regenl:FinancialManagement,
+        regenl:InfraAndEquipmentManagement,
+        regenl:LandManagement,
+        regenl:LivestockManagementAnimalHusbandryMega,
+        regenl:PeopleManagement,
+        regenl:SolarPannels ;
+    skos:prefLabel "ReGeNL regenerative practice framework"@en,
+        "ReGeNL raamwerk regeneratieve landbouwpraktijken"@nl .
+
