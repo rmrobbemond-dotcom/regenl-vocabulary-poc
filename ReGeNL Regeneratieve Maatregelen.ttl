@@ -7,7 +7,9 @@
 vocab:AddingWaterToSlurryManure a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:SpecificFertilizerApplicationTechniques ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Adding water to slurry manure'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Adding water to slurry manure'."@en,
+        "Water toedienen aan de drijfmest voor effiëntere bemesting en minder vervluchtiging"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -52,7 +54,9 @@ vocab:Agrovoltaics a skos:Concept ;
 vocab:AlternativeBiocontrolProductUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Alternative biocontrol product use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Alternative biocontrol product use'."@en,
+        "Alternatieve biologische middelen of biologische bestrijding"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -131,7 +135,9 @@ vocab:BiodiversitySheltersEGBushes a skos:Concept ;
 vocab:Biofertilizer a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Biofertilizer'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Biofertilizer'."@en,
+        "Het gebruik van Bio-meststof of andere natuurlijke meststoffen als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -176,9 +182,11 @@ vocab:CSASelfPickingOnFarmsShops a skos:Concept ;
 vocab:CatchCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "fast growing cover crop, grown between successive plantings of a main crop. \" It scavenges the remaining nitrogen after the main crop is harvested, thereby reducing nutrient losses from leaching\" (for undersow see intercropping)"@en,
-        "Een snelgroeiend vanggewas dat tussen opeenvolgende hoofdteelten wordt geteeld en resterende nutriënten, met name stikstof, kan opnemen om uitspoeling te beperken."@nl ;
+        "snelgroeiende gewassen die worden gezaaid tussen twee hoofdteelten. Ze nemen stikstof op die anders zou uitspoelen na de oogst van het hoofdgewas, en beperkt daardoor nutrienten verliezen (als er temporale overlap is tussen het hoofdgewas en vanggewas, dan valt dit onder 'onderzaai')"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Een snelgroeiend vanggewas dat tussen opeenvolgende hoofdteelten wordt geteeld en resterende nutriënten, met name stikstof, kan opnemen om uitspoeling te beperken."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Catch crops"@en,
@@ -268,7 +276,9 @@ vocab:CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes a skos:Con
 vocab:CompostTea a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost tea'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost tea'."@en,
+        "Het gebruik van Compostthee als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -280,7 +290,9 @@ vocab:CompostTea a skos:Concept ;
 vocab:CompostUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost use'."@en,
+        "Het gebruik van compost van plantaardige oorsprong (niet dierlijk)"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -358,7 +370,9 @@ vocab:DelayedMowingDateForBirdProtection a skos:Concept ;
 vocab:DepeningOnTheNeedOfTheCropLesOrLessOften a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:SpecificFertilizerApplicationTechniques ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'."@en,
+        "Bemesting op basis van het groei potentieel, bv. gedurende het seizoen en afhangelijk van de groeiomstandigheden"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -381,7 +395,9 @@ vocab:DifferentTypesOfClients a skos:Concept ;
 vocab:Digestate a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'digestate'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'digestate'."@en,
+        "Het gebruik van restproducten uit vergisters, als bemesting"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -514,6 +530,8 @@ vocab:EcosystemservicePaymentsFromGovernment a skos:Concept ;
 vocab:ExtendedGrazingTimeMinimumOf1500HoursYear a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
     skos:broader vocab:GrazingManagement ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "ecoregeling weidepremie 1500 uur of 2500 uur"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -525,6 +543,8 @@ vocab:ExtendedGrazingTimeMinimumOf1500HoursYear a skos:Concept ;
 vocab:ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
     skos:broader vocab:GrazingManagement ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "weidepremie (basis 120 dagen = 720 uur)"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -571,7 +591,9 @@ vocab:Flachenrotte a skos:Concept ;
 vocab:FoliarFertilizerUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Foliar fertilizer use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Foliar fertilizer use'."@en,
+        "Het gebruik van Bladbemesting als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -651,7 +673,9 @@ vocab:GrazingTrainingOfYoungstock a skos:Concept ;
 vocab:GreenManureUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Green manure use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Green manure use'."@en,
+        "Het gebruik van Groenbemesting (green manure) als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -710,7 +734,9 @@ vocab:HugelkulturRaisedBeds a skos:Concept ;
 vocab:HumanureComposting a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Humanure composting'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Humanure composting'."@en,
+        "Het gebruik van Humane mest compostering als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -744,7 +770,9 @@ vocab:IncomeBroadeningMicro a skos:Concept ;
 vocab:IncorperatingCropResidues a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Incorperating crop residues'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Incorperating crop residues'."@en,
+        "Het gebruik van Gewasresten onder-/inwerken als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -789,7 +817,9 @@ vocab:InsectHotels a skos:Concept ;
 vocab:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated pest management principles (IPM)'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated pest management principles (IPM)'."@en,
+        "Geintegreerd gebruik van bestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische middelen worden alleen gebruikt als het niet anders kan."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -801,7 +831,9 @@ vocab:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
 vocab:IntegratedWeedManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated weed management'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated weed management'."@en,
+        "Geintegreerd gebruik van onkruidbestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische herbiciden worden alleen gebruikt als het niet anders kan."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -892,7 +924,9 @@ vocab:ManureSampleAnalysis a skos:Concept ;
 vocab:MechanicalPestManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical pest management'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical pest management'."@en,
+        "Plaagbestrijding met behulp van werktuigen of andere fysieke maatregelen, bv. netten of geluid"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -904,7 +938,9 @@ vocab:MechanicalPestManagement a skos:Concept ;
 vocab:MechanicalWeedManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical weed management'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical weed management'."@en,
+        "Onkruidbestrijding met behulp van werktuigen of andere fysiek maatregelen, incl. handmatig wieden"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -916,7 +952,9 @@ vocab:MechanicalWeedManagement a skos:Concept ;
 vocab:MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'."@en,
+        "Het verminderd of minimaal gebruik van externe messtoffen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -961,7 +999,9 @@ vocab:MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation
 vocab:MinimumTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
-    skos:definition "tillage only in spots where plants are seeded"@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "tillage only in spots where plants are seeded"@en,
+        "Alleen daar waar gezaaid of geplant wordt, wordt de bodem bewerkt"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -984,9 +1024,11 @@ vocab:MixedFarmingIntegrateLivestock a skos:Concept ;
 vocab:MixedIntercroppingMixedCropping a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Mixed cropping is a system of sowing two or more crops mixed together on the same field without any distinct row or strip pattern"@en,
-        "Het op hetzelfde perceel gemengd inzaaien of telen van twee of meer gewassen zonder afzonderlijke rijen of stroken."@nl ;
+        "Twee of meer gewassen worden gemengd op hetzelfde perceel gezaaid, zonder ruimtelijke structuur"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het op hetzelfde perceel gemengd inzaaien of telen van twee of meer gewassen zonder afzonderlijke rijen of stroken."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Mixed intercropping / mixed cropping"@en,
@@ -1030,7 +1072,9 @@ vocab:MonitoringOfAnimalWelfare a skos:Concept ;
 vocab:MoreEfficientFertilizerAplication a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:SpecificFertilizerApplicationTechniques ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'More efficient fertilizer aplication'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'More efficient fertilizer aplication'."@en,
+        "Maatregelen voor een effiecientere opname en minder verliezen van meststoffen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1042,9 +1086,11 @@ vocab:MoreEfficientFertilizerAplication a skos:Concept ;
 vocab:MultispeciesCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "More then 1 different types of species of cover crops are sown (eg. Combination of combination of annual grasses, brassicas, and legumes)"@en,
-        "Het inzaaien van een mengsel van minstens twee soorten groenbedekkers, bijvoorbeeld grassen, kruisbloemigen of vlinderbloemigen."@nl ;
+        "mengsel van verschillende soorten bodembedekker (zoals een combinatie van eenjarige grassen, kruisbloemigen en vlinderbloemigen"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het inzaaien van een mengsel van minstens twee soorten groenbedekkers, bijvoorbeeld grassen, kruisbloemigen of vlinderbloemigen."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Multispecies cover crops"@en,
@@ -1077,7 +1123,9 @@ vocab:NaturalBufferZones a skos:Concept ;
 vocab:NaturalPestManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'."@en,
+        "Het gebruik van nuttige organismen om schadelijke plagen te bestrijden."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1100,7 +1148,9 @@ vocab:NaturalWaterHarvesting a skos:Concept ;
 vocab:NaturalWeedManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural weed management'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural weed management'."@en,
+        "Ander natuurlijk onkruidbeheer, bv. specifieke groenbemesters of landbewerking voor de teelt"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1112,7 +1162,9 @@ vocab:NaturalWeedManagement a skos:Concept ;
 vocab:NoExternalFertilizersUsedAsInput a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No external fertilizers used as input'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No external fertilizers used as input'."@en,
+        "Meststoffengebruik van alleen binnen het bedrijf en niet extern aangewende meststoffen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1124,7 +1176,9 @@ vocab:NoExternalFertilizersUsedAsInput a skos:Concept ;
 vocab:NoFertilizationAlongsideOpenWater a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:SpecificFertilizerApplicationTechniques ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fertilization alongside open water'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fertilization alongside open water'."@en,
+        "Een bepaalde afstand houden tot de sloot of ander open water, met bemesting"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1136,7 +1190,9 @@ vocab:NoFertilizationAlongsideOpenWater a skos:Concept ;
 vocab:NoFungicides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."@en,
+        "Totaal geen gebruik van fungiciden op het bedrijf. Eventueel wel andere middelen."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1159,7 +1215,9 @@ vocab:NoHeavyMachinery a skos:Concept ;
 vocab:NoHerbicides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No herbicides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No herbicides'."@en,
+        "Totaal geen gebruik van herbiciden op het bedrijf. Eventueel wel andere middelen."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1194,7 +1252,9 @@ vocab:NoResidualStreams a skos:Concept ;
 vocab:NoSyntheticPesticides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."@en,
+        "Totaal geen gebruik van synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen op het bedrijf. Geen enkel type."@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1206,6 +1266,8 @@ vocab:NoSyntheticPesticides a skos:Concept ;
 vocab:NoTillageMicro a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:NoTillageMeso ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "Geen bodembewerking tussen oogst en inzaai. Het nieuwe gewas wordt direct in de onbewerkte bodem gezaaid, zondat dat de grond sinds de vorige oogst is omgeploegd of losgemaakt"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1363,9 +1425,11 @@ vocab:PermanentGrasslandTreesHedges a skos:Concept ;
 vocab:PermanentGreeningGreenCoverOnPermanentCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "vegetative cover in orchards and vineyard. This can be between the rows, under the tree crowns or with other patterns"@en,
-        "Het aanhouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen de rijen of onder de bomen."@nl ;
+        "groene bodembedekking in bijvoorbeeld boomgaarden of wijngaarden. Deze kan zich bevinden tussen de rijen, onder de boomkruinen of in andere patronen"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het aanhouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen de rijen of onder de bomen."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Permanent greening / green cover on permanent crops"@en,
@@ -1509,7 +1573,9 @@ vocab:ReduceDependencyOnFossilFuel a skos:Concept ;
 vocab:ReduceFungicides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."@en,
+        "Fungiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1532,7 +1598,9 @@ vocab:ReduceHeavyMachinery a skos:Concept ;
 vocab:ReduceHerbicides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."@en,
+        "Herbiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1544,7 +1612,9 @@ vocab:ReduceHerbicides a skos:Concept ;
 vocab:ReduceInsecticides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce insecticides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce insecticides'."@en,
+        "Insecticiden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1567,7 +1637,9 @@ vocab:ReduceMechanizationManualLowTechFarming a skos:Concept ;
 vocab:ReduceSyntheticPesticides a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic pesticides'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic pesticides'."@en,
+        "Synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen zoveel mogelijk verminderen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1590,7 +1662,9 @@ vocab:ReduceWaterUse a skos:Concept ;
 vocab:ReducingFertilizerUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing fertilizer use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing fertilizer use'."@en,
+        "Algemene vermindering van meststoffengebruik"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1602,7 +1676,9 @@ vocab:ReducingFertilizerUse a skos:Concept ;
 vocab:ReducingSysntheticNFerterilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing sysnthetic N-ferterilizers'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing sysnthetic N-ferterilizers'."@en,
+        "Het verminderd of minimaal gebruik van kunstmest met stikstof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1614,9 +1690,11 @@ vocab:ReducingSysntheticNFerterilizers a skos:Concept ;
 vocab:RelayIntercropping a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Type of intercropping where the species overlap only for a portion of their growth duration"@en,
-        "Een mengteelt waarbij de groeiperiodes van twee of meer gewassen slechts gedeeltelijk overlappen."@nl ;
+        "Twee of meer hoofdgewassen die slechts gedurende een deel van hun groeiperiode overlappen"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Een mengteelt waarbij de groeiperiodes van twee of meer gewassen slechts gedeeltelijk overlappen."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Relay intercropping"@en,
@@ -1638,7 +1716,9 @@ vocab:RemoteSensingMonitoring a skos:Concept ;
 vocab:RestrictionInQuanityAboveLegalNorms a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in quanity (above legal norms)'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in quanity (above legal norms)'."@en,
+        "Specifieke normen voor de hoeveeheid bemesting die strenger zijn dan de geldende wetgeving"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1650,7 +1730,9 @@ vocab:RestrictionInQuanityAboveLegalNorms a skos:Concept ;
 vocab:RestrictionInTimingAboveLegalNorms a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in timing (above legal norms)'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in timing (above legal norms)'."@en,
+        "Specifieke normen het momenten van bemest die strenger zijn dan de geldende wetgeving"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1677,9 +1759,11 @@ vocab:RotationalGrazing a skos:Concept ;
 vocab:RowIntercropping a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "two species cultivated in alternate rows"@en,
-        "Het gelijktijdig telen van twee gewassen in afwisselende rijen op hetzelfde perceel."@nl ;
+        "Twee of meer soorten die in afwisselende rijen worden geteeld"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het gelijktijdig telen van twee gewassen in afwisselende rijen op hetzelfde perceel."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Row intercropping"@en,
@@ -1745,9 +1829,11 @@ vocab:ShadeTreePlanting a skos:Concept ;
 vocab:ShallowNonInversionTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "non-inversion tillage until e.g. maximum 0.06m depth"@en,
-        "Niet-kerende bodembewerking tot beperkte diepte; in de bron wordt als voorbeeld maximaal 6 cm genoemd."@nl ;
+        "Losmaken van de bodem zonder deze te keren, tot bijvoorbeeld maximaal 6 cm diep"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Niet-kerende bodembewerking tot beperkte diepte; in de bron wordt als voorbeeld maximaal 6 cm genoemd."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Shallow non-inversion tillage"@en,
@@ -1769,6 +1855,8 @@ vocab:SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital a skos:Con
 vocab:SheepWoolFertilizer a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_shearing_Holland.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "Het gebruik van schapenwol als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1835,7 +1923,9 @@ vocab:SolarPannels a skos:Concept ;
 vocab:SolidManure a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'solid manure'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'solid manure'."@en,
+        "Het gebruik van vaste mest of stalmest"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -1892,9 +1982,11 @@ vocab:StoneFlowerZelolith a skos:Concept ;
 vocab:StripCropping a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "two or more species cultivated in alternative strips and at least one strip includes more than one row"@en,
-        "Het telen van twee of meer gewassen in afwisselende stroken, waarbij een strook meerdere gewasrijen kan omvatten."@nl ;
+        "Twee of meer gewassen die in afwisselnde stroken worden geteeld, waarbij ten minste een strook meer dan een rij bevat"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het telen van twee of meer gewassen in afwisselende stroken, waarbij een strook meerdere gewasrijen kan omvatten."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Strip cropping"@en,
@@ -1918,9 +2010,11 @@ vocab:StripGrazing a skos:Concept ;
 vocab:StripTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "tillage in a narrow band (e.g. 0.15-0.30m)"@en,
-        "Bodembewerking die beperkt blijft tot smalle stroken waarin wordt gezaaid of geplant."@nl ;
+        "Slechts een smalle strook van de grond (bijvoorbeeld 15-30cm breed) wordt bewerkt"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Bodembewerking die beperkt blijft tot smalle stroken waarin wordt gezaaid of geplant."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Strip tillage"@en,
@@ -1964,9 +2058,11 @@ vocab:SuitableMaterialForAnimalBedding a skos:Concept ;
 vocab:SummerCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Cover crops grown to provide vegetative cover of the soil in summer"@en,
-        "Groenbedekkers die in de zomer worden geteeld om de bodem met vegetatie bedekt te houden."@nl ;
+        "gewassen die in de zomer worden geteeld om de bodem te bedekken en te beschermen"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Groenbedekkers die in de zomer worden geteeld om de bodem met vegetatie bedekt te houden."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Summer cover crops"@en,
@@ -2055,9 +2151,11 @@ vocab:TreesAndHedgesAsHabitat a skos:Concept ;
 vocab:UnderSowing a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "catch crop (see also cover crops), grown partly at the same time as the main crop"@en,
-        "Het onderzaaien van een vang- of groenbedekker in een hoofdgewas, zodat de gewassen gedurende een deel van hun groei gelijktijdig aanwezig zijn."@nl ;
+        "Het telen van een tussen / vanggewas (zie ook bodembedekkers) waarbij er temporale overlap is met het hoofdgewas"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het onderzaaien van een vang- of groenbedekker in een hoofdgewas, zodat de gewassen gedurende een deel van hun groei gelijktijdig aanwezig zijn."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Under sowing"@en,
@@ -2090,7 +2188,9 @@ vocab:UseLocalInputs a skos:Concept ;
 vocab:UseOfBokashi a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Use of bokashi'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Use of bokashi'."@en,
+        "Het begruik van gefermenteerd organisch materiaal als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -2124,7 +2224,9 @@ vocab:UseOfResidualMaterials a skos:Concept ;
 vocab:UsingOrganicFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Using organic fertilizers'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Using organic fertilizers'."@en,
+        "Het toepassen van meststoffen van organische aard"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -2136,7 +2238,9 @@ vocab:UsingOrganicFertilizers a skos:Concept ;
 vocab:Vermicompost a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Vermicompost'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Vermicompost'."@en,
+        "Het gebruik van Wormenkweek/vermicompost als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -2238,9 +2342,11 @@ vocab:WindEnergy a skos:Concept ;
 vocab:WinterCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropDiversificationCoverCrops ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "cover crops grown to provide vegetative cover of the soil in winter"@en,
-        "Groenbedekkers die in de winter aanwezig zijn om de bodem met vegetatie bedekt te houden."@nl ;
+        "gewassen die in de winter worden geteeld om de bodem te bedekken en te beschermen"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Groenbedekkers die in de winter aanwezig zijn om de bodem met vegetatie bedekt te houden."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Winter cover crops"@en,
@@ -2251,9 +2357,11 @@ vocab:WinterCoverCrops a skos:Concept ;
 vocab:WinterCropsIntermediateCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:ExtensiveCropRotations ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "a cash crops grown (in winter) between two main crops"@en,
-        "Een tussenteelt die in de winter wordt geteeld tussen twee hoofdteelten."@nl ;
+        "Een handelsgewas dat (in de winter) wordt geteeld tussen twee hoofdgewassen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Een tussenteelt die in de winter wordt geteeld tussen twee hoofdteelten."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Winter crops / intermediate crops:"@en,
@@ -2275,7 +2383,9 @@ vocab:WoodBioplastics a skos:Concept ;
 vocab:WoodChips a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Wood_chip_pile.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Wood chips'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Wood chips'."@en,
+        "Het gebruik van Gebruik hout snippers als meststof"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
@@ -2387,6 +2497,8 @@ vocab:EcologicalWaterwayAndDitchManagement a skos:Concept ;
 vocab:ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
     skos:broader vocab:GrasslandAndGrazing ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch meso. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "weidepremie ( basis 120 dagen = 720 uur), ecoregeling weidepremie 1500 uur of 2500 uur, (speciefiek voor staatsbosheheer verlengte weidepremie > 900uur > 1800uur)"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages ;
@@ -2508,10 +2620,12 @@ vocab:Liming a skos:Concept ;
 vocab:LimitationOfSpecificFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:FertilizationAndManureManagement ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation of specific fertilizers'."@en,
-        "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en,
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en,
         "Het beperken van het gebruik van bepaalde meststoffen op een perceel, bijvoorbeeld door typen of hoeveelheden toe te laten of uit te sluiten."@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation of specific fertilizers'."@nl,
+        "Voorgaande PoC-definitie (en): this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:NoSyntheticFertilizerUse ;
     skos:notation "Meso" ;
@@ -2559,9 +2673,11 @@ vocab:MaintainWaterlevelsConstant a skos:Concept ;
 vocab:MulchingWithCropResidues a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:SoilSeedbedPreparation ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "leaving or applying crop residues on the soil"@en,
-        "Het achterlaten of aanbrengen van gewasresten op het bodemoppervlak als bedekking."@nl ;
+        "Het achterlaten of aanbrengen van gewasresten op de bodem"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het achterlaten of aanbrengen van gewasresten op het bodemoppervlak als bedekking."@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:StubbleRetentionIncorporateCropResiduesLeftoverPruningMaterialIncorporateStrawUseGreenCompostGreenManure ;
     skos:notation "Micro" ;
@@ -2585,7 +2701,9 @@ vocab:NewFormsOfAccessToLandLabourCapital a skos:Concept ;
 vocab:NoSyntheticFertilizerUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:LimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic fertilizer use'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic fertilizer use'."@en,
+        "Totaal geen gebruik van bemesting met kunstmest"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:SyntheticFertilizer ;
@@ -2612,9 +2730,11 @@ vocab:NoTillageMeso a skos:Concept ;
 vocab:NonInversionTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "loosens and aerates the soil without turning it over, preserving surface residues and maintaining soil structure"@en,
-        "Grondbewerking waarbij de bodem wordt losgemaakt zonder de bodemlagen te keren, zodat een deel van de bovengrondse resten aan het oppervlak blijft."@nl ;
+        "maakt de grond los and zorgt voor ventilering zonder de bodem te keren."@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Grondbewerking waarbij de bodem wordt losgemaakt zonder de bodemlagen te keren, zodat een deel van de bovengrondse resten aan het oppervlak blijft."@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:ChiselPlowingSubsoiling ;
     skos:notation "Micro" ;
@@ -2650,7 +2770,9 @@ vocab:PluralactivityWorkBeyondFarm a skos:Concept ;
 vocab:ReduceSyntheticFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic fertilizers'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic fertilizers'."@en,
+        "Het verminderd of minimaal gebruik van kunstmest"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication ;
@@ -2676,7 +2798,9 @@ vocab:ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackage
 vocab:ReductionOrganicFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:ReductionLimitationOfSpecificFertilizers ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'."@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'."@en,
+        "Het verminderd of minimaal gebruik van organische meststoffen"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:EGAnimalManure ;
@@ -2701,7 +2825,9 @@ vocab:RepresentationOfFarmers a skos:Concept ;
 vocab:ShallowTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
     skos:broader vocab:ReduceTillageMinimalTillage ;
-    skos:definition "inversion tillage (between e.g. 0.12-0.20m depth)"@en ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "inversion tillage (between e.g. 0.12-0.20m depth)"@en,
+        "Ploegen of keren van de bodem tot een diepte van ongeveer 12-20cm"@nl ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:EcoPlough ;
@@ -2716,9 +2842,11 @@ vocab:Silvoarable a skos:Concept ;
     skos:altLabel "silvoarable"@en ;
     skos:broader vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting,
         vocab:TreePlanning ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "the integration of trees and arable crops on the same field"@en,
-        "Een agroforestrysysteem waarbij bomen en akkerbouwgewassen op hetzelfde perceel worden gecombineerd."@nl ;
+        "De integratie van bomen en akkerbousgewassen op hetzelfde perceel"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Een agroforestrysysteem waarbij bomen en akkerbouwgewassen op hetzelfde perceel worden gecombineerd."@nl ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Silvoarable"@en,
@@ -3120,10 +3248,12 @@ vocab:GrasslandTypeSwardAge a skos:Concept ;
 vocab:LimitationOnTheUseOfPlantProtectionProducts a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:PlantProtection ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation on the use of plant protection products'."@en,
-        "this class includes the practices where there are limitations in the use of plant protection products on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en,
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "this class includes the practices where there are limitations in the use of plant protection products on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en,
         "Het beperken van het gebruik van gewasbeschermingsmiddelen op het gehele perceel."@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Limitation on the use of plant protection products'."@nl,
+        "Voorgaande PoC-definitie (en): this class includes the practices where there are limitations in the use of plant protection products on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:NoFungicides,
         vocab:NoHerbicides,
@@ -3153,9 +3283,11 @@ vocab:MinimizeWaterUse a skos:Concept ;
 vocab:ReductionOnTheUseOfPlantProtectionProducts a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:PlantProtection ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction on the use of plant protection products'."@en,
-        "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction on the use of plant protection products'."@nl,
+        "Voorgaande PoC-definitie (en): this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:ReduceFungicides,
         vocab:ReduceHerbicides,
@@ -3185,9 +3317,11 @@ vocab:SoilManagement a skos:Concept ;
 vocab:SpecificFertilizerApplicationTechniques a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:FertilizationAndManureManagement ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Specific fertilizer application techniques'."@en,
-        "quantity or time limitation of application"@en ;
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "quantity or time limitation of application"@en ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Specific fertilizer application techniques'."@nl,
+        "Voorgaande PoC-definitie (en): quantity or time limitation of application"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:AddingWaterToSlurryManure,
         vocab:DepeningOnTheNeedOfTheCropLesOrLessOften,
@@ -3217,9 +3351,11 @@ vocab:WaterManagement a skos:Concept ;
 vocab:CropDiversificationCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:broader vocab:CropManagament ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch meso. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "the inclusion of plants grown for agronomic or environmental purposes in addition to the main crop on a land management unit"@en,
-        "Het telen van een aanvullend gewas voor landbouwkundige of milieukundige doeleinden naast of tussen de hoofdteelten."@nl ;
+        "Gewassen die worden geteeld voor agronomische of milieu/ ecologische doeleinden, aanvullend op een hoofdgewas"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het telen van een aanvullend gewas voor landbouwkundige of milieukundige doeleinden naast of tussen de hoofdteelten."@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:CatchCrops,
         vocab:MultispeciesCoverCrops,
@@ -3303,9 +3439,11 @@ vocab:SoilSeedbedPreparation a skos:Concept ;
 vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg> ;
     skos:broader vocab:CropManagament ;
+    skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch meso. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Intercropping consists of growing several crops (annual or perennial) simultaneously in the same field for a significant amount of time, each crop developing and growing according to its physiology."@en,
-        "Het gedurende een overlappende groeiperiode gelijktijdig telen van meerdere gewassen op hetzelfde perceel."@nl ;
+        "Meerdere gewassen (eenjarig of meerjarig) staat gelijktijdig op hetzelfde perceel gedurende een aanzienlijke periode, waarbij elk gewas zich ontwikkelt volgens zijn eigen fysiologie"@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (nl): Het gedurende een overlappende groeiperiode gelijktijdig telen van meerdere gewassen op hetzelfde perceel."@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:MixedIntercroppingMixedCropping,
         vocab:RelayIntercropping,
@@ -3481,9 +3619,11 @@ vocab:NonChemicalControlWeedsPestsAndDiseases a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
     skos:altLabel "Non-chemical control- weeds, pests and diseases"@en ;
     skos:broader vocab:PlantProtection ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Non-chemical control- weeds, pests and diseases'."@en,
-        "integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"@en ;
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"@en ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Non-chemical control- weeds, pests and diseases'."@nl,
+        "Voorgaande PoC-definitie (en): integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:AlternativeBiocontrolProductUse,
         vocab:IntegratedPestManagementPrinciplesIPM,
@@ -3538,10 +3678,12 @@ vocab:GrazingSystem a skos:Concept ;
 vocab:ReductionLimitationOfSpecificFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader vocab:FertilizationAndManureManagement ;
-    skos:definition "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction/ limitation of specific  fertilizers'."@en,
-        "quantity or time limitation of application"@en,
+    skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
+    skos:definition "quantity or time limitation of application"@en,
         "Het beperken van de hoeveelheid meststof of het tijdstip waarop bepaalde meststoffen worden toegediend."@nl ;
     skos:editorialNote "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."@nl ;
+    skos:historyNote "Voorgaande PoC-definitie (en): A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Reduction/ limitation of specific  fertilizers'."@nl,
+        "Voorgaande PoC-definitie (en): quantity or time limitation of application"@nl ;
     skos:inScheme vocab: ;
     skos:narrower vocab:MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm,
         vocab:NoExternalFertilizersUsedAsInput,
