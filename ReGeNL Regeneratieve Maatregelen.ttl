@@ -194,15 +194,15 @@ vocab:ChiselPlowingSubsoiling a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:ClimateAndLightControl a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Greenhouse_indoor_view_20170826.jpg> ;
     skos:broader vocab:AnimalHousing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "climate and light control"@en,
         "Klimaat- en lichtregeling"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Greenhouse%20indoor%20view%2020170826.jpg?width=960> ;
+    schema:creditText "Foto: Santeri Viinamäki (CC BY-SA 4.0)."@nl .
 
 vocab:CollectiveBrand a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
@@ -251,15 +251,15 @@ vocab:CompartmentedContinousGrazingNewNederlandsWeiden a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:FormalLearning ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "(Competence) development opportunities at public educational institutes"@en,
         "Mogelijkheden voor competentieontwikkeling in het openbaar onderwijs"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:CompostTea a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -339,15 +339,15 @@ vocab:DeepRootedSpecies a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:DelayedMowingDateForBirdProtection a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Vluchtheuvel_weiland.jpg> ;
     skos:broader vocab:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Nano" ;
     skos:prefLabel "delayed mowing date for bird protection"@en,
         "Uitgestelde maaidatum voor vogelbescherming"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
-    schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Vluchtheuvel%20weiland.jpg?width=960> ;
+    schema:creditText "Foto: Apus apus (Commons vrije licentie; controleer bronpagina)."@nl .
 
 vocab:DepeningOnTheNeedOfTheCropLesOrLessOften a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -361,15 +361,15 @@ vocab:DepeningOnTheNeedOfTheCropLesOrLessOften a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:DifferentTypesOfClients a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
     skos:broader vocab:GreenCare ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Different types of clients"@en,
         "Verschillende typen afnemers"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
+    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
 
 vocab:Digestate a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg> ;
@@ -539,15 +539,15 @@ vocab:ExtensiveSpeciesRichGrassland a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:FaciliateFarmVisits a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:FarmEducation ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Faciliate 'farm visits'"@en,
         "Faciliteren van boerderijbezoeken"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Flachenrotte a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -583,26 +583,26 @@ vocab:FoodForest a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:FoodPurchasingByCitizensCooperatives a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
     skos:broader vocab:IncomeDeepeningIncreasingAddedValueOfProduct ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Food purchasing by citizens cooperatives"@en,
         "Voedselaankoop door burgercoöperaties"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop%20front%20-%20farm%20shop.jpg?width=960> ;
+    schema:creditText "Foto: Custom Neon / Wikimedia Commons (Creative Commons; naamsvermelding via bronpagina)."@nl .
 
 vocab:Food_crops_only a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:ReduceExternalInputs ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Food crops only"@en,
         "Alleen voedselgewassen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:ForestConservation a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
@@ -706,15 +706,15 @@ vocab:HumanureComposting a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:BuildingForEmissionReduction ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Nano" ;
     skos:prefLabel "Implement housing system to seperate manure and urine in solid and liquid fractions"@en,
         "Huisvestingssysteem voor scheiding van mest en urine"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960> ;
-    schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:IncomeBroadeningMicro a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -827,15 +827,15 @@ vocab:LegumesNFixingPlantsInOration a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:LocalOrNativeCropAndAnimalSpecies a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:NativeCropAndAnimalSpecies ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Local or native crop and animal species"@en,
         "Lokale of inheemse gewas- en diersoorten"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
-    schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:LocalOrRegionalCollaborationBetweenSectorsEGCropLivestock a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
@@ -996,15 +996,15 @@ vocab:MobileChickenCoopsNano a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:MonitoringOfAnimalWelfare a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:AnimalHousing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "monitoring of animal welfare"@en,
         "Monitoring van dierenwelzijn"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
-    schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:MoreEfficientFertilizerAplication a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -1064,15 +1064,15 @@ vocab:NaturalPestManagement a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:NaturalWaterHarvesting a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Water_reservoir_used_for_irrigation_at_Hikkim_Village_spiti_India.jpg> ;
     skos:broader vocab:WaterStorage ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Natural water harvesting"@en,
         "Natuurlijke wateropvang"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Water%20reservoir%20used%20for%20irrigation%20at%20Hikkim%20Village%20spiti%20India.jpg?width=960> ;
+    schema:creditText "Foto: Sumita Roy Dutta (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:NaturalWeedManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -1229,15 +1229,15 @@ vocab:OnlyUseMachineryOnDryPeriods a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:CommunityEngagement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Organise activities for the local community (e.g. participation evenings, workshops, parties)"@en,
         "Activiteiten voor de lokale gemeenschap organiseren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Paludicultuur a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -1251,26 +1251,26 @@ vocab:Paludicultuur a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:ParticipationInCollectivesNetworksOrBoardsEGWaterboardPolitics a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:RepresentationOfFarmers ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Participation in collectives, networks or boards (e.g. waterboard, politics)"@en,
         "Deelname aan collectieven, netwerken en besturen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:ParticipationInStudyGroupsReconsideringHumanNonhumanRelations a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:InformalLearning ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Participation in study groups, (reconsidering human-nonhuman relations)"@en,
         "Deelname aan studiegroepen over relaties tussen mens en natuur"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Permaculture a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
@@ -1385,15 +1385,15 @@ vocab:PlantingShadeTrees a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:Pond a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Water_reservoir_used_for_irrigation_at_Hikkim_Village_spiti_India.jpg> ;
     skos:broader vocab:WaterStorage ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Pond"@en,
         "Poel"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Water%20reservoir%20used%20for%20irrigation%20at%20Hikkim%20Village%20spiti%20India.jpg?width=960> ;
+    schema:creditText "Foto: Sumita Roy Dutta (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:PreparationMadeFromOrganicMaterials a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -1440,15 +1440,15 @@ vocab:ProtectNativeSpecies a skos:Concept ;
     schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
 
 vocab:ProvideCareFarming a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:IncomeBroadeningMeso ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Provide care farming"@en,
         "Zorglandbouw aanbieden"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:RainfedSystem a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -1585,15 +1585,15 @@ vocab:RelayIntercropping a skos:Concept ;
     schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:RemoteSensingMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Agricultural_art.jpg> ;
     skos:broader vocab:MeasuringAndMonitoring ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Remote sensing monitoring"@en,
         "Monitoring via remote sensing"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
-    schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agricultural%20art.jpg?width=960> ;
+    schema:creditText "Foto: Antarsih / Wikimedia Commons (CC BY 4.0)."@nl .
 
 vocab:RestrictionInQuanityAboveLegalNorms a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -1657,15 +1657,15 @@ vocab:RuggedVegetation a skos:Concept ;
     schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
 
 vocab:SatelliteImageryAndMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Czech_Agriculture_from_Space_ESA360858.jpg> ;
     skos:broader vocab:MeasuringAndMonitoring ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Satellite imagery and monitoring"@en,
         "Satellietbeelden en monitoring"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
-    schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Czech%20Agriculture%20from%20Space%20ESA360858.jpg?width=960> ;
+    schema:creditText "Foto: ESA / Wikimedia Commons (CC BY-SA 3.0 IGO)."@nl .
 
 vocab:SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -1725,15 +1725,15 @@ vocab:SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital a skos:Con
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:SheepWoolFertilizer a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_shearing_Holland.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Sheep wool fertilizer"@en,
         "Schapenwol als meststof"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960> ;
-    schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep%20shearing%20Holland.jpg?width=960> ;
+    schema:creditText "Foto: Peter van der Sluijs (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Shells a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -1758,15 +1758,15 @@ vocab:SilageFeedSampleAnalysis a skos:Concept ;
     schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
 
 vocab:SinusMowingMosaikMowing a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Mowing_the_Meadow_-_geograph.org.uk_-_1361509.jpg> ;
     skos:broader vocab:DiversificationOfMowingActivitiesOnFieldAndFarmScale ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Nano" ;
     skos:prefLabel "sinus mowing, mosaik mowing,"@en,
         "Sinusmaaien en mozaïekmaaien"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Mowing%20the%20Meadow%20-%20geograph.org.uk%20-%201361509.jpg?width=960> ;
+    schema:creditText "Foto: Geograph / Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:SoilSampling a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
@@ -1802,15 +1802,15 @@ vocab:SolidManure a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:SpaceForTheAnimalsToSleepAndRest a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:AnimalHousing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "space for the animals to sleep and rest"@en,
         "Rust- en ligruimte voor dieren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:Standweide a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -1907,15 +1907,15 @@ vocab:SubsurfaceDrainage a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:SuitableMaterialForAnimalBedding a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:AnimalHousing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "suitable material for animal bedding"@en,
         "Geschikt strooiselmateriaal voor dieren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:SummerCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -1931,15 +1931,15 @@ vocab:SummerCoverCrops a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:SustainabilityCertificationEGOrganicBiodynamicOnTheWayTo a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Inspection_for_organic_certification_for_Lakadong_Turmeric_In_presence_of_Trinity_Saioo.jpg> ;
     skos:broader vocab:IncomeBroadeningPaymentsForEcosystemServices ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "(Sustainability) certification (e.g. organic, biodynamic, on the way to...)"@en,
         "Duurzaamheidscertificering (biologisch, biodynamisch enzovoort)"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Inspection%20for%20organic%20certification%20for%20Lakadong%20Turmeric%20In%20presence%20of%20Trinity%20Saioo.jpg?width=960> ;
+    schema:creditText "Foto: Trinity Saioo (CC0 1.0)."@nl .
 
 vocab:SustainabilityPaymentsByChainPartners a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
@@ -2065,15 +2065,15 @@ vocab:UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertiliz
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:UseOfResidualMaterials a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Wood_chips_from_encroacher_bush_ready_for_industrial_use.jpg> ;
     skos:broader vocab:ReduceExternalInputs ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Use of residual materials"@en,
         "Restmaterialen gebruiken"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Wood%20chips%20from%20encroacher%20bush%20ready%20for%20industrial%20use.jpg?width=960> ;
+    schema:creditText "Foto: GIZ Bush Control and Biomass Utilisation Project (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:UsingOrganicFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -2111,26 +2111,26 @@ vocab:VoisinRationalGrazing a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:WalkingTrailsOnFarmLandCamping a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Saddlescombe_farm_campsite_2025-08-26.jpg> ;
     skos:broader vocab:Agrotourism ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Walking trails on farm land, camping,"@en,
         "Wandelpaden en kamperen op landbouwgrond"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Saddlescombe%20farm%20campsite%202025-08-26.jpg?width=960> ;
+    schema:creditText "Foto: Andy Li (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:WaterBuffers a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Water_reservoir_used_for_irrigation_at_Hikkim_Village_spiti_India.jpg> ;
     skos:broader vocab:WaterStorage ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Water buffers"@en,
         "Waterbuffers"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Water%20reservoir%20used%20for%20irrigation%20at%20Hikkim%20Village%20spiti%20India.jpg?width=960> ;
+    schema:creditText "Foto: Sumita Roy Dutta (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:WaterFiltration a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -2144,37 +2144,37 @@ vocab:WaterFiltration a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:WaterManagementPlan a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Balsa_de_riego_Aberasturi_01.JPG> ;
     skos:broader vocab:DiagnosisAndManagementPlansMeso ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "water management plan"@en,
         "Waterbeheerplan"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Balsa%20de%20riego%20Aberasturi%2001.JPG?width=960> ;
+    schema:creditText "Foto: Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:WaterReservoirs a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Balsa_de_riego_Aberasturi_01.JPG> ;
     skos:broader vocab:WaterStorage ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Water reservoirs"@en,
         "Waterreservoirs"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Balsa%20de%20riego%20Aberasturi%2001.JPG?width=960> ;
+    schema:creditText "Foto: Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:WettedZonesSwalesForMeadowBirds a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Vluchtheuvel_weiland.jpg> ;
     skos:broader vocab:HabitatProvisionBiodiversityEnhancement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Wetted zones/swales (for meadow birds)"@en,
         "Natte zones en greppels voor weidevogels"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
-    schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Vluchtheuvel%20weiland.jpg?width=960> ;
+    schema:creditText "Foto: Apus apus (Commons vrije licentie; controleer bronpagina)."@nl .
 
 vocab:WindEnergy a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg> ;
@@ -2213,29 +2213,29 @@ vocab:WinterCropsIntermediateCrops a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:WoodBioplastics a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Wood_chips_from_encroacher_bush_ready_for_industrial_use.jpg> ;
     skos:broader vocab:UseOfNaturalRenewableResources ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Nano" ;
     skos:prefLabel "wood, bioplastics"@en,
         "Hout en bioplastics"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Wood%20chips%20from%20encroacher%20bush%20ready%20for%20industrial%20use.jpg?width=960> ;
+    schema:creditText "Foto: GIZ Bush Control and Biomass Utilisation Project (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:WoodChips a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Wood_chip_pile.jpg> ;
     skos:broader vocab:UseOfSpecificFertilizerTypesOrManure ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:notation "Micro" ;
     skos:prefLabel "Wood chips"@en,
         "Houtsnippers"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960> ;
-    schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Wood%20chip%20pile.jpg?width=960> ;
+    schema:creditText "Foto: Geo Lightspeed7 (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Agrotourism a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Scholtenpad_farm_campsite_near_Meddo.JPG> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2243,8 +2243,8 @@ vocab:Agrotourism a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Agrotourism"@en,
         "Agritoerisme"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Scholtenpad%20farm%20campsite%20near%20Meddo.JPG?width=960> ;
+    schema:creditText "Foto: MartinD (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:Bioeconomy a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -2259,7 +2259,7 @@ vocab:Bioeconomy a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:BuildingForEmissionReduction a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:AnimalHousing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2267,11 +2267,11 @@ vocab:BuildingForEmissionReduction a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "building for emission reduction"@en,
         "Gebouwen voor emissiereductie"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:CommunityEngagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2279,8 +2279,8 @@ vocab:CommunityEngagement a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Community engagement"@en,
         "Betrokkenheid van de lokale gemeenschap"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:CropProductionManagementGrasslandManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -2295,7 +2295,7 @@ vocab:CropProductionManagementGrasslandManagement a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Vluchtheuvel_weiland.jpg> ;
     skos:broader vocab:AdaptiveMowingManagement ;
     skos:definition "diversification of mowing activitiesfarm scale to benefit biodiversity"@en,
         "Het uitstellen van maaiwerkzaamheden om bijvoorbeeld broedende weidevogels of botanische waarden te beschermen."@nl ;
@@ -2305,11 +2305,11 @@ vocab:DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly a 
     skos:notation "Micro" ;
     skos:prefLabel "delayed mowing date for meadow bird protection ( 15 June) or botanical protection (July)"@en,
         "Uitgestelde maaidatum voor weidevogels (15 juni) of botanisch beheer (juli)"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
-    schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Vluchtheuvel%20weiland.jpg?width=960> ;
+    schema:creditText "Foto: Apus apus (Commons vrije licentie; controleer bronpagina)."@nl .
 
 vocab:DiversificationOfMowingActivitiesOnFieldAndFarmScale a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Mowing_the_Meadow_-_geograph.org.uk_-_1361509.jpg> ;
     skos:broader vocab:AdaptiveMowingManagement ;
     skos:definition "diversification of mowing activities on field and farm scale to benefit biodiversity and improve connectivity of habitats"@en,
         "Het variëren van maaimomenten of maaibeheer binnen percelen en bedrijven om biodiversiteit en de verbinding tussen leefgebieden te ondersteunen."@nl ;
@@ -2319,8 +2319,8 @@ vocab:DiversificationOfMowingActivitiesOnFieldAndFarmScale a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "diversification of mowing activities on field and farm scale"@en,
         "Diversificatie van maaibeheer op perceels- en bedrijfsniveau"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Mowing%20the%20Meadow%20-%20geograph.org.uk%20-%201361509.jpg?width=960> ;
+    schema:creditText "Foto: Geograph / Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:EcologicalWaterwayAndDitchManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
@@ -2347,7 +2347,7 @@ vocab:ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod a skos:C
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:FarmEducation a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2355,8 +2355,8 @@ vocab:FarmEducation a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Farm education"@en,
         "Educatie op het landbouwbedrijf"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:FinancialManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -2383,7 +2383,7 @@ vocab:FlowerHerbNatureStrips a skos:Concept ;
     schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
 
 vocab:FormalLearning a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:RegenerativeCapacityClassificationElement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2391,11 +2391,11 @@ vocab:FormalLearning a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "formal learning"@en,
         "Formeel leren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:FormsOfDirectFoodProvisioning a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2403,11 +2403,11 @@ vocab:FormsOfDirectFoodProvisioning a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Forms of direct food provisioning"@en,
         "Vormen van directe voedselvoorziening"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
+    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
 
 vocab:GreenCare a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2415,11 +2415,11 @@ vocab:GreenCare a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Green care"@en,
         "Groene zorg"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:InformalLearning a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:RegenerativeCapacityClassificationElement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2427,8 +2427,8 @@ vocab:InformalLearning a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Informal learning"@en,
         "Informeel leren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:InfraAndEquipmentManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -2469,7 +2469,7 @@ vocab:LimitationOfSpecificFertilizers a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:LivestockManagementAnimalHusbandryMacro a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:LivestockManagementAnimalHusbandryMega ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2477,11 +2477,11 @@ vocab:LivestockManagementAnimalHusbandryMacro a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "Livestock management / animal husbandry"@en,
         "Veehouderijbeheer"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:LivestockManagementAnimalHusbandryMega a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
     skos:narrower vocab:LivestockManagementAnimalHusbandryMacro ;
@@ -2489,8 +2489,8 @@ vocab:LivestockManagementAnimalHusbandryMega a skos:Concept ;
     skos:prefLabel "Livestock management / animal husbandry"@en,
         "Veehouderijbeheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:MaintainWaterlevelsConstant a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -2632,7 +2632,7 @@ vocab:ReductionOrganicFertilizers a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:RepresentationOfFarmers a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2640,8 +2640,8 @@ vocab:RepresentationOfFarmers a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Representation of farmers"@en,
         "Belangenvertegenwoordiging van boeren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:ShallowTillage a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -2743,7 +2743,7 @@ vocab:WaterSavingIrrigation a skos:Concept ;
     schema:creditText "Foto: USDA (Public domain (US federal government))."@nl .
 
 vocab:AdaptiveMowingManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Mowing_the_Meadow_-_geograph.org.uk_-_1361509.jpg> ;
     skos:broader vocab:GrasslandAndGrazing ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2752,8 +2752,8 @@ vocab:AdaptiveMowingManagement a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "adaptive mowing management"@en,
         "Adaptief maaibeheer"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Mowing%20the%20Meadow%20-%20geograph.org.uk%20-%201361509.jpg?width=960> ;
+    schema:creditText "Foto: Geograph / Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:DiagnosisAndManagementPlansMacro a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
@@ -2914,7 +2914,7 @@ vocab:BioeconomyEnergyEfficiencyAndProduction a skos:Concept ;
     schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
 
 vocab:CultivationOfSpecificCropsOrVarieties a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:CropManagament ;
     skos:definition "practices where the farmer is requested to use improved crop varieties and/or certified seeds"@en ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
@@ -2925,8 +2925,8 @@ vocab:CultivationOfSpecificCropsOrVarieties a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Cultivation of specific crops or varieties"@en,
         "Teelt van specifieke gewassen of rassen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:DiagnosisAndManagementPlansMeso a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
@@ -2985,7 +2985,7 @@ vocab:LandManagement a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:NativeCropAndAnimalSpecies a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:WildlifeProtection ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -2995,8 +2995,8 @@ vocab:NativeCropAndAnimalSpecies a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Native crop and animal species"@en,
         "Inheemse gewas- en diersoorten"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960> ;
-    schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic%20agriculture%20in%20the%20Netherlands%20(P-025148-00-08).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:PlantProtection a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3135,7 +3135,7 @@ vocab:SpecificFertilizerApplicationTechniques a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:WaterManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Balsa_de_riego_Aberasturi_01.JPG> ;
     skos:broader vocab:LandManagement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -3146,8 +3146,8 @@ vocab:WaterManagement a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "Water management"@en,
         "Waterbeheer"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Balsa%20de%20riego%20Aberasturi%2001.JPG?width=960> ;
+    schema:creditText "Foto: Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:CropDiversificationCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3253,7 +3253,7 @@ vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting 
     schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:FarmCitizenInteractions a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
     skos:broader vocab:PeopleManagement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -3266,8 +3266,8 @@ vocab:FarmCitizenInteractions a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "farm-citizen interactions"@en,
         "Interacties tussen landbouwbedrijf en burgers"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:FarmSocioEconomicManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3304,7 +3304,7 @@ vocab:GrasslandAndGrazing a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:MeasuringAndMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Agricultural_art.jpg> ;
     skos:broader vocab:DiagnosisAndManagementPlansMacro ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -3317,8 +3317,8 @@ vocab:MeasuringAndMonitoring a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Measuring and monitoring"@en,
         "Meten en monitoren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
-    schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agricultural%20art.jpg?width=960> ;
+    schema:creditText "Foto: Antarsih / Wikimedia Commons (CC BY 4.0)."@nl .
 
 vocab:ReduceExternalInputs a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
@@ -3355,7 +3355,7 @@ vocab:SoilAmendments a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:AnimalHousing a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Dairy_farm_(P-062705-00-19).jpg> ;
     skos:broader vocab:LivestockManagementAnimalHusbandryMacro ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -3369,8 +3369,8 @@ vocab:AnimalHousing a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "animal housing"@en,
         "Dierhuisvesting"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960> ;
-    schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Dairy%20farm%20(P-062705-00-19).jpg?width=960> ;
+    schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:ExtensiveCropRotations a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3507,7 +3507,7 @@ vocab:SoilAndMachineryUse a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:WaterStorage a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Balsa_de_riego_Aberasturi_01.JPG> ;
     skos:broader vocab:WaterManagement ;
     skos:editorialNote "Definition pending scientific review; no generic placeholder has been inserted."@en ;
     skos:inScheme vocab: ;
@@ -3523,8 +3523,8 @@ vocab:WaterStorage a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Water storage"@en,
         "Wateropslag"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960> ;
-    schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Balsa%20de%20riego%20Aberasturi%2001.JPG?width=960> ;
+    schema:creditText "Foto: Wikimedia Commons (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:HabitatProvisionBiodiversityEnhancement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
