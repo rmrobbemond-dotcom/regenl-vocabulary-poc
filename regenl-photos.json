@@ -1,4 +1,289 @@
 {
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AddingWaterToSlurryManure": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioInocculantsBiostimulantEffectiveMicroorganismsOrganicBasedPreparations": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Biofertilizer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompostTea": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompostUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DepeningOnTheNeedOfTheCropLesOrLessOften": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EGAnimalManure": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FoliarFertilizerUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GreenManureUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Gypsum": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HumanureComposting": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncorperatingCropResidues": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MoreEfficientFertilizerAplication": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoExternalFertilizersUsedAsInput": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFertilizationAlongsideOpenWater": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PreparationMadeFromOrganicMaterials": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingFertilizerUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReducingSysntheticNFerterilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RestrictionInQuanityAboveLegalNorms": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RestrictionInTimingAboveLegalNorms": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SheepWoolFertilizer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Shells": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SolidManure": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StoneFlowerZelolith": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SyntheticFertilizer": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfBokashi": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UsingOrganicFertilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Vermicompost": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WoodChips": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Liming": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOfSpecificFertilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoSyntheticFertilizerUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticFertilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOrganicFertilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilInnoculationWithMicrobiology": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SpecificFertilizerApplicationTechniques": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FertilizationAndManureManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfSpecificFertilizerTypesOrManure": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
+    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AfforestationReforestationReplantingTrees": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FoodForest": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ForestConservation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Permaculture": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGrasslandTreesHedges": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantingShadeTrees": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ShadeTreePlanting": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SyntropicFarming": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvoarable": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvopasture": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (Public domain (US federal government))."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UsePerennialsMeso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UsePerennialsMicro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Reforestation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreePlanning": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Agroforestry": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Agroforestry.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Agroforestry.jpg",
@@ -14,10 +299,235 @@
     "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
     "credit": "Foto: Andy Li (CC0 1.0)."
   },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ClimateAndLightControl": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Food_crops_only": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LocalOrRegionalCollaborationBetweenSectorsEGCropLivestock": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MixedFarmingIntegrateLivestock": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoResidualStreams": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceDependencyOnFossilFuel": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelfSufficiency": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SolarPannels": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
     "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseLocalInputs": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfResidualMaterials": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WoodBioplastics": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfNaturalRenewableResources": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ResourceSharingCollaborationBetweenArableProductionAndDairy": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioeconomyEnergyEfficiencyAndProduction": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RenewableEnergy": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg",
+    "credit": "Foto: Andy Li (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AlternativeBiocontrolProductUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Insect_hotel.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg",
+    "credit": "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InsectHotels": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Insect_hotel.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg",
+    "credit": "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ApplicationMachinesWithLowerAxelweight10TonsAxle": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ChiselPlowingSubsoiling": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ControlledTrafficLanes": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ControlledTrafficLanesPerSeason": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DirectSeeding": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DragHoseManureSpreading": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcoPlough": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Flachenrotte": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HugelkulturRaisedBeds": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepLivingRoots": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeTractorUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimumTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoHeavyMachinery": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoTillageMicro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OnlyUseMachineryOnDryPeriods": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHeavyMachinery": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceMechanizationManualLowTechFarming": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ShallowNonInversionTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StripTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StubbleRetentionIncorporateCropResiduesLeftoverPruningMaterialIncorporateStrawUseGreenCompostGreenManure": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MulchingWithCropResidues": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoTillageMeso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonInversionTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ShallowTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceTillageMinimalTillage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSeedbedPreparation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAndMachineryUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
+    "credit": "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Biochar": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Charged_and_inoculated_biochar_ready_for_soil_application.jpg?width=960",
@@ -29,52 +539,892 @@
     "source": "https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg",
     "credit": "Foto: Paul Gipe (CC BY-SA 4.0)."
   },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Digestate": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BiogasDigesterDenmark652021.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg",
+    "credit": "Foto: Paul Gipe (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BiodiversityLanesFieldMarginsSteppingStones05Ha": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BiodiversitySheltersEGBushes": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
     "credit": "Foto: Stanley Howe (Controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BirdAndBatBoxes": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DelayedMowingDateForBirdProtection": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LocalOrNativeCropAndAnimalSpecies": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NativeTrees": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalBufferZones": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentVegetationAtBordersDitchCleaningBaggerenPreventLivestockAccessToWaterways": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ProtectNativeSpecies": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RuggedVegetation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SteppingStones05Ha": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreesAndHedgesAsHabitat": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
     "credit": "Foto: Stanley Howe (Controleer licentie op Commons)."
   },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WettedZonesSwalesForMeadowBirds": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcologicalWaterwayAndDitchManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FlowerHerbNatureStrips": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NativeCropAndAnimalSpecies": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg",
+    "credit": "Foto: Stanley Howe (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BreakPeriodInTheRotation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CatchCrops": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
     "credit": "Foto: Hugh Venables (Controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropRotation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DeepRootedSpecies": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DifferentTypesOfClients": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiversifiedCropRotation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DroughtTolerantCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcosystemservicePaymentsFromGovernment": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FoodPurchasingByCitizensCooperatives": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HaveAMinimumRotationLengthOf6YearsFallow": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningMicro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IntegratedPestManagementPrinciplesIPM": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IntegratedWeedManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LegumesNFixingPlantsInOration": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MechanicalPestManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MechanicalWeedManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MultispeciesCoverCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalPestManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalWeedManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFungicides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoHerbicides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoInsecticides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoSyntheticPesticides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonFarmAndOffFarmEmployment": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OnFarmProcessing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGreeningGreenCoverOnPermanentCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ProvideCareFarming": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceFungicides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHerbicides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceInsecticides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticPesticides": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SummerCoverCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseBreakCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WinterCoverCrops": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
     "credit": "Foto: Hugh Venables (Controleer licentie op Commons)."
   },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WinterCropsIntermediateCrops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Bioeconomy": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FinancialManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormsOfDirectFoodProvisioning": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GreenCare": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InfraAndEquipmentManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LivestockManagementAnimalHusbandryMacro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LivestockManagementAnimalHusbandryMega": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NewFormsOfAccessToLandLabourCapital": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PluralactivityWorkBeyondFarm": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningMeso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IndividualAndCollectiveFormsOfCostReducingMeasures": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PeopleManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RegenerativeCapacityClassificationElement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CultivationOfSpecificCropsOrVarieties": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningPaymentsForEcosystemServices": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LandManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantProtection": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropManagament": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
     "credit": "Foto: Hugh Venables (Controleer licentie op Commons)."
   },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompostUse": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg",
-    "credit": "Foto: Alandislands (CC BY-SA; controleer versie)."
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmCitizenInteractions": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeDeepeningIncreasingAddedValueOfProduct": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonChemicalControlWeedsPestsAndDiseases": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg",
+    "credit": "Foto: Hugh Venables (controleer licentie op Commons)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CSASelfPickingOnFarmsShops": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg",
+    "credit": "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CollectiveBrand": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg",
+    "credit": "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityBasedSupportedAgriculture": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg",
+    "credit": "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DirectOnfarmAndCollectiveFormsOfSales": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg",
+    "credit": "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PrivateBrand": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg",
+    "credit": "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CollectiveProssesing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CrowdfundingZoopSharesTimebankingOfLabour": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FaciliateFarmVisits": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ParticipationInCollectivesNetworksOrBoardsEGWaterboardPolitics": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ParticipationInStudyGroupsReconsideringHumanNonhumanRelations": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SustainabilityCertificationEGOrganicBiodynamicOnTheWayTo": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SustainabilityPaymentsByChainPartners": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WalkingTrailsOnFarmLandCamping": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Agrotourism": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityEngagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmEducation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormalLearning": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InformalLearning": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RepresentationOfFarmers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg",
+    "credit": "Foto: WaxPhilosophic (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompartmentedContinousGrazingNewNederlandsWeiden": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf1500HoursYear": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveSpeciesRichGrassland": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingTrainingOfYoungstock": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HolisticGrazing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InputReductionOfEGAgrochemicalsAndFeed": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MOBGrazing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MobileChickenCoopsMicro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MobileChickenCoopsNano": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGrasslandSwardAtLeast5YearsOldRenewedWithin15years": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGrasslandSwardOlderThan15Year": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGrasslandSwardRegularyRenewedWithinThe5Years": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ProductiveMultispeciesSward": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RotationalGrazing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SinusMowingMosaikMowing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SpaceForTheAnimalsToSleepAndRest": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Standweide": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SuitableMaterialForAnimalBedding": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TemporaryGrasslandSwardYoungerThan5Years": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/VoisinRationalGrazing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BuildingForEmissionReduction": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagementGrasslandManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiversificationOfMowingActivitiesOnFieldAndFarmScale": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OutdoorAccess": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AdaptiveMowingManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandTypeEnhancedSpeciesRichness": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandTypeSwardAge": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AnimalHousing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingSystem": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
+    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Ditches": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DripIrrigation": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
     "credit": "Foto: USDA (Public domain (US federal government))."
   },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DryFarming": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InfiltrationChannels": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMicro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeIrrigation": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalWaterHarvesting": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Paludicultuur": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Pond": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RainfedSystem": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceWaterUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SubsurfaceDrainage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Swales": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterBuffers": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterFiltration": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagementPlan": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterReservoirs": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MaintainWaterlevelsConstant": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterSavingIrrigation": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
     "credit": "Foto: USDA (Public domain (US federal government))."
   },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InsectHotels": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Insect_hotel.jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg",
-    "credit": "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMeso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeWaterUse": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterStorage": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drip_irrigation.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg",
+    "credit": "Foto: USDA (public domain, U.S. federal government)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ManureSampleAnalysis": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MonitoringOfAnimalWelfare": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NutrientManagementPlan": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PesticidesManagementPlan": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantJuiceAnalysis": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RemoteSensingMonitoring": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SatelliteImageryAndMonitoring": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SilageFeedSampleAnalysis": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSampling": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiagnosisAndManagementPlansMacro": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiagnosisAndManagementPlansMeso": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MeasuringAndMonitoring": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
+    "credit": "Foto: Alessandro Samuel-Rosa (CC0 1.0)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MixedIntercroppingMixedCropping": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
+    "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
+  },
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RelayIntercropping": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
     "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
@@ -84,30 +1434,20 @@
     "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
     "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
   },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting": {
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StripCropping": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
     "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
   },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoTillageMicro": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
-    "credit": "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UnderSowing": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
+    "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
   },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoTillageMeso": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Soil_Health_(20220420-NRCS-UNK-063).jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg",
-    "credit": "Foto: Jason Johnson / USDA NRCS (Public domain (US federal government))."
-  },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RotationalGrazing": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg",
-    "credit": "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."
-  },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSampling": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg",
-    "credit": "Foto: Alessandro Samuel-rosa (CC0 1.0)."
+  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting": {
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Intercropping_maize_and_beans.jpg?width=960",
+    "source": "https://commons.wikimedia.org/wiki/File:Intercropping_maize_and_beans.jpg",
+    "credit": "Foto: AnnaJB (CC BY-SA 4.0)."
   },
   "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StripGrazing": {
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Strip_Grazing_at_Merrivale_Farm_-_geograph.org.uk_-_158315.jpg?width=960",
@@ -118,10 +1458,5 @@
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg?width=960",
     "source": "https://commons.wikimedia.org/wiki/File:Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg",
     "credit": "Foto: Geograph contributor (Controleer licentie op Commons)."
-  },
-  "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvopasture": {
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cattle_grazing_in_a_silvopasture._(25086463696).jpg?width=960",
-    "source": "https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg",
-    "credit": "Foto: USDA (Public domain (US federal government))."
   }
 }

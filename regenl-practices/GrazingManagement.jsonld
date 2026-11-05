@@ -15,6 +15,20 @@
   ],
   "narrower": [
     {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf1500HoursYear",
+      "prefLabel": {
+        "en": "Extended grazing time: minimum of 1500 hours/year",
+        "nl": "Verlengde weidegang: minimaal 1.500 uur per jaar"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear",
+      "prefLabel": {
+        "en": "Extended grazing time: minimum of 720 hours/year (maximum of 1500 hours per year)",
+        "nl": "Verlengde weidegang: 720–1.500 uur per jaar"
+      }
+    },
+    {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral",
       "prefLabel": {
         "en": "Grazing (general)",

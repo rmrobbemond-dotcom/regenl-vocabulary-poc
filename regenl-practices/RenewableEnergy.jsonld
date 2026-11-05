@@ -22,10 +22,24 @@
       }
     },
     {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Biodigester",
+      "prefLabel": {
+        "en": "Biodigester",
+        "nl": "Vergistingsinstallatie"
+      }
+    },
+    {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceDependencyOnFossilFuel",
       "prefLabel": {
         "en": "Reduce dependency on fossil fuel",
         "nl": "Afhankelijkheid van fossiele brandstoffen verminderen"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SolarPannels",
+      "prefLabel": {
+        "en": "Solar pannels",
+        "nl": "Zonnepanelen"
       }
     },
     {
