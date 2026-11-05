@@ -2787,4 +2787,3 @@ vocab: a skos:ConceptScheme ;
         vocab:SolarPannels ;
     skos:prefLabel "ReGeNL regenerative practice framework"@en,
         "ReGeNL raamwerk regeneratieve landbouwpraktijken"@nl .
-
