@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MulchingWithCropResidues",
   "type": "Concept",
   "prefLabel": {
-    "en": "Mulching with crop residues"
+    "en": "Mulching with crop residues",
+    "nl": "Mulchen met gewasresten"
   },
   "definition": {
-    "en": "leaving or applying crop residues on the soil"
+    "en": "leaving or applying crop residues on the soil",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op mulchen met gewasresten. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -14,14 +21,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StubbleRetentionIncorporateCropResiduesLeftoverPruningMaterialIncorporateStrawUseGreenCompostGreenManure",
       "prefLabel": {
-        "en": "Stubble retention; Incorporate crop residues; Leftover pruning material; Incorporate straw; Use green compost ; green manure"
+        "en": "Stubble retention; Incorporate crop residues; Leftover pruning material; Incorporate straw; Use green compost ; green manure",
+        "nl": "Stoppelresten behouden en organische restmaterialen inwerken"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSeedbedPreparation",
     "prefLabel": {
-      "en": "soil - seedbed preparation"
+      "en": "soil - seedbed preparation",
+      "nl": "Bodem- en zaaibedvoorbereiding"
     }
   },
   "inScheme": [

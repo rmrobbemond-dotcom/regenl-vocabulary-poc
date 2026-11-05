@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StripGrazing",
   "type": "Concept",
   "prefLabel": {
-    "en": "strip grazing"
+    "en": "strip grazing",
+    "nl": "Stripgrazen"
   },
   "definition": {
-    "en": "a rotational grazing method where animals are given access to a narrow strip of pasture using a temporary, movable fence, like electric tape"
+    "en": "a rotational grazing method where animals are given access to a narrow strip of pasture using a temporary, movable fence, like electric tape",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op stripgrazen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +20,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingSystem",
     "prefLabel": {
-      "en": "grazing system"
+      "en": "grazing system",
+      "nl": "Beweidingssysteem"
     }
   },
   "inScheme": [

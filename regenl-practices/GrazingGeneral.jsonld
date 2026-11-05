@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral",
   "type": "Concept",
   "prefLabel": {
-    "en": "Grazing (general)"
+    "en": "Grazing (general)",
+    "nl": "Beweiding (algemeen)"
   },
   "definition": {
-    "en": "for the label \"weidemelk\" the minimum grazing period is 120 days for 6 hours a day, addional payments if grazing is extended"
+    "en": "for the label \"weidemelk\" the minimum grazing period is 120 days for 6 hours a day, addional payments if grazing is extended",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op beweiding (algemeen). De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +20,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement",
     "prefLabel": {
-      "en": "grazing management"
+      "en": "grazing management",
+      "nl": "Beweidingsbeheer"
     }
   },
   "inScheme": [

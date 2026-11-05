@@ -2,7 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SpecificFertilizerApplicationTechniques",
   "type": "Concept",
   "prefLabel": {
-    "en": "Specific fertilizer application techniques"
+    "en": "Specific fertilizer application techniques",
+    "nl": "Specifieke bemestingstechnieken"
+  },
+  "definition": {
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op specifieke bemestingstechnieken. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,32 +20,37 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AddingWaterToSlurryManure",
       "prefLabel": {
-        "en": "Adding water to slurry manure"
+        "en": "Adding water to slurry manure",
+        "nl": "Water toevoegen aan drijfmest"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DepeningOnTheNeedOfTheCropLesOrLessOften",
       "prefLabel": {
-        "en": "Depening on the need of the crop (les or less often)"
+        "en": "Depening on the need of the crop (les or less often)",
+        "nl": "Afstemmen op gewasbehoefte (minder of minder vaak)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MoreEfficientFertilizerAplication",
       "prefLabel": {
-        "en": "More efficient fertilizer aplication"
+        "en": "More efficient fertilizer aplication",
+        "nl": "Efficiëntere meststoftoediening"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFertilizationAlongsideOpenWater",
       "prefLabel": {
-        "en": "No fertilization alongside open water"
+        "en": "No fertilization alongside open water",
+        "nl": "Niet bemesten langs open water"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FertilizationAndManureManagement",
     "prefLabel": {
-      "en": "fertilization and manure management"
+      "en": "fertilization and manure management",
+      "nl": "Bemesting en mestbeheer"
     }
   },
   "inScheme": [

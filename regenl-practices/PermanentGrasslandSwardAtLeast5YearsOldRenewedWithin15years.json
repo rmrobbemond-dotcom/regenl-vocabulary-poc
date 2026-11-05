@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGrasslandSwardAtLeast5YearsOldRenewedWithin15years",
   "type": "Concept",
   "prefLabel": {
-    "en": "permanent grassland sward  at least 5 years old renewed within 15years"
+    "en": "permanent grassland sward  at least 5 years old renewed within 15years",
+    "nl": "Blijvend grasland van minstens vijf jaar, vernieuwd binnen vijftien jaar"
   },
   "definition": {
-    "en": "see definition permanent grassland types"
+    "en": "see definition permanent grassland types",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op blijvend grasland van minstens vijf jaar, vernieuwd binnen vijftien jaar. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +20,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandTypeSwardAge",
     "prefLabel": {
-      "en": "grassland type - sward age"
+      "en": "grassland type - sward age",
+      "nl": "Graslandtype naar leeftijd van de zode"
     }
   },
   "inScheme": [

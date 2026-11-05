@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
   "type": "Concept",
   "prefLabel": {
-    "en": "Grassland and grazing"
+    "en": "Grassland and grazing",
+    "nl": "Grasland en beweiding"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to grassland and grazing. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op grasland en beweiding. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Macro"
@@ -11,44 +21,51 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingSystem",
       "prefLabel": {
-        "en": "grazing system"
+        "en": "grazing system",
+        "nl": "Beweidingssysteem"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandTypeEnhancedSpeciesRichness",
       "prefLabel": {
-        "en": "grassland type - enhanced species richness"
+        "en": "grassland type - enhanced species richness",
+        "nl": "Graslandtype met verhoogde soortenrijkdom"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement",
       "prefLabel": {
-        "en": "grazing management"
+        "en": "grazing management",
+        "nl": "Beweidingsbeheer"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandTypeSwardAge",
       "prefLabel": {
-        "en": "grassland type - sward age"
+        "en": "grassland type - sward age",
+        "nl": "Graslandtype naar leeftijd van de zode"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AdaptiveMowingManagement",
       "prefLabel": {
-        "en": "adaptive mowing management"
+        "en": "adaptive mowing management",
+        "nl": "Adaptief maaibeheer"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod",
       "prefLabel": {
-        "en": "extensification of grazing management  - adaptive grazing management method"
+        "en": "extensification of grazing management  - adaptive grazing management method",
+        "nl": "Extensivering en adaptief beweidingsbeheer"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagementGrasslandManagement",
     "prefLabel": {
-      "en": "Crop production management : grassland management"
+      "en": "Crop production management : grassland management",
+      "nl": "Graslandbeheer binnen gewasproductie"
     }
   },
   "inScheme": [

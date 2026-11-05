@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NativeCropAndAnimalSpecies",
   "type": "Concept",
   "prefLabel": {
-    "en": "Native crop and animal species"
+    "en": "Native crop and animal species",
+    "nl": "Inheemse gewas- en diersoorten"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to native crop and animal species. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op inheemse gewas- en diersoorten. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,26 +21,30 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LocalOrNativeCropAndAnimalSpecies",
       "prefLabel": {
-        "en": "Local or native crop and animal species"
+        "en": "Local or native crop and animal species",
+        "nl": "Lokale of inheemse gewas- en diersoorten"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NativeTrees",
       "prefLabel": {
-        "en": "Native trees"
+        "en": "Native trees",
+        "nl": "Inheemse bomen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ProtectNativeSpecies",
       "prefLabel": {
-        "en": "Protect native species"
+        "en": "Protect native species",
+        "nl": "Inheemse soorten beschermen"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection",
     "prefLabel": {
-      "en": "wildlife protection"
+      "en": "wildlife protection",
+      "nl": "Bescherming van wilde dieren"
     }
   },
   "inScheme": [

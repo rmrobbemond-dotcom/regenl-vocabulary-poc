@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations",
   "type": "Concept",
   "prefLabel": {
-    "en": "Extensive crop rotations"
+    "en": "Extensive crop rotations",
+    "nl": "Ruime vruchtwisseling"
   },
   "definition": {
-    "en": "practices where the farmer is requested to use improved crop varieties and/or certified seeds"
+    "en": "practices where the farmer is requested to use improved crop varieties and/or certified seeds",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op ruime vruchtwisseling. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -14,50 +21,58 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BreakPeriodInTheRotation",
       "prefLabel": {
-        "en": "Break period in the rotation"
+        "en": "Break period in the rotation",
+        "nl": "Rustperiode in de vruchtwisseling"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropRotation",
       "prefLabel": {
-        "en": "Crop rotation"
+        "en": "Crop rotation",
+        "nl": "Vruchtwisseling"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiversifiedCropRotation",
       "prefLabel": {
-        "en": "diversified crop rotation"
+        "en": "diversified crop rotation",
+        "nl": "Gevarieerde vruchtwisseling"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HaveAMinimumRotationLengthOf6YearsFallow",
       "prefLabel": {
-        "en": "have a minimum rotation length of 6 years/ fallow"
+        "en": "have a minimum rotation length of 6 years/ fallow",
+        "nl": "Vruchtwisseling van minimaal zes jaar of braaklegging"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LegumesNFixingPlantsInOration",
       "prefLabel": {
-        "en": "Legumes (N-fixing plants) in oration"
+        "en": "Legumes (N-fixing plants) in oration",
+        "nl": "Vlinderbloemigen en stikstofbindende gewassen in de rotatie"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseBreakCrops",
       "prefLabel": {
-        "en": "Use break crops"
+        "en": "Use break crops",
+        "nl": "Rustgewassen telen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WinterCropsIntermediateCrops",
       "prefLabel": {
-        "en": "Winter crops / intermediate crops:"
+        "en": "Winter crops / intermediate crops:",
+        "nl": "Wintergewassen en tussengewassen"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropManagament",
     "prefLabel": {
-      "en": "Crop managament"
+      "en": "Crop managament",
+      "nl": "Gewasbeheer"
     }
   },
   "inScheme": [

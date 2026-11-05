@@ -2,7 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts",
   "type": "Concept",
   "prefLabel": {
-    "en": "Limitation on the use of plant protection products"
+    "en": "Limitation on the use of plant protection products",
+    "nl": "Beperking van gewasbeschermingsmiddelen"
+  },
+  "definition": {
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op beperking van gewasbeschermingsmiddelen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,32 +20,37 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFungicides",
       "prefLabel": {
-        "en": "No fungicides"
+        "en": "No fungicides",
+        "nl": "Geen fungiciden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoHerbicides",
       "prefLabel": {
-        "en": "No herbicides"
+        "en": "No herbicides",
+        "nl": "Geen herbiciden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoInsecticides",
       "prefLabel": {
-        "en": "No insecticides"
+        "en": "No insecticides",
+        "nl": "Geen insecticiden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoSyntheticPesticides",
       "prefLabel": {
-        "en": "No synthetic pesticides"
+        "en": "No synthetic pesticides",
+        "nl": "Geen synthetische gewasbeschermingsmiddelen"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantProtection",
     "prefLabel": {
-      "en": "plant protection"
+      "en": "plant protection",
+      "nl": "Gewasbescherming"
     }
   },
   "inScheme": [

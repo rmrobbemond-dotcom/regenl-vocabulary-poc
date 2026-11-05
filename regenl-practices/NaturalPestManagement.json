@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalPestManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Natural pest management"
+    "en": "Natural pest management",
+    "nl": "Natuurlijke plaagbeheersing"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op natuurlijke plaagbeheersing. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +23,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonChemicalControlWeedsPestsAndDiseases",
     "prefLabel": {
-      "en": "Non-chemical  control- weeds, pests and diseases"
+      "en": "Non-chemical  control- weeds, pests and diseases",
+      "nl": "Niet-chemische beheersing van onkruid, plagen en ziekten"
     }
   },
   "inScheme": [

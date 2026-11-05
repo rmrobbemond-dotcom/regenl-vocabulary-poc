@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoFungicides",
   "type": "Concept",
   "prefLabel": {
-    "en": "No fungicides"
+    "en": "No fungicides",
+    "nl": "Geen fungiciden"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op geen fungiciden. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +23,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "en": "Limitation on the use of plant protection products"
+      "en": "Limitation on the use of plant protection products",
+      "nl": "Beperking van gewasbeschermingsmiddelen"
     }
   },
   "inScheme": [

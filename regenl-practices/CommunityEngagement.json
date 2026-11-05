@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityEngagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Community engagement"
+    "en": "Community engagement",
+    "nl": "Betrokkenheid van de lokale gemeenschap"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to community engagement. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op betrokkenheid van de lokale gemeenschap. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,14 +21,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties",
       "prefLabel": {
-        "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)"
+        "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)",
+        "nl": "Activiteiten voor de lokale gemeenschap organiseren"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmCitizenInteractions",
     "prefLabel": {
-      "en": "farm-citizen interactions"
+      "en": "farm-citizen interactions",
+      "nl": "Interacties tussen landbouwbedrijf en burgers"
     }
   },
   "inScheme": [

@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RegenerativeCapacityClassificationElement",
   "type": "Concept",
   "prefLabel": {
-    "en": "regenerative capacity"
+    "en": "regenerative capacity",
+    "nl": "Regeneratief vermogen"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'regenerative capacity'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'regenerative capacity'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op regeneratief vermogen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Macro"
@@ -14,20 +24,23 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormalLearning",
       "prefLabel": {
-        "en": "formal learning"
+        "en": "formal learning",
+        "nl": "Formeel leren"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InformalLearning",
       "prefLabel": {
-        "en": "Informal learning"
+        "en": "Informal learning",
+        "nl": "Informeel leren"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PeopleManagement",
     "prefLabel": {
-      "en": "people management"
+      "en": "people management",
+      "nl": "Personeelsbeheer"
     }
   },
   "inScheme": [

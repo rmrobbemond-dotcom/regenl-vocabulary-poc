@@ -2,7 +2,8 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvoarable",
   "type": "Concept",
   "prefLabel": {
-    "en": "Silvoarable"
+    "en": "Silvoarable",
+    "nl": "Bomen gecombineerd met akkerbouw"
   },
   "altLabel": {
     "en": [
@@ -10,7 +11,13 @@
     ]
   },
   "definition": {
-    "en": "the integration of trees and arable crops on the same field"
+    "en": "the integration of trees and arable crops on the same field",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op bomen gecombineerd met akkerbouw. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"

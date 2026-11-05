@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PreparationMadeFromOrganicMaterials",
   "type": "Concept",
   "prefLabel": {
-    "en": "Preparation made from organic materials"
+    "en": "Preparation made from organic materials",
+    "nl": "Preparaat van organisch materiaal"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Preparation made from organic materials'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Preparation made from organic materials'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op preparaat van organisch materiaal. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +23,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
     "prefLabel": {
-      "en": "Soil amendments"
+      "en": "Soil amendments",
+      "nl": "Bodemverbeteraars"
     }
   },
   "inScheme": [

@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IndividualAndCollectiveFormsOfCostReducingMeasures",
   "type": "Concept",
   "prefLabel": {
-    "en": "Individual and collective forms of cost reducing measures"
+    "en": "Individual and collective forms of cost reducing measures",
+    "nl": "Individuele en collectieve kostenbesparende maatregelen"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to individual and collective forms of cost reducing measures. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op individuele en collectieve kostenbesparende maatregelen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,20 +21,23 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InputReductionOfEGAgrochemicalsAndFeed",
       "prefLabel": {
-        "en": "Input reduction of e.g. agrochemicals and feed"
+        "en": "Input reduction of e.g. agrochemicals and feed",
+        "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital",
       "prefLabel": {
-        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)"
+        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)",
+        "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "en": "Farm socio-economic management"
+      "en": "Farm socio-economic management",
+      "nl": "Sociaal-economisch bedrijfsbeheer"
     }
   },
   "inScheme": [

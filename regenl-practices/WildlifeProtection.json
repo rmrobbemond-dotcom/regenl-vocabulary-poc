@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection",
   "type": "Concept",
   "prefLabel": {
-    "en": "wildlife protection"
+    "en": "wildlife protection",
+    "nl": "Bescherming van wilde dieren"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to wildlife protection. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op bescherming van wilde dieren. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Macro"
@@ -11,20 +21,23 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement",
       "prefLabel": {
-        "en": "Habitat provision/ biodiversity enhancement"
+        "en": "Habitat provision/ biodiversity enhancement",
+        "nl": "Leefgebieden creëren en biodiversiteit versterken"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NativeCropAndAnimalSpecies",
       "prefLabel": {
-        "en": "Native crop and animal species"
+        "en": "Native crop and animal species",
+        "nl": "Inheemse gewas- en diersoorten"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LandManagement",
     "prefLabel": {
-      "en": "Land management"
+      "en": "Land management",
+      "nl": "Landbeheer"
     }
   },
   "inScheme": [

@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "grazing management"
+    "en": "grazing management",
+    "nl": "Beweidingsbeheer"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to grazing management. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op beweidingsbeheer. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,14 +21,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral",
       "prefLabel": {
-        "en": "Grazing (general)"
+        "en": "Grazing (general)",
+        "nl": "Beweiding (algemeen)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
     "prefLabel": {
-      "en": "Grassland and grazing"
+      "en": "Grassland and grazing",
+      "nl": "Grasland en beweiding"
     }
   },
   "inScheme": [

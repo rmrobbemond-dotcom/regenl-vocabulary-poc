@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOrganicFertilizers",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduction organic fertilizers"
+    "en": "Reduction organic fertilizers",
+    "nl": "Organische bemesting verminderen"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op organische bemesting verminderen. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -14,14 +24,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EGAnimalManure",
       "prefLabel": {
-        "en": "(e.g. animal manure)"
+        "en": "(e.g. animal manure)",
+        "nl": "Dierlijke mest"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
     "prefLabel": {
-      "en": "Reduction/ limitation of specific  fertilizers"
+      "en": "Reduction/ limitation of specific  fertilizers",
+      "nl": "Specifieke meststoffen verminderen of beperken"
     }
   },
   "inScheme": [

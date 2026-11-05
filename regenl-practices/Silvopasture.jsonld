@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvopasture",
   "type": "Concept",
   "prefLabel": {
-    "en": "Silvopasture"
+    "en": "Silvopasture",
+    "nl": "Bomen gecombineerd met beweiding"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to silvopasture. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op bomen gecombineerd met beweiding. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -11,14 +21,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ShadeTreePlanting",
       "prefLabel": {
-        "en": "shade tree planting"
+        "en": "shade tree planting",
+        "nl": "Schaduwbomen planten"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreePlanning",
     "prefLabel": {
-      "en": "tree planning"
+      "en": "tree planning",
+      "nl": "Bomen aanplanten en beheren"
     }
   },
   "inScheme": [

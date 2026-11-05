@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CompetenceDevelopmentOpportunitiesAtPublicEducationalInstitutes",
   "type": "Concept",
   "prefLabel": {
-    "en": "(Competence) development opportunities at public educational institutes"
+    "en": "(Competence) development opportunities at public educational institutes",
+    "nl": "Mogelijkheden voor competentieontwikkeling in het openbaar onderwijs"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to (competence) development opportunities at public educational institutes. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op mogelijkheden voor competentieontwikkeling in het openbaar onderwijs. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -10,7 +20,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormalLearning",
     "prefLabel": {
-      "en": "formal learning"
+      "en": "formal learning",
+      "nl": "Formeel leren"
     }
   },
   "inScheme": [

@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DepeningOnTheNeedOfTheCropLesOrLessOften",
   "type": "Concept",
   "prefLabel": {
-    "en": "Depening on the need of the crop (les or less often)"
+    "en": "Depening on the need of the crop (les or less often)",
+    "nl": "Afstemmen op gewasbehoefte (minder of minder vaak)"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op afstemmen op gewasbehoefte (minder of minder vaak). De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +23,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SpecificFertilizerApplicationTechniques",
     "prefLabel": {
-      "en": "Specific fertilizer application techniques"
+      "en": "Specific fertilizer application techniques",
+      "nl": "Specifieke bemestingstechnieken"
     }
   },
   "inScheme": [

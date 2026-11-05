@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Liming",
   "type": "Concept",
   "prefLabel": {
-    "en": "Liming"
+    "en": "Liming",
+    "nl": "Bekalking"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Liming'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Liming'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op bekalking. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -14,14 +24,16 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Shells",
       "prefLabel": {
-        "en": "shells"
+        "en": "shells",
+        "nl": "Schelpen"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
     "prefLabel": {
-      "en": "Soil amendments"
+      "en": "Soil amendments",
+      "nl": "Bodemverbeteraars"
     }
   },
   "inScheme": [

@@ -2,10 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MixedIntercroppingMixedCropping",
   "type": "Concept",
   "prefLabel": {
-    "en": "Mixed intercropping / mixed cropping"
+    "en": "Mixed intercropping / mixed cropping",
+    "nl": "Mengteelt en gewascombinaties"
   },
   "definition": {
-    "en": "Mixed cropping is a system of sowing two or more crops mixed together on the same field without any distinct row or strip pattern"
+    "en": "Mixed cropping is a system of sowing two or more crops mixed together on the same field without any distinct row or strip pattern",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op mengteelt en gewascombinaties. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +20,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting",
     "prefLabel": {
-      "en": "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting"
+      "en": "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting",
+      "nl": "Gewasdiversificatie met mengteelt, polycultuur en combinatieteelt"
     }
   },
   "inScheme": [

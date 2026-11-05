@@ -2,7 +2,17 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeDeepeningIncreasingAddedValueOfProduct",
   "type": "Concept",
   "prefLabel": {
-    "en": "Income deepening -increasing added value of product"
+    "en": "Income deepening -increasing added value of product",
+    "nl": "Inkomensverdieping door hogere productwaarde"
+  },
+  "definition": {
+    "en": "A classification entry in the ReGeNL regenerative practice framework referring to income deepening -increasing added value of product. The precise scope and operational criteria have not yet been validated.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op inkomensverdieping door hogere productwaarde. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Meso"
@@ -11,50 +21,58 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CollectiveBrand",
       "prefLabel": {
-        "en": "Collective brand"
+        "en": "Collective brand",
+        "nl": "Collectief merk"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CollectiveProssesing",
       "prefLabel": {
-        "en": "Collective prossesing"
+        "en": "Collective prossesing",
+        "nl": "Collectieve verwerking"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityBasedSupportedAgriculture",
       "prefLabel": {
-        "en": "Community based/supported agriculture"
+        "en": "Community based/supported agriculture",
+        "nl": "Gemeenschapslandbouw (CSA)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DirectOnfarmAndCollectiveFormsOfSales",
       "prefLabel": {
-        "en": "Direct onfarm and collective forms of sales"
+        "en": "Direct onfarm and collective forms of sales",
+        "nl": "Directe boerderijverkoop en collectieve afzet"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FoodPurchasingByCitizensCooperatives",
       "prefLabel": {
-        "en": "Food purchasing by citizens cooperatives"
+        "en": "Food purchasing by citizens cooperatives",
+        "nl": "Voedselaankoop door burgercoöperaties"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OnFarmProcessing",
       "prefLabel": {
-        "en": "On-farm processing"
+        "en": "On-farm processing",
+        "nl": "Verwerking op het landbouwbedrijf"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PrivateBrand",
       "prefLabel": {
-        "en": "Private brand"
+        "en": "Private brand",
+        "nl": "Eigen merk"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "en": "Farm socio-economic management"
+      "en": "Farm socio-economic management",
+      "nl": "Sociaal-economisch bedrijfsbeheer"
     }
   },
   "inScheme": [

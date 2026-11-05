@@ -2,10 +2,20 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimalUseOfExternalFertilizersInputsFromOutsideTheFarm",
   "type": "Concept",
   "prefLabel": {
-    "en": "Minimal use of external fertilizers inputs (from outside the farm)"
+    "en": "Minimal use of external fertilizers inputs (from outside the farm)",
+    "nl": "Minimaal gebruik van meststoffen van buiten het bedrijf"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'."
+    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'.",
+    "nl": "Classificatieonderdeel binnen het ReGeNL-raamwerk voor regeneratieve landbouwpraktijken dat betrekking heeft op minimaal gebruik van meststoffen van buiten het bedrijf. De precieze afbakening en eventuele toepassingscriteria moeten nog door domeinexperts worden vastgesteld."
+  },
+  "editorialNote": {
+    "en": [
+      "The existing English definition is generic or insufficiently specified and requires expert review."
+    ],
+    "nl": [
+      "Nederlandstalig label en omschrijving zijn voorstellen voor de PoC en zijn nog niet gevalideerd door de harmonisatietaakgroep."
+    ]
   },
   "notation": [
     "Micro"
@@ -13,7 +23,8 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
     "prefLabel": {
-      "en": "Reduction/ limitation of specific  fertilizers"
+      "en": "Reduction/ limitation of specific  fertilizers",
+      "nl": "Specifieke meststoffen verminderen of beperken"
     }
   },
   "inScheme": [
