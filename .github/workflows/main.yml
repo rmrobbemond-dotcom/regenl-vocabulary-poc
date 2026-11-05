@@ -111,8 +111,9 @@ jobs:
       # ReGeNL PoC addition: enrich the static pages with foaf:depiction images.
       - name: Add ReGeNL concept images
         run: |
+          sudo chown -R "$(id -u):$(id -g)" public
           python -m pip install --disable-pip-version-check rdflib==7.1.4
-          python scripts/add_concept_photos.py public data
+          python scripts/add_concept_photos.py
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
