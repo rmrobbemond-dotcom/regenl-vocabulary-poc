@@ -1,0 +1,88 @@
+@prefix regenl: <https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-synthetic-practices/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# SYNTHETIC TEST DATA — NOT AN APPROVED REGENL CLASSIFICATION OR DEFINITION.
+regenl: a skos:ConceptScheme ;
+    dct:title "ReGeNL – synthetische landbouwpraktijken (PoC)"@nl,
+              "ReGeNL – synthetic farming practices (PoC)"@en ;
+    dct:description "Fictieve begrippen en indeling voor het testen van een begrippenbrowser. Niet vastgesteld door ReGeNL."@nl ;
+    dct:created "2026-11-05"^^xsd:date ;
+    skos:hasTopConcept regenl:soil-and-crops, regenl:landscape-and-nature .
+
+# Five nested levels, for interface testing only. Not the official ReGeNL five-level structure.
+regenl:soil-and-crops a skos:Concept ;
+    skos:prefLabel "Bodem en gewassen"@nl, "Soil and crops"@en ;
+    skos:definition "Verzamelcategorie voor praktijken rond bodem en gewassen in deze demonstratie."@nl ;
+    skos:topConceptOf regenl: .
+
+regenl:soil-management a skos:Concept ;
+    skos:prefLabel "Bodembeheer"@nl, "Soil management"@en ;
+    skos:definition "Demonstratiecategorie voor keuzes in het beheer van landbouwbodems."@nl ;
+    skos:broader regenl:soil-and-crops ; skos:inScheme regenl: .
+
+regenl:soil-cover a skos:Concept ;
+    skos:prefLabel "Bodembedekking"@nl, "Soil cover"@en ;
+    skos:definition "Demonstratiecategorie voor praktijken die de bodem gedurende een deel van het jaar bedekt houden."@nl ;
+    skos:broader regenl:soil-management ; skos:inScheme regenl: .
+
+regenl:living-cover a skos:Concept ;
+    skos:prefLabel "Levende bodembedekking"@nl, "Living soil cover"@en ;
+    skos:definition "Bodembedekking met levende planten; gebruikt als demonstratiebegrip."@nl ;
+    skos:broader regenl:soil-cover ; skos:inScheme regenl: .
+
+regenl:cover-crop-between-seasons a skos:Concept ;
+    skos:prefLabel "Vanggewas tussen teelten"@nl, "Cover crop between main crops"@en ;
+    skos:altLabel "Tussengewas"@nl, "Catch crop"@en ;
+    skos:definition "Voor deze demonstratie: een gewas dat in de periode tussen twee hoofdteelten wordt geteeld om de bodem bedekt te houden."@nl ;
+    skos:example "Bijvoorbeeld een ingezaaid mengsel na de oogst van een hoofdgewas."@nl ;
+    skos:broader regenl:living-cover ; skos:inScheme regenl: .
+
+regenl:mulching a skos:Concept ;
+    skos:prefLabel "Mulchen"@nl, "Mulching"@en ;
+    skos:altLabel "Bodem afdekken met organisch materiaal"@nl ;
+    skos:definition "Het aanbrengen of laten liggen van een laag materiaal op het bodemoppervlak."@nl ;
+    skos:broader regenl:soil-cover ; skos:inScheme regenl: .
+
+regenl:crop-diversity a skos:Concept ;
+    skos:prefLabel "Gewasdiversiteit"@nl, "Crop diversity"@en ;
+    skos:definition "Demonstratiecategorie voor variatie in geteelde gewassen."@nl ;
+    skos:broader regenl:soil-management ; skos:inScheme regenl: .
+
+regenl:crop-rotation a skos:Concept ;
+    skos:prefLabel "Vruchtwisseling"@nl, "Crop rotation"@en ;
+    skos:definition "Het afwisselen van gewassen op hetzelfde perceel in opeenvolgende teeltperioden."@nl ;
+    skos:broader regenl:crop-diversity ; skos:inScheme regenl: .
+
+regenl:landscape-and-nature a skos:Concept ;
+    skos:prefLabel "Landschap en natuur"@nl, "Landscape and nature"@en ;
+    skos:definition "Verzamelcategorie voor landschaps- en natuurgerichte praktijken in deze demonstratie."@nl ;
+    skos:topConceptOf regenl: .
+
+regenl:grassland-management a skos:Concept ;
+    skos:prefLabel "Graslandbeheer"@nl, "Grassland management"@en ;
+    skos:definition "Demonstratiecategorie voor praktijken in het beheer van grasland."@nl ;
+    skos:broader regenl:landscape-and-nature ; skos:inScheme regenl: .
+
+regenl:species-rich-grassland a skos:Concept ;
+    skos:prefLabel "Kruidenrijk grasland"@nl, "Herb-rich grassland"@en ;
+    skos:altLabel "Kruidenrijk weiland"@nl ;
+    skos:definition "Voor deze demonstratie: grasland waarin naast grassen ook diverse kruidachtige plantensoorten voorkomen. Dit is geen officiële ReGeNL-afbakening of meetcriterium."@nl ;
+    skos:example "Een perceel met verschillende grassen, klavers en andere kruiden."@nl ;
+    skos:broader regenl:grassland-management ; skos:inScheme regenl: .
+
+regenl:grassland-mowing a skos:Concept ;
+    skos:prefLabel "Gefaseerd maaien"@nl, "Staggered mowing"@en ;
+    skos:definition "Het maaien van verschillende delen van een grasland op verschillende momenten."@nl ;
+    skos:broader regenl:grassland-management ; skos:inScheme regenl: .
+
+regenl:field-boundaries a skos:Concept ;
+    skos:prefLabel "Perceelranden"@nl, "Field margins"@en ;
+    skos:definition "Demonstratiecategorie voor het beheer van stroken langs landbouwpercelen."@nl ;
+    skos:broader regenl:landscape-and-nature ; skos:inScheme regenl: .
+
+regenl:flower-strip a skos:Concept ;
+    skos:prefLabel "Bloemenstrook"@nl, "Flower strip"@en ;
+    skos:definition "Een strook met bloeiende plantensoorten langs of binnen een landbouwperceel."@nl ;
+    skos:broader regenl:field-boundaries ; skos:inScheme regenl: .
