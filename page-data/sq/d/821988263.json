@@ -1,1 +1,1 @@
-{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://example.org/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://example.org/colour-with-hierarchy/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-synthetic-practices/","fields":{"languages":["nl","en"]}}}]}}}
+{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://regenl.org/ontology/RegenerativePracticeFramework","fields":{"languages":["en","nl"]}}}]}}}
