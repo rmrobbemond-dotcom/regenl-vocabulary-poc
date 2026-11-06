@@ -66,7 +66,7 @@ vocab:Agrovoltaics a skos:Concept ;
     schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
 
 vocab:AlternativeBiocontrolProductUse a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Insect_hotel.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Using biological control agents or biologically derived products, such as beneficial microorganisms or natural enemies, as alternatives to conventional chemical pest-control products."@en,
@@ -76,11 +76,11 @@ vocab:AlternativeBiocontrolProductUse a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Alternative biocontrol product use"@en,
         "Gebruik van alternatieve biologische bestrijdingsmiddelen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Insect_hotel.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Alternative biocontrol product use'."@en,
         "Alternatieve biologische middelen of biologische bestrijding"@nl ;
-    schema:creditText "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ApplicationMachinesWithLowerAxelweight10TonsAxle a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -224,7 +224,7 @@ vocab:CSASelfPickingOnFarmsShops a skos:Concept ;
         "Gemeenschapslandbouw, zelfpluk en boerderijwinkels"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:CatchCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -268,9 +268,9 @@ vocab:ClimateAndLightControl a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "climate and light control"@en,
         "Klimaat- en lichtregeling"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Greenhouse%20indoor%20view%2020170826.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Greenhouse_indoor_view_20170826.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Santeri Viinamäki (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, kasinterieur (controleer bron en licentie)." .
 
 vocab:CollectiveBrand a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
@@ -284,7 +284,7 @@ vocab:CollectiveBrand a skos:Concept ;
         "Collectief merk"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:CollectiveProssesing a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
@@ -298,7 +298,7 @@ vocab:CollectiveProssesing a skos:Concept ;
         "Collectieve verwerking"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:CommunityBasedSupportedAgriculture a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
@@ -312,7 +312,7 @@ vocab:CommunityBasedSupportedAgriculture a skos:Concept ;
         "Gemeenschapslandbouw (CSA)"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:CompartmentedContinousGrazingNewNederlandsWeiden a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -433,7 +433,7 @@ vocab:CrowdfundingZoopSharesTimebankingOfLabour a skos:Concept ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionReference <https://nieuweinstituut.nl/en/projects/zoop/zoop-model> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:DeepRootedSpecies a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -492,7 +492,7 @@ vocab:DifferentTypesOfClients a skos:Concept ;
         "Verschillende typen afnemers"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:Digestate a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:BiogasDigesterDenmark652021.jpg> ;
@@ -523,7 +523,7 @@ vocab:DirectOnfarmAndCollectiveFormsOfSales a skos:Concept ;
         "Directe boerderijverkoop en collectieve afzet"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:DirectSeeding a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -652,7 +652,7 @@ vocab:EcoPlough a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:EcosystemservicePaymentsFromGovernment a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:IncomeBroadeningPaymentsForEcosystemServices ;
     skos:definition "Receiving public compensation for verified or agreed farm management that provides ecosystem services such as biodiversity, water quality or carbon storage."@en,
         "Het ontvangen van een overheidsvergoeding voor afgesproken of aantoonbaar geleverd beheer dat ecosysteemdiensten ondersteunt, zoals biodiversiteit, waterkwaliteit of koolstofopslag."@nl ;
@@ -661,9 +661,9 @@ vocab:EcosystemservicePaymentsFromGovernment a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Ecosystemservice payments from government"@en,
         "Overheidsbetalingen voor ecosysteemdiensten"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ExtendedGrazingTimeMinimumOf1500HoursYear a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -782,9 +782,9 @@ vocab:FoodPurchasingByCitizensCooperatives a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Food purchasing by citizens cooperatives"@en,
         "Voedselaankoop door burgercoöperaties"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop%20front%20-%20farm%20shop.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (Creative Commons; naamsvermelding via bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:Food_crops_only a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
@@ -952,7 +952,7 @@ vocab:ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions a 
     schema:creditText "Foto: Europese Commissie, audiovisuele dienst / Lukasz Kobus, Yügen (CC BY 4.0)."@nl .
 
 vocab:IncomeBroadeningMicro a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
     skos:broader vocab:IncomeBroadeningMeso ;
     skos:definition "Introducing concrete supplementary income activities, such as tourism, education, processing or paid services, alongside existing farm production."@en,
         "Het toevoegen van concrete neveninkomsten, zoals toerisme, educatie, verwerking of betaalde diensten, naast de bestaande agrarische productie."@nl ;
@@ -961,9 +961,9 @@ vocab:IncomeBroadeningMicro a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Income broadening"@en,
         "Inkomensverbreding"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:IncorperatingCropResidues a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -1025,7 +1025,7 @@ vocab:InsectHotels a skos:Concept ;
     schema:creditText "Foto: Alexandre Dulaunoy (CC BY-SA 2.0)."@nl .
 
 vocab:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Preventing and managing pests through monitoring, thresholds, resistant varieties and biological or non-chemical methods, using pesticides only when justified."@en,
@@ -1035,15 +1035,15 @@ vocab:IntegratedPestManagementPrinciplesIPM a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Integrated pest management principles (IPM)"@en,
         "Principes van geïntegreerde gewasbescherming (IPM)"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionReference <https://www.fao.org/pest-and-pesticide-management/ipm/integrated-pest-management/en/> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated pest management principles (IPM)'."@en,
         "Geintegreerd gebruik van bestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische middelen worden alleen gebruikt als het niet anders kan."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:IntegratedWeedManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Combining preventive, cultural, mechanical and where necessary chemical approaches to manage weeds while reducing reliance on any single method."@en,
@@ -1053,11 +1053,11 @@ vocab:IntegratedWeedManagement a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Integrated weed management"@en,
         "Geïntegreerd onkruidbeheer"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated weed management'."@en,
         "Geintegreerd gebruik van onkruidbestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische herbiciden worden alleen gebruikt als het niet anders kan."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:KeepLivingRoots a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -1160,7 +1160,7 @@ vocab:ManureSampleAnalysis a skos:Concept ;
     schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
 
 vocab:MechanicalPestManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:NonChemicalControlWeedsPestsAndDiseases ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing pest populations using physical or mechanical interventions such as barriers, traps, removal or mechanical destruction rather than chemical pesticides."@en,
@@ -1170,11 +1170,11 @@ vocab:MechanicalPestManagement a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Mechanical pest management"@en,
         "Mechanische plaagbeheersing"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical pest management'."@en,
         "Plaagbestrijding met behulp van werktuigen of andere fysieke maatregelen, bv. netten of geluid"@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:MechanicalWeedManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -1489,7 +1489,7 @@ vocab:NoFertilizationAlongsideOpenWater a skos:Concept ;
     schema:creditText "Foto: Alandislands (CC BY-SA; controleer versie)."@nl .
 
 vocab:NoFungicides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Not applying fungicidal plant protection products to the specified crop or field during the relevant management period."@en,
@@ -1499,11 +1499,11 @@ vocab:NoFungicides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "No fungicides"@en,
         "Geen fungiciden"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."@en,
         "Totaal geen gebruik van fungiciden op het bedrijf. Eventueel wel andere middelen."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NoHeavyMachinery a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -1520,7 +1520,7 @@ vocab:NoHeavyMachinery a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:NoHerbicides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Not applying herbicides to the specified crop or field, and using other means to manage weeds if needed."@en,
@@ -1530,14 +1530,14 @@ vocab:NoHerbicides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "No herbicides"@en,
         "Geen herbiciden"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No herbicides'."@en,
         "Totaal geen gebruik van herbiciden op het bedrijf. Eventueel wel andere middelen."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NoInsecticides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
     skos:definition "Not applying insecticidal products to the specified crop or field, using monitoring or non-insecticidal control measures where needed."@en,
         "Het niet toepassen van insecticiden op het aangewezen gewas of perceel en zo nodig monitoring of andere bestrijdingsmethoden gebruiken."@nl ;
@@ -1546,10 +1546,10 @@ vocab:NoInsecticides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "No insecticides"@en,
         "Geen insecticiden"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No insecticides'."@en ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NoResidualStreams a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
@@ -1566,7 +1566,7 @@ vocab:NoResidualStreams a skos:Concept ;
     schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
 
 vocab:NoSyntheticPesticides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:LimitationOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Managing crops without applying synthetic chemical crop-protection pesticides, relying on preventive, biological or mechanical methods where necessary."@en,
@@ -1576,11 +1576,11 @@ vocab:NoSyntheticPesticides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "No synthetic pesticides"@en,
         "Geen synthetische gewasbeschermingsmiddelen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."@en,
         "Totaal geen gebruik van synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen op het bedrijf. Geen enkel type."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NoTillageMicro a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -1817,7 +1817,7 @@ vocab:PermanentVegetationAtBordersDitchCleaningBaggerenPreventLivestockAccessToW
     schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
 
 vocab:PesticidesManagementPlan a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:DiagnosisAndManagementPlansMeso ;
     skos:definition "A documented strategy for preventing, monitoring and controlling crop pests and diseases, including criteria for deciding when and how products may be used."@en,
         "Een vastgelegde strategie om plagen en ziekten te voorkomen, te monitoren en te beheersen, met criteria voor het eventueel inzetten van gewasbeschermingsmiddelen."@nl ;
@@ -1826,9 +1826,9 @@ vocab:PesticidesManagementPlan a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "pesticides management plan"@en,
         "Gewasbeschermingsplan"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Field_soil_sampling.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Alessandro Samuel-Rosa (CC0 1.0)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:PlantJuiceAnalysis a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Field_soil_sampling.jpg> ;
@@ -1899,7 +1899,7 @@ vocab:PrivateBrand a skos:Concept ;
         "Eigen merk"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Custom Neon / Wikimedia Commons (CC-licensed; zie bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:ProductiveMultispeciesSward a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -1969,10 +1969,10 @@ vocab:ReduceDependencyOnFossilFuel a skos:Concept ;
         "Afhankelijkheid van fossiele brandstoffen verminderen"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, hernieuwbare energie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:ReduceFungicides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing the number or dose of fungicide applications while using prevention, monitoring or alternative disease-control measures."@en,
@@ -1982,11 +1982,11 @@ vocab:ReduceFungicides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Reduce fungicides"@en,
         "Fungicidengebruik verminderen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."@en,
         "Fungiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ReduceHeavyMachinery a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -2003,7 +2003,7 @@ vocab:ReduceHeavyMachinery a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:ReduceHerbicides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing the use of herbicides through lower application rates or frequency and complementary mechanical or ecological weed management."@en,
@@ -2013,14 +2013,14 @@ vocab:ReduceHerbicides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Reduce herbicides"@en,
         "Herbicidengebruik verminderen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."@en,
         "Herbiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ReduceInsecticides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing insecticide applications by using preventive crop measures, monitoring and non-chemical pest control where appropriate."@en,
@@ -2030,11 +2030,11 @@ vocab:ReduceInsecticides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Reduce insecticides"@en,
         "Insecticidengebruik verminderen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce insecticides'."@en,
         "Insecticiden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak"@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ReduceMechanizationManualLowTechFarming a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -2051,7 +2051,7 @@ vocab:ReduceMechanizationManualLowTechFarming a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:ReduceSyntheticPesticides a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:ReductionOnTheUseOfPlantProtectionProducts ;
     skos:changeNote "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing applications of synthetic chemical pesticides by strengthening prevention, monitoring and non-chemical crop protection measures."@en,
@@ -2061,11 +2061,11 @@ vocab:ReduceSyntheticPesticides a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Reduce synthetic pesticides"@en,
         "Gebruik van synthetische gewasbeschermingsmiddelen verminderen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic pesticides'."@en,
         "Synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen zoveel mogelijk verminderen"@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ReduceWaterUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -2134,7 +2134,7 @@ vocab:RelayIntercropping a skos:Concept ;
     schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:RemoteSensingMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Agricultural_art.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Precision_Farming_in_Minnesota_-_False_Colour.jpg> ;
     skos:broader vocab:MeasuringAndMonitoring ;
     skos:definition "Repeatedly observing crops, soil or land conditions through sensors that measure reflected or emitted energy from satellites, aircraft or drones."@en,
         "Het herhaald waarnemen van gewassen, bodem of landgebruik met sensoren op satellieten, vliegtuigen of drones die gereflecteerde of uitgezonden straling meten."@nl ;
@@ -2143,9 +2143,9 @@ vocab:RemoteSensingMonitoring a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Remote sensing monitoring"@en,
         "Monitoring via remote sensing"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agricultural%20art.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Precision_Farming_in_Minnesota_-_False_Colour.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Antarsih / Wikimedia Commons (CC BY 4.0)."@nl .
+    schema:creditText "Beeld: Wikimedia Commons, precisielandbouw / remote sensing (controleer bron en licentie)." .
 
 vocab:RestrictionInQuanityAboveLegalNorms a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -2232,7 +2232,7 @@ vocab:RuggedVegetation a skos:Concept ;
     schema:creditText "Foto: Stanley Howe (controleer licentie op Commons)."@nl .
 
 vocab:SatelliteImageryAndMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Czech_Agriculture_from_Space_ESA360858.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Precision_Farming_in_Minnesota_-_False_Colour.jpg> ;
     skos:broader vocab:MeasuringAndMonitoring ;
     skos:definition "Using repeated satellite images and derived vegetation, moisture or land-cover indicators to observe field conditions and detect changes over time."@en,
         "Het gebruiken van herhaalde satellietbeelden en daaruit afgeleide indicatoren voor vegetatie, vocht of landbedekking om perceelomstandigheden en veranderingen te volgen."@nl ;
@@ -2241,9 +2241,9 @@ vocab:SatelliteImageryAndMonitoring a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Satellite imagery and monitoring"@en,
         "Satellietbeelden en monitoring"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Czech%20Agriculture%20from%20Space%20ESA360858.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Precision_Farming_in_Minnesota_-_False_Colour.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: ESA / Wikimedia Commons (CC BY-SA 3.0 IGO)."@nl .
+    schema:creditText "Beeld: Wikimedia Commons, precisielandbouw / remote sensing (controleer bron en licentie)." .
 
 vocab:SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -2271,7 +2271,7 @@ vocab:SelfSufficiency a skos:Concept ;
         "Zelfvoorziening"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, hernieuwbare energie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:ShadeTreePlanting a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
@@ -2617,7 +2617,7 @@ vocab:SustainabilityPaymentsByChainPartners a skos:Concept ;
         "Duurzaamheidsbetalingen door ketenpartners"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:Swales a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -2842,9 +2842,9 @@ vocab:WalkingTrailsOnFarmLandCamping a skos:Concept ;
     skos:notation "Micro" ;
     skos:prefLabel "Walking trails on farm land, camping,"@en,
         "Wandelpaden en kamperen op landbouwgrond"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Saddlescombe%20farm%20campsite%202025-08-26.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Saddlescombe_farm_campsite_2025-08-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (Vrije licentie, controleer bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, kamperen op landbouwgrond (controleer bron en licentie)." .
 
 vocab:WaterBuffers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Water_reservoir_used_for_irrigation_at_Hikkim_Village_spiti_India.jpg> ;
@@ -2928,7 +2928,7 @@ vocab:WindEnergy a skos:Concept ;
         "Windenergie"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Wind_Turbine_at_Boundary_Farm_-_geograph.org.uk_-_3717670.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Geograph contributor (Controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, windenergie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:WinterCoverCrops a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3008,9 +3008,9 @@ vocab:Agrotourism a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Agrotourism"@en,
         "Agritoerisme"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Scholtenpad%20farm%20campsite%20near%20Meddo.JPG?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Scholtenpad_farm_campsite_near_Meddo.JPG?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: MartinD (Vrije licentie, controleer bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerencamping / agritoerisme (controleer bron en licentie)." .
 
 vocab:Bioeconomy a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -3154,7 +3154,7 @@ vocab:FarmEducation a skos:Concept ;
     schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:FinancialManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:definition "Planning, recording and controlling farm income, expenses, investments, cash flow and financial risks to support business continuity."@en,
         "Het plannen, vastleggen en beheersen van inkomsten, uitgaven, investeringen, liquiditeit en financiële risico's van het landbouwbedrijf."@nl ;
     skos:editorialNote "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."@en ;
@@ -3164,9 +3164,9 @@ vocab:FinancialManagement a skos:Concept ;
     skos:prefLabel "Financial management"@en,
         "Financieel beheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:FlowerHerbNatureStrips a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Hedgerow_around_an_arable_field_-_geograph.org.uk_-_3670471.jpg> ;
@@ -3199,7 +3199,7 @@ vocab:FormalLearning a skos:Concept ;
     schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:FormsOfDirectFoodProvisioning a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
     skos:broader vocab:FarmCitizenInteractions ;
     skos:definition "Arrangements that deliver food directly from farms to consumers with few intermediaries, such as farm boxes, self-picking or farm shops."@en,
         "Afzetvormen waarbij voedsel met weinig tussenhandel rechtstreeks van landbouwbedrijven naar consumenten gaat, zoals pakketten, zelfoogst of boerderijwinkels."@nl ;
@@ -3209,9 +3209,9 @@ vocab:FormsOfDirectFoodProvisioning a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Forms of direct food provisioning"@en,
         "Vormen van directe voedselvoorziening"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: WaxPhilosophic (CC BY-SA 4.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:GreenCare a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
@@ -3244,7 +3244,7 @@ vocab:InformalLearning a skos:Concept ;
     schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
 
 vocab:InfraAndEquipmentManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:definition "Planning acquisition, maintenance, use and replacement of farm infrastructure, buildings, machinery and tools to support efficient and responsible operations."@en,
         "Het plannen van aanschaf, onderhoud, gebruik en vervanging van agrarische infrastructuur, gebouwen, machines en gereedschappen voor doelmatige bedrijfsvoering."@nl ;
     skos:editorialNote "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."@en ;
@@ -3254,9 +3254,9 @@ vocab:InfraAndEquipmentManagement a skos:Concept ;
     skos:prefLabel "Infra and equipment management"@en,
         "Infrastructuur- en materieelbeheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:Liming a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -3359,7 +3359,7 @@ vocab:MulchingWithCropResidues a skos:Concept ;
     schema:creditText "Foto: Jason Johnson / USDA NRCS (public domain, U.S. federal government)."@nl .
 
 vocab:NewFormsOfAccessToLandLabourCapital a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Arrangements that give farmers access to land, labour or financing through alternatives to conventional ownership or credit, such as cooperatives or shared-use contracts."@en,
         "Regelingen waarmee boeren via alternatieven voor traditioneel eigendom of krediet toegang krijgen tot grond, arbeid of financiering, zoals coöperaties en gedeeld gebruik."@nl ;
@@ -3369,9 +3369,9 @@ vocab:NewFormsOfAccessToLandLabourCapital a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "New forms of access to  land, labour, capital"@en,
         "Nieuwe vormen van toegang tot grond, arbeid en kapitaal"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NoSyntheticFertilizerUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -3443,7 +3443,7 @@ vocab:OutdoorAccess a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:PluralactivityWorkBeyondFarm a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Scholtenpad_farm_campsite_near_Meddo.JPG> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Combining agricultural work with additional professional or commercial activities outside the farm to diversify household or business income."@en,
         "Het combineren van landbouwactiviteiten met ander werk of ondernemerschap buiten het bedrijf om huishoud- of bedrijfsinkomsten te spreiden."@nl ;
@@ -3453,9 +3453,9 @@ vocab:PluralactivityWorkBeyondFarm a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Pluralactivity - work beyond farm"@en,
         "Nevenactiviteiten buiten de landbouw"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Scholtenpad_farm_campsite_near_Meddo.JPG?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerencamping / agritoerisme (controleer bron en licentie)." .
 
 vocab:ReduceSyntheticFertilizers a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
@@ -3608,7 +3608,7 @@ vocab:UseOfNaturalRenewableResources a skos:Concept ;
         "Natuurlijke en hernieuwbare hulpbronnen gebruiken"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, hernieuwbare energie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:UsePerennialsMeso a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
@@ -3704,7 +3704,7 @@ vocab:GrasslandTypeEnhancedSpeciesRichness a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:IncomeBroadeningMeso a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:FarmersMarket.jpg> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Diversifying farm revenue by developing additional products, services or activities beyond primary agricultural production."@en,
         "Het spreiden van bedrijfsinkomsten door naast de primaire landbouwproductie extra producten, diensten of activiteiten te ontwikkelen."@nl ;
@@ -3715,12 +3715,12 @@ vocab:IncomeBroadeningMeso a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Income broadening"@en,
         "Inkomensverbreding"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/FarmersMarket.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerenmarkt / afzet (controleer bron en licentie)." .
 
 vocab:IndividualAndCollectiveFormsOfCostReducingMeasures a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Reducing farm operating or investment costs through individual efficiency measures or shared purchasing, machinery and infrastructure with other farms."@en,
         "Het verlagen van bedrijfs- of investeringskosten door eigen efficiëntiemaatregelen of gezamenlijke inkoop, machines en voorzieningen met andere bedrijven."@nl ;
@@ -3731,9 +3731,9 @@ vocab:IndividualAndCollectiveFormsOfCostReducingMeasures a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Individual and collective forms of cost reducing measures"@en,
         "Individuele en collectieve kostenbesparende maatregelen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:KeepWaterLevelsHighMeso a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -3752,7 +3752,7 @@ vocab:KeepWaterLevelsHighMeso a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:PeopleManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:definition "Organising recruitment, training, workload, working conditions and employment relationships for workers on the farm."@en,
         "Het organiseren van werving, scholing, werkbelasting, arbeidsomstandigheden en arbeidsrelaties van medewerkers op het landbouwbedrijf."@nl ;
     skos:editorialNote "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."@en ;
@@ -3763,9 +3763,9 @@ vocab:PeopleManagement a skos:Concept ;
     skos:prefLabel "people management"@en,
         "Personeelsbeheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:Reforestation a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cattle_grazing_in_a_silvopasture._(25086463696).jpg> ;
@@ -3784,7 +3784,7 @@ vocab:Reforestation a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:RegenerativeCapacityClassificationElement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:PeopleManagement ;
     skos:definition "The capacity of an agricultural soil or production system to recover functions and maintain or improve ecological processes after disturbance."@en,
         "Het vermogen van een agrarische bodem of productiesysteem om functies te herstellen en ecologische processen na verstoring te behouden of te verbeteren."@nl ;
@@ -3795,10 +3795,10 @@ vocab:RegenerativeCapacityClassificationElement a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "regenerative capacity"@en,
         "Regeneratief vermogen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'regenerative capacity'."@en ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:ResourceSharingCollaborationBetweenArableProductionAndDairy a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
@@ -3864,7 +3864,7 @@ vocab:BioeconomyEnergyEfficiencyAndProduction a skos:Concept ;
         "Bio-economie, energie-efficiëntie en productie"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, hernieuwbare energie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:CultivationOfSpecificCropsOrVarieties a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
@@ -3919,7 +3919,7 @@ vocab:GrazingManagement a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:IncomeBroadeningPaymentsForEcosystemServices a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Generating additional farm income through payments linked to the provision or maintenance of ecosystem services such as habitat, water quality or carbon storage."@en,
         "Het verkrijgen van extra bedrijfsinkomsten via vergoedingen voor het leveren of behouden van ecosysteemdiensten, zoals leefgebied, waterkwaliteit of koolstofvastlegging."@nl ;
@@ -3931,12 +3931,12 @@ vocab:IncomeBroadeningPaymentsForEcosystemServices a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Income broadening- Payments for ecosystem services"@en,
         "Inkomensverbreding via betalingen voor ecosysteemdiensten"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:LandManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:definition "Planning and implementing how agricultural land is allocated, used and maintained, including fields, margins, soil, water and landscape features."@en,
         "Het plannen en uitvoeren van de inrichting, het gebruik en het onderhoud van landbouwgrond, waaronder percelen, randen, bodem, water en landschapselementen."@nl ;
     skos:editorialNote "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."@en ;
@@ -3948,9 +3948,9 @@ vocab:LandManagement a skos:Concept ;
     skos:prefLabel "Land management"@en,
         "Landbeheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:NativeCropAndAnimalSpecies a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
@@ -3970,7 +3970,7 @@ vocab:NativeCropAndAnimalSpecies a skos:Concept ;
     schema:creditText "Foto: Europese Commissie, audiovisuele dienst (CC BY 4.0)."@nl .
 
 vocab:PlantProtection a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:CropProductionManagement ;
     skos:definition "The prevention, monitoring and management of weeds, pests and diseases to limit damage to cultivated plants."@en,
         "Het voorkomen, monitoren en beheersen van onkruid, plagen en ziekten om schade aan geteelde planten te beperken."@nl ;
@@ -3982,10 +3982,10 @@ vocab:PlantProtection a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "plant protection"@en,
         "Gewasbescherming"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'plant protection'."@en ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:CropManagament a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -4006,7 +4006,7 @@ vocab:CropManagament a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:CropProductionManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:definition "The coordinated management of crop production, including rotations, soil preparation, sowing, nutrition, pest control and harvest."@en,
         "De samenhangende aansturing van gewasproductie, waaronder vruchtwisseling, bodembewerking, zaaien, bemesting, gewasbescherming en oogst."@nl ;
     skos:editorialNote "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."@en ;
@@ -4019,10 +4019,10 @@ vocab:CropProductionManagement a skos:Concept ;
     skos:prefLabel "Crop Production Management"@en,
         "Gewasproductiebeheer"@nl ;
     skos:topConceptOf vocab: ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "A ClassificationElement in the RegenerativePracticeFramework at Mega level with label 'Crop Production Management'."@en ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:GrasslandTypeSwardAge a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -4043,7 +4043,7 @@ vocab:GrasslandTypeSwardAge a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:LimitationOnTheUseOfPlantProtectionProducts a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:PlantProtection ;
     skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Setting limits on the use of plant protection products, for example by restricting applications, active substances or treated area."@en,
@@ -4059,11 +4059,11 @@ vocab:LimitationOnTheUseOfPlantProtectionProducts a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Limitation on the use of plant protection products"@en,
         "Beperking van gewasbeschermingsmiddelen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "this class includes the practices where there are limitations in the use of plant protection products on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en,
         "Het beperken van het gebruik van gewasbeschermingsmiddelen op het gehele perceel."@nl ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:MinimizeWaterUse a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Drip_irrigation.jpg> ;
@@ -4084,7 +4084,7 @@ vocab:MinimizeWaterUse a skos:Concept ;
     schema:creditText "Foto: USDA (public domain, U.S. federal government)."@nl .
 
 vocab:ReductionOnTheUseOfPlantProtectionProducts a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg> ;
     skos:broader vocab:PlantProtection ;
     skos:changeNote "Definitie en overgenomen uit ReGeNL practice_list_0.2.1, kolom: English scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."@nl ;
     skos:definition "Reducing the amount, frequency or treated area of plant protection products while maintaining an explicit crop-protection strategy."@en,
@@ -4100,10 +4100,10 @@ vocab:ReductionOnTheUseOfPlantProtectionProducts a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Reduction on the use of plant protection products"@en,
         "Gewasbeschermingsmiddelengebruik verminderen"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Organic_agriculture_in_the_Netherlands_(P-025148-00-08).jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
     regenlmeta:originalDefinition "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"@en ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Henk Monster / Anefo / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:SoilManagement a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
@@ -4244,7 +4244,7 @@ vocab:RenewableEnergy a skos:Concept ;
         "Hernieuwbare energie"@nl ;
     foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Sheep_under_solar_panels_(1)_2025-07-26.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Andy Li (CC0 1.0)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, hernieuwbare energie op landbouwbedrijf (controleer bron en licentie)." .
 
 vocab:SoilSeedbedPreparation a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Soil_Health_(20220420-NRCS-UNK-063).jpg> ;
@@ -4291,7 +4291,7 @@ vocab:CropDiversificationIntercroppingPolycultureNoMonocultureCompanionPlanting 
     schema:creditText "Foto: AnnaJB (CC BY-SA 4.0)."@nl .
 
 vocab:FarmCitizenInteractions a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Extension_Worker.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
     skos:broader vocab:PeopleManagement ;
     skos:definition "Establishing direct contacts between the farm and members of the public through dialogue, participation, events or shared activities."@en,
         "Het opbouwen van direct contact tussen het landbouwbedrijf en burgers door gesprekken, participatie, bijeenkomsten of gezamenlijke activiteiten."@nl ;
@@ -4306,12 +4306,12 @@ vocab:FarmCitizenInteractions a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "farm-citizen interactions"@en,
         "Interacties tussen landbouwbedrijf en burgers"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm%20Extension%20Worker.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Samuel Macharia (Vrije licentie, controleer bronpagina)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:FarmSocioEconomicManagement a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Farm_Office.jpg> ;
     skos:broader vocab:FinancialManagement ;
     skos:definition "Managing labour, finance, business relationships, community engagement and income diversification alongside the farm's agricultural activities."@en,
         "Het beheren van arbeid, financiën, zakelijke relaties, maatschappelijke betrokkenheid en inkomensbronnen naast de agrarische productie."@nl ;
@@ -4326,9 +4326,9 @@ vocab:FarmSocioEconomicManagement a skos:Concept ;
     skos:notation "Macro" ;
     skos:prefLabel "Farm socio-economic management"@en,
         "Sociaal-economisch bedrijfsbeheer"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Farm_Office.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Tvjeevaraj / Wikimedia Commons (controleer bron en licentie)." .
 
 vocab:GrasslandAndGrazing a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:NRCSAR02005_-_Arkansas_%28193%29%28NRCS_Photo_Gallery%29.jpg> ;
@@ -4351,7 +4351,7 @@ vocab:GrasslandAndGrazing a skos:Concept ;
     schema:creditText "Foto: Jeff Vanuga / USDA NRCS (publiek domein in de Verenigde Staten)."@nl .
 
 vocab:MeasuringAndMonitoring a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Agricultural_art.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Precision_Farming_in_Minnesota_-_False_Colour.jpg> ;
     skos:broader vocab:DiagnosisAndManagementPlansMacro ;
     skos:definition "Systematically collecting repeated observations or measurements of farm practices, soil, crops, livestock or environmental outcomes to assess change over time."@en,
         "Het systematisch en herhaald verzamelen van waarnemingen of metingen over bedrijfsmaatregelen, bodem, gewassen, dieren of milieuresultaten om veranderingen te volgen."@nl ;
@@ -4366,9 +4366,9 @@ vocab:MeasuringAndMonitoring a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Measuring and monitoring"@en,
         "Meten en monitoren"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Agricultural%20art.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Precision_Farming_in_Minnesota_-_False_Colour.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Antarsih / Wikimedia Commons (CC BY 4.0)."@nl .
+    schema:creditText "Beeld: Wikimedia Commons, precisielandbouw / remote sensing (controleer bron en licentie)." .
 
 vocab:ReduceExternalInputs a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Sheep_under_solar_panels_(1)_2025-07-26.jpg> ;
@@ -4455,7 +4455,7 @@ vocab:ExtensiveCropRotations a skos:Concept ;
     schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
 
 vocab:IncomeDeepeningIncreasingAddedValueOfProduct a skos:Concept ;
-    dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Shop_front_-_farm_shop.jpg> ;
     skos:broader vocab:FarmSocioEconomicManagement ;
     skos:definition "Increasing revenue per unit of farm produce through processing, branding, quality differentiation or shorter marketing chains."@en,
         "Het verhogen van de opbrengst per eenheid landbouwproduct door verwerking, merkontwikkeling, kwaliteitsonderscheid of kortere afzetketens."@nl ;
@@ -4471,9 +4471,9 @@ vocab:IncomeDeepeningIncreasingAddedValueOfProduct a skos:Concept ;
     skos:notation "Meso" ;
     skos:prefLabel "Income deepening -increasing added value of product"@en,
         "Inkomensverdieping door hogere productwaarde"@nl ;
-    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg?width=960> ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Shop_front_-_farm_shop.jpg?width=960> ;
     regenlmeta:definitionStatus "editorial-draft" ;
-    schema:creditText "Foto: Hugh Venables (controleer licentie op Commons)."@nl .
+    schema:creditText "Foto: Wikimedia Commons, boerderijwinkel (controleer bron en licentie)." .
 
 vocab:NonChemicalControlWeedsPestsAndDiseases a skos:Concept ;
     dcterms:source <https://commons.wikimedia.org/wiki/File:Cover_crop_in_field_-_geograph.org.uk_-_5236028.jpg> ;
