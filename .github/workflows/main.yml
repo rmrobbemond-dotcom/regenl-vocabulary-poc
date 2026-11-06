@@ -106,6 +106,7 @@ jobs:
           -v $(pwd)/data:/app/data
           -v $(pwd)/.env:/app/.env
           -v $(pwd)/config.yaml:/app/config.yaml
+          -v $(pwd)/static/img:/app/static/img
           -e GATSBY_RESPOSITORY_URL=https://github.com/$GITHUB_REPOSITORY
           skohub/skohub-vocabs-docker:latest
       # ReGeNL PoC addition: enrich the static pages with foaf:depiction images.
