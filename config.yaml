@@ -2,7 +2,7 @@
 ---
 tokenizer: "full"
 
-custom_domain: ""
+custom_domain: "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/"
 
 fail_on_validation: false
 
