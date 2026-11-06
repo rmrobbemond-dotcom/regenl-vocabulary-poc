@@ -116,22 +116,21 @@ jobs:
           python -m pip install --disable-pip-version-check rdflib==7.1.4
           python scripts/add_concept_photos.py
       
-      - name: Adjust ReGeNL logo size
+
+      - name: Adjust ReGeNL logo and footer
         run: |
           python3 - <<'PY'
           from pathlib import Path
 
           css = """
           <style>
-            /* ReGeNL-logo: juiste verhoudingen */
             img[src*="logo-ReGeNL-web.png"] {
               width: 140px !important;
               height: auto !important;
               max-width: none !important;
               object-fit: contain !important;
             }
-            
-            /* Verberg links in de onderste balk */
+
             footer a {
               display: none !important;
             }
@@ -139,6 +138,9 @@ jobs:
           """
 
           for file in Path("public").rglob("*.html"):
+              if not file.is_file():
+                  continue
+
               html = file.read_text(encoding="utf-8")
               if "</head>" in html:
                   file.write_text(
