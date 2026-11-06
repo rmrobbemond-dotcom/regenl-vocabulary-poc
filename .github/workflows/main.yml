@@ -123,11 +123,17 @@ jobs:
 
           css = """
           <style>
+            /* ReGeNL-logo: juiste verhoudingen */
             img[src*="logo-ReGeNL-web.png"] {
               width: 140px !important;
               height: auto !important;
               max-width: none !important;
               object-fit: contain !important;
+            }
+            
+            /* Verberg links in de onderste balk */
+            footer a {
+              display: none !important;
             }
           </style>
           """
