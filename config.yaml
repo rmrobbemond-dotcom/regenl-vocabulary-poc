@@ -16,7 +16,7 @@ searchableAttributes:
 
 ui:
   title: "ReGeNL Vocabulary"
-  logo: "regenl-logo.png"
+  logo: "https://regenl.nl/wp-content/uploads/2024/02/logo-ReGeNL-web.png"
 
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
