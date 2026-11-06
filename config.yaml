@@ -1,18 +1,23 @@
+
 ---
-# see https://github.com/nextapps-de/flexsearch#tokenizer-prefix-search for options
-tokenizer: "full" # strict, forward, reverse, full
-custom_domain: "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/"
+tokenizer: "full"
+
+custom_domain: ""
+
 fail_on_validation: false
+
 searchableAttributes:
-  - "prefLabel" # you should not delete this one
+  - "prefLabel"
   - "notation"
   - "altLabel"
   - "hiddenLabel"
   - "example"
   - "definition"
+
 ui:
-  title: "ReGeNL Vocabulary" # Title is mandatory
-  logo: "skohub-signet-color.svg" # Path
+  title: "ReGeNL Vocabulary"
+  logo: "regenl-logo.png"
+
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
     skoHubDarkColor: "rgb(15, 85, 75)"
@@ -25,12 +30,14 @@ ui:
     skoHubDarkGrey: "rgb(155, 155, 155)"
     skoHubMiddleGrey: "rgb(200, 200, 200)"
     skoHubLightGrey: "rgb(235, 235, 235)"
+
   fonts:
     regular:
       font_family: "Ubuntu"
       font_style: "normal"
       font_weight: 400
       name: "ubuntu-v20-latin-regular"
+
     bold:
       font_family: "Ubuntu"
       font_style: "normal"
