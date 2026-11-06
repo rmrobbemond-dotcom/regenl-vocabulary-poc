@@ -5,9 +5,13 @@
     "nl": "Ecologisch beheer van watergangen en sloten",
     "en": "Ecological waterway and ditch management"
   },
+  "definition": {
+    "nl": "Het ecologisch beheren van slootkanten en watergangen met bijvoorbeeld gefaseerd maaien, behoud van vegetatie en beperkte verstoring voor water- en oevernatuur.",
+    "en": "Managing banks and watercourses with measures such as phased mowing, vegetation retention and reduced disturbance to support aquatic and riparian biodiversity."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

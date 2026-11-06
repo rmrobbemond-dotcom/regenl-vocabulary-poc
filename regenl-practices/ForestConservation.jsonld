@@ -5,9 +5,13 @@
     "nl": "Bosbehoud",
     "en": "Forest conservation"
   },
+  "definition": {
+    "nl": "Het beschermen van bestaande bossen en hun ecologische functies door ontbossing te voorkomen en aantasting of versnippering tegen te gaan.",
+    "en": "Protecting existing forest cover and ecological functions by avoiding clearing and managing threats such as degradation or fragmentation."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

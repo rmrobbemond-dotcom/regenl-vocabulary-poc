@@ -5,9 +5,13 @@
     "nl": "Gemeenschapslandbouw, zelfpluk en boerderijwinkels",
     "en": "CSA, self-picking, on-farms shops"
   },
+  "definition": {
+    "nl": "Vormen van rechtstreekse voedselvoorziening waarbij consumenten producten verkrijgen via gemeenschapslandbouw, zelfoogst of een winkel op het landbouwbedrijf.",
+    "en": "Farm-to-consumer arrangements in which customers obtain produce through community-supported agriculture, self-harvesting or a shop on the farm."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

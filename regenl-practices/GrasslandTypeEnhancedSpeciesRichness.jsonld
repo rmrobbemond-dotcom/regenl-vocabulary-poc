@@ -5,9 +5,13 @@
     "nl": "Graslandtype met verhoogde soortenrijkdom",
     "en": "grassland type - enhanced species richness"
   },
+  "definition": {
+    "nl": "Grasland dat bewust met extra gras-, kruiden- of vlinderbloemige soorten is ingezaaid of beheerd om de botanische diversiteit te vergroten ten opzichte van een eenvoudige zode.",
+    "en": "Grassland deliberately established or managed with additional grass, herb or legume species to increase botanical diversity compared with a simple sward."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

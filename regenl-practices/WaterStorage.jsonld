@@ -5,9 +5,13 @@
     "nl": "Wateropslag",
     "en": "Water storage"
   },
+  "definition": {
+    "nl": "Het tijdelijk vasthouden van water in tanks, vijvers, bodems of aangelegde reservoirs voor later gebruik of gecontroleerde afgifte.",
+    "en": "Holding water temporarily in tanks, ponds, soils or constructed reservoirs for use or controlled release at a later time."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

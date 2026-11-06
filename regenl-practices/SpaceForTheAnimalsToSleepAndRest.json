@@ -5,9 +5,13 @@
     "nl": "Rust- en ligruimte voor dieren",
     "en": "space for the animals to sleep and rest"
   },
+  "definition": {
+    "nl": "Het bieden van voldoende geschikte rust- en ligplaatsen voor dieren, met schone en comfortabele oppervlakken, als onderdeel van diergericht huisvestingsbeheer.",
+    "en": "Providing livestock with sufficient, suitable resting and lying areas, including clean and comfortable surfaces, as part of housing welfare management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

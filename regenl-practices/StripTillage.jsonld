@@ -6,8 +6,8 @@
     "en": "Strip tillage"
   },
   "definition": {
-    "nl": "Slechts een smalle strook van de grond (bijvoorbeeld 15-30cm breed) wordt bewerkt",
-    "en": "tillage in a narrow band (e.g. 0.15-0.30m)"
+    "nl": "Het bewerken van alleen de smalle stroken waarin wordt gezaaid, terwijl de bodem tussen de stroken grotendeels onbewerkt blijft.",
+    "en": "Cultivating only the narrow soil strips in which seeds will be placed, leaving the soil between strips largely undisturbed."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

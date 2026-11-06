@@ -6,8 +6,8 @@
     "en": "Crop diversification -Cover crops:"
   },
   "definition": {
-    "nl": "Gewassen die worden geteeld voor agronomische of milieu/ ecologische doeleinden, aanvullend op een hoofdgewas",
-    "en": "the inclusion of plants grown for agronomic or environmental purposes in addition to the main crop on a land management unit"
+    "nl": "Het vergroten van de soortenvariatie in het teeltsysteem door bodembedekkers tussen of naast hoofdgewassen te telen voor bodembedekking en ecologische functies.",
+    "en": "Increasing the range of plant species in the cropping system by introducing cover crops between or alongside main crops for soil cover and ecological functions."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

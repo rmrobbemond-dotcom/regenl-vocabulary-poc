@@ -5,9 +5,13 @@
     "nl": "Bloemen-, kruiden- en natuurstroken",
     "en": "Flower/herb/nature strips"
   },
+  "definition": {
+    "nl": "Het aanleggen of behouden van stroken met bloemen, kruiden of halfnatuurlijke vegetatie langs of in percelen als leefgebied en voedselbron voor fauna.",
+    "en": "Establishing or retaining strips of flowering plants, herbs or semi-natural vegetation along or within fields to provide habitat and food resources for wildlife."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

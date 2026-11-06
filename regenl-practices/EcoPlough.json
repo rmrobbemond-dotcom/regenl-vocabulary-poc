@@ -5,9 +5,13 @@
     "nl": "Ecologische ploeg",
     "en": "eco plough"
   },
+  "definition": {
+    "nl": "Het gebruiken van een ploeg of werktuig dat ondieper werkt of de bodem minder verstoort dan conventioneel diep kerend ploegen; de uitvoering hangt af van het werktuig.",
+    "en": "Using a plough or tillage implement designed to work shallower or disturb the soil less than conventional deep inversion ploughing; the exact method depends on the machine."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

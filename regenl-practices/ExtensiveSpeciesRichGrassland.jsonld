@@ -6,12 +6,12 @@
     "en": "extensive species rich grassland"
   },
   "definition": {
-    "nl": "Soortenrijk grasland waarvoor in de bron een drempel van meer dan vijftien gras- en kruidensoorten per 25 m² wordt genoemd.",
-    "en": "> 15 grasses and herbs per  25 m2"
+    "nl": "Het beheren van kruiden- en soortenrijk grasland met weinig externe inputs, doorgaans via beperkte bemesting en aangepast maaien of beweiden.",
+    "en": "Maintaining low-input grassland with a diverse mixture of grasses and herbs, often managed through low fertilisation and adjusted mowing or grazing."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

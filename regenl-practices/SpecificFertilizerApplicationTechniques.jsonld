@@ -6,7 +6,8 @@
     "en": "Specific fertilizer application techniques"
   },
   "definition": {
-    "en": "quantity or time limitation of application"
+    "nl": "Het toepassen van gekozen manieren om nutriënten toe te dienen, zoals injecteren, rijenbemesting of precisieverspreiding, om efficiëntie te vergroten en verliezen te beperken.",
+    "en": "Using selected methods for nutrient placement or delivery, such as injection, band placement or precision spreading, to improve efficiency and reduce losses."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

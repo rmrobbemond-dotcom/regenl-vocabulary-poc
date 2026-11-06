@@ -6,8 +6,8 @@
     "en": "Foliar fertilizer use"
   },
   "definition": {
-    "nl": "Het gebruik van Bladbemesting als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Foliar fertilizer use'."
+    "nl": "Het via bespuiting toedienen van opgeloste voedingsstoffen op bladeren als aanvulling op de gewasvoeding, waarbij opname afhangt van nutriëntvorm en gewastoestand.",
+    "en": "Applying dissolved nutrients to leaves by spraying in order to supplement crop nutrition, with uptake depending on nutrient form and plant conditions."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Gewasbeheer",
     "en": "Crop managament"
   },
+  "definition": {
+    "nl": "Het plannen en uitvoeren van veldbewerkingen, gewaskeuze en gewasbescherming gedurende het groeiseizoen om teeltdoelen en milieueffecten te beheren.",
+    "en": "Planning and carrying out field operations, crop selection and crop protection during the growing season to meet agronomic objectives and manage environmental effects."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

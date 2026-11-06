@@ -6,11 +6,12 @@
     "en": "use of specific fertilizer types or manure"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'use of specific fertilizer types or manure'."
+    "nl": "Het kiezen van specifieke meststoffen of mesttypen vanwege nutriëntensamenstelling, vrijkomgedrag of bodemeffecten, afgestemd op gewas en bodem.",
+    "en": "Choosing defined fertiliser or manure types for their nutrient composition, release properties or soil effects, according to crop and soil needs."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Graslandbeheer binnen gewasproductie",
     "en": "Crop production management : grassland management"
   },
+  "definition": {
+    "nl": "Het beheren van grasland als landbouwgewas via keuzes over soorten, bemesting, maaien, beweiden en vernieuwing.",
+    "en": "Managing grassland as an agricultural crop through choices about species, fertilisation, cutting, grazing and renewal."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

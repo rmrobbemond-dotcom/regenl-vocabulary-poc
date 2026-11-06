@@ -5,9 +5,13 @@
     "nl": "Collectief merk",
     "en": "Collective brand"
   },
+  "definition": {
+    "nl": "Het ontwikkelen en gebruiken van één gezamenlijk merk door meerdere producenten om producten met gedeelde kwaliteits- of herkomstkenmerken te vermarkten.",
+    "en": "Developing and using a shared product identity or trade mark by several producers to market goods under common quality or origin characteristics."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

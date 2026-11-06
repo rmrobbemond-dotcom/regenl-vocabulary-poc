@@ -5,9 +5,13 @@
     "nl": "Bio-economie",
     "en": "Bioeconomy"
   },
+  "definition": {
+    "nl": "Het produceren en benutten van hernieuwbare biologische hulpbronnen, zoals gewassen, biomassa en reststromen, voor voedsel, materialen, energie of andere producten als alternatief voor fossiele grondstoffen.",
+    "en": "Producing and using renewable biological resources, including crops, biomass and residues, for food, materials, energy or other products instead of relying solely on fossil resources."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

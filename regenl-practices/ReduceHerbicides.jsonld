@@ -6,8 +6,8 @@
     "en": "Reduce herbicides"
   },
   "definition": {
-    "nl": "Herbiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce herbicides'."
+    "nl": "Het verminderen van herbicidengebruik via lagere doseringen of minder toepassingen en aanvullend mechanisch of ecologisch onkruidbeheer.",
+    "en": "Reducing the use of herbicides through lower application rates or frequency and complementary mechanical or ecological weed management."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

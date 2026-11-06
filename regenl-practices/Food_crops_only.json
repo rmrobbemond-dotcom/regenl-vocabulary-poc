@@ -5,9 +5,13 @@
     "nl": "Alleen voedselgewassen",
     "en": "Food crops only"
   },
+  "definition": {
+    "nl": "Het beperken van een teeltareaal of productiestrategie tot gewassen bestemd voor menselijke voeding, in plaats van andere toepassingen zoals energie of sierproducten.",
+    "en": "Restricting a specified cropping area or production strategy to crops intended directly or indirectly for human food rather than non-food uses."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

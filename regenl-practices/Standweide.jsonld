@@ -5,9 +5,13 @@
     "nl": "Standweide",
     "en": "standweide"
   },
+  "definition": {
+    "nl": "Een vorm van voortdurende beweiding waarbij dieren gedurende langere tijd toegang hebben tot hetzelfde grasland of graasblok in plaats van frequent tussen percelen te wisselen.",
+    "en": "Continuous grazing in which animals have access to the same pasture or grazing unit over an extended period rather than being moved frequently between paddocks."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

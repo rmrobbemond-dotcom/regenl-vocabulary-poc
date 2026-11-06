@@ -5,9 +5,13 @@
     "nl": "Overheidsbetalingen voor ecosysteemdiensten",
     "en": "Ecosystemservice payments from government"
   },
+  "definition": {
+    "nl": "Het ontvangen van een overheidsvergoeding voor afgesproken of aantoonbaar geleverd beheer dat ecosysteemdiensten ondersteunt, zoals biodiversiteit, waterkwaliteit of koolstofopslag.",
+    "en": "Receiving public compensation for verified or agreed farm management that provides ecosystem services such as biodiversity, water quality or carbon storage."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

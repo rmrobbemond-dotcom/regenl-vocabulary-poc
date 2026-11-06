@@ -6,8 +6,8 @@
     "en": "Mulching with crop residues"
   },
   "definition": {
-    "nl": "Het achterlaten of aanbrengen van gewasresten op de bodem",
-    "en": "leaving or applying crop residues on the soil"
+    "nl": "Het laten liggen of verspreiden van gewasresten op het bodemoppervlak als mulchlaag die kale grond afdekt en verdamping kan beperken.",
+    "en": "Leaving or spreading crop residues on the soil surface as a protective mulch layer that reduces bare soil exposure and can slow evaporation."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

@@ -6,8 +6,8 @@
     "en": "Minimal use of external fertilizers inputs (from outside the farm)"
   },
   "definition": {
-    "nl": "Het verminderd of minimaal gebruik van externe messtoffen",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Minimal use of external fertilizers inputs (from outside the farm)'."
+    "nl": "Het zoveel mogelijk voorzien in gewasvoeding door nutriëntenkringlopen op het eigen bedrijf en het beperken van aangekochte of aangevoerde meststoffen.",
+    "en": "Obtaining as much crop nutrition as feasible from on-farm nutrient cycling while limiting purchased or imported fertilisers."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

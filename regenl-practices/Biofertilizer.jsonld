@@ -6,8 +6,8 @@
     "en": "Biofertilizer"
   },
   "definition": {
-    "nl": "Het gebruik van Bio-meststof of andere natuurlijke meststoffen als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Biofertilizer'."
+    "nl": "Het toepassen van microbiële producten of biologisch verkregen bemestende inputs om nutriëntenbeschikbaarheid of plantenvoeding te ondersteunen; de precieze categorie hangt af van samenstelling en regelgeving.",
+    "en": "Using a microbial product or biologically derived fertilising input to support nutrient availability or plant nutrition; the exact category depends on product composition and regulation."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

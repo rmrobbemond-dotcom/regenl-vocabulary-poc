@@ -6,11 +6,12 @@
     "en": "Preparation made from organic materials"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Preparation made from organic materials'."
+    "nl": "Het gebruiken van een preparaat gemaakt uit organisch plantaardig of dierlijk materiaal, zoals extracten of gefermenteerde producten, als landbouwkundige input.",
+    "en": "Using a preparation produced from organic plant or animal materials, such as extracts or fermented products, as an agricultural input."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

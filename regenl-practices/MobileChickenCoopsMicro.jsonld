@@ -5,9 +5,13 @@
     "nl": "Mobiele kippenhokken",
     "en": "Mobile chicken coops"
   },
+  "definition": {
+    "nl": "Het gebruiken van verplaatsbare kippenhokken die over landbouwgrond worden verschoven om wisselende buitenuitloop te bieden en mest en gebruiksdruk te spreiden.",
+    "en": "Using movable poultry housing that can be relocated across farmland to provide changing outdoor access and distribute manure and grazing pressure."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Agroforestry",
     "en": "Agroforestry"
   },
+  "definition": {
+    "nl": "Het doelbewust combineren van bomen of struiken met gewassen en/of vee binnen dezelfde beheereenheid, zodat houtige en agrarische onderdelen ecologisch en economisch samenhangen.",
+    "en": "Deliberately integrating trees or shrubs with crops and/or livestock on the same land management unit so that the woody and agricultural components interact."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Mestmonsteranalyse",
     "en": "Manure sample analysis"
   },
+  "definition": {
+    "nl": "Het analyseren van mestmonsters in het laboratorium of op het bedrijf om nutriëntengehalten en andere eigenschappen voor de bemestingsplanning te bepalen.",
+    "en": "Laboratory or on-farm analysis of manure samples to determine nutrient contents and other properties needed for fertilisation planning."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

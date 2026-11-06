@@ -6,8 +6,8 @@
     "en": "Summer cover crops"
   },
   "definition": {
-    "nl": "gewassen die in de zomer worden geteeld om de bodem te bedekken en te beschermen",
-    "en": "Cover crops grown to provide vegetative cover of the soil in summer"
+    "nl": "Het in de zomer telen van bodembedekkers, meestal tussen hoofdteelten of na vroege oogst, om bodem te beschermen en beschikbare nutriënten op te nemen.",
+    "en": "Growing cover crops during the summer period, usually between main crops or after early harvest, to protect soil and take up available nutrients."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

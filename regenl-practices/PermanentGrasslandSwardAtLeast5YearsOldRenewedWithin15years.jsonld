@@ -6,11 +6,12 @@
     "en": "permanent grassland sward  at least 5 years old renewed within 15years"
   },
   "definition": {
-    "en": "see definition permanent grassland types"
+    "nl": "Grasland met een huidige zode van ten minste vijf jaar oud dat in de afgelopen vijftien jaar wel is vernieuwd of opnieuw ingezaaid.",
+    "en": "Grassland with a current sward at least five years old that has nevertheless been reseeded or renewed within the preceding fifteen years."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

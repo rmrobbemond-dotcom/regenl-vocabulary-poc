@@ -5,9 +5,13 @@
     "nl": "Infrastructuur- en materieelbeheer",
     "en": "Infra and equipment management"
   },
+  "definition": {
+    "nl": "Het plannen van aanschaf, onderhoud, gebruik en vervanging van agrarische infrastructuur, gebouwen, machines en gereedschappen voor doelmatige bedrijfsvoering.",
+    "en": "Planning acquisition, maintenance, use and replacement of farm infrastructure, buildings, machinery and tools to support efficient and responsible operations."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

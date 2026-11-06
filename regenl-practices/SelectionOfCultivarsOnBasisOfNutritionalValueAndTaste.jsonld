@@ -5,9 +5,13 @@
     "nl": "Rassenkeuze op basis van voedingswaarde en smaak",
     "en": "selection of cultivars on basis of nutritional value and taste"
   },
+  "definition": {
+    "nl": "Het kiezen van gewasrassen op basis van gewenste voedingskundige samenstelling en smaakeigenschappen, naast de teeltprestaties.",
+    "en": "Selecting crop varieties for desired nutritional composition and sensory properties, such as flavour, alongside agronomic performance."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

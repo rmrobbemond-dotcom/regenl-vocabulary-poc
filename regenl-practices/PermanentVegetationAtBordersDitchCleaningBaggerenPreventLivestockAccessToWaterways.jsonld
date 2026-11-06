@@ -5,9 +5,13 @@
     "nl": "Permanente oevervegetatie, slootonderhoud en uitsluiten van vee",
     "en": "permanent vegetation at borders; ditch cleaning (baggeren); Prevent livestock access to waterways"
   },
+  "definition": {
+    "nl": "Het behouden van begroeide oevers, zorgvuldig uitvoeren van slootonderhoud en voorkomen dat vee watergangen betreedt om oevers en waterkwaliteit te beschermen.",
+    "en": "Maintaining vegetated water margins, managing ditch clearance and preventing livestock from entering waterways to protect banks and water quality."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

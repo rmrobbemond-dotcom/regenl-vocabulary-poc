@@ -6,8 +6,8 @@
     "en": "Mechanical pest management"
   },
   "definition": {
-    "nl": "Plaagbestrijding met behulp van werktuigen of andere fysieke maatregelen, bv. netten of geluid",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical pest management'."
+    "nl": "Het verminderen van plaagorganismen met fysieke of mechanische ingrepen, zoals barrières, vallen, verwijderen of mechanisch bestrijden, in plaats van chemische middelen.",
+    "en": "Reducing pest populations using physical or mechanical interventions such as barriers, traps, removal or mechanical destruction rather than chemical pesticides."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

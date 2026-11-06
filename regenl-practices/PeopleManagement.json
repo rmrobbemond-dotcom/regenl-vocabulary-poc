@@ -5,9 +5,13 @@
     "nl": "Personeelsbeheer",
     "en": "people management"
   },
+  "definition": {
+    "nl": "Het organiseren van werving, scholing, werkbelasting, arbeidsomstandigheden en arbeidsrelaties van medewerkers op het landbouwbedrijf.",
+    "en": "Organising recruitment, training, workload, working conditions and employment relationships for workers on the farm."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

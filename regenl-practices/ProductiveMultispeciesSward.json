@@ -5,9 +5,13 @@
     "nl": "Productieve soortenrijke graszode",
     "en": "productive multispecies sward"
   },
+  "definition": {
+    "nl": "Een graszode die bewust uit meerdere productieve grassen, vlinderbloemigen of kruiden bestaat voor ruwvoeropbrengst en gevarieerde beworteling.",
+    "en": "A grassland sward intentionally composed of multiple productive grasses, legumes or herbs that contribute to forage yield and diverse rooting."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

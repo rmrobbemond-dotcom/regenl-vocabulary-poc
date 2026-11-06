@@ -5,9 +5,13 @@
     "nl": "Mechanisatie verminderen en handmatig of laagtechnologisch werken",
     "en": "Reduce mechanization, Manual/low tech farming"
   },
+  "definition": {
+    "nl": "Het vervangen van een deel van machinale werkzaamheden door handarbeid of laagtechnologisch gereedschap om machinegebruik of energievraag te beperken.",
+    "en": "Replacing part of mechanised farm operations with manual work or low-technology equipment to reduce machinery use or energy demand."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

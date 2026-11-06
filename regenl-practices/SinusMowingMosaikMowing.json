@@ -5,9 +5,13 @@
     "nl": "Sinusmaaien en mozaïekmaaien",
     "en": "sinus mowing, mosaik mowing,"
   },
+  "definition": {
+    "nl": "Het maaien in slingerende banen of ruimtelijke mozaïeken op verschillende momenten, waarbij ongemaaide delen beschutting en bloeiaanbod voor fauna behouden.",
+    "en": "Mowing in curved strips or in a spatial mosaic at different times, retaining uncut patches that provide shelter and flowering resources for wildlife."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

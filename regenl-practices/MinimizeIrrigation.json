@@ -5,9 +5,13 @@
     "nl": "Irrigatie minimaliseren",
     "en": "Minimize irrigation"
   },
+  "definition": {
+    "nl": "Het beperken van beregeningsfrequentie of watervolume door watergiften op de gewasbehoefte af te stemmen en bodemvocht vast te houden.",
+    "en": "Reducing irrigation frequency or volume by matching watering to crop needs and using soil-moisture conservation measures."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

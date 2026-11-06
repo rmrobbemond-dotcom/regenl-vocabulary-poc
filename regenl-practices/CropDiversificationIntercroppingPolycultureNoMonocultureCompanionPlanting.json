@@ -6,8 +6,8 @@
     "en": "Crop diversification - Intercropping/ polyculture / no monoculture / companion planting"
   },
   "definition": {
-    "nl": "Meerdere gewassen (eenjarig of meerjarig) staat gelijktijdig op hetzelfde perceel gedurende een aanzienlijke periode, waarbij elk gewas zich ontwikkelt volgens zijn eigen fysiologie",
-    "en": "Intercropping consists of growing several crops (annual or perennial) simultaneously in the same field for a significant amount of time, each crop developing and growing according to its physiology."
+    "nl": "Het gelijktijdig of in nauwe samenhang telen van meerdere gewassoorten op dezelfde grond in plaats van uitsluitend eenvormige monoculturen.",
+    "en": "Growing multiple crop species together or in close association on the same land instead of relying solely on single-species stands."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

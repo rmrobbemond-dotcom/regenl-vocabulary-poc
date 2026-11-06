@@ -6,8 +6,8 @@
     "en": "Reducing fertilizer use"
   },
   "definition": {
-    "nl": "Algemene vermindering van meststoffengebruik",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing fertilizer use'."
+    "nl": "Het verminderen van de totale meststoffengift terwijl de nutriëntenaanvoer op de gewasbehoefte wordt afgestemd en balansen worden gevolgd.",
+    "en": "Reducing total fertiliser inputs while matching crop nutrient supply to demand and monitoring nutrient balances."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

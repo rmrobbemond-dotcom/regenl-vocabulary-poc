@@ -6,8 +6,8 @@
     "en": "Compost use"
   },
   "definition": {
-    "nl": "Het gebruik van compost van plantaardige oorsprong (niet dierlijk)",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost use'."
+    "nl": "Het toedienen van biologisch afgebroken organisch materiaal aan de bodem voor aanvoer van organische stof en nutriënten en beïnvloeding van structuur en bodemleven.",
+    "en": "Applying biologically decomposed organic materials to soil to add organic matter and nutrients and influence soil structure and biological activity."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Crowdfunding, Zoöp, aandelen en tijdsruil van arbeid",
     "en": "Crowdfunding, zoop, shares, timebanking of labour"
   },
+  "definition": {
+    "nl": "Het inzetten van alternatieve vormen om financiering, betrokkenheid of arbeid te organiseren, zoals crowdfunding, aandelen, arbeidsruil of een Zoöp-bestuursmodel.",
+    "en": "Using alternative arrangements to mobilise money, participation or work for a farm, such as crowdfunding, ownership shares, labour exchanges or a Zoöp governance structure."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

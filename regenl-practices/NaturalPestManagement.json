@@ -6,8 +6,8 @@
     "en": "Natural pest management"
   },
   "definition": {
-    "nl": "Het gebruik van nuttige organismen om schadelijke plagen te bestrijden.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural pest management'."
+    "nl": "Het beheersen van gewasplagen door natuurlijke vijanden en ecologische processen te ondersteunen, zoals predatoren, parasitoïden en leefgebiedbeheer.",
+    "en": "Controlling crop pests by supporting natural enemies and ecological processes, such as predators, parasitoids or habitat-based regulation."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

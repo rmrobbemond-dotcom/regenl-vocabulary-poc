@@ -6,8 +6,8 @@
     "en": "Relay intercropping"
   },
   "definition": {
-    "nl": "Twee of meer hoofdgewassen die slechts gedurende een deel van hun groeiperiode overlappen",
-    "en": "Type of intercropping where the species overlap only for a portion of their growth duration"
+    "nl": "Het inzaaien van een tweede gewas in een nog groeiend eerste gewas, zodat hun groeiperioden tijdelijk overlappen voordat het eerste gewas wordt geoogst.",
+    "en": "Sowing a second crop into a standing first crop so their growing periods overlap for part of the season before the first crop is harvested."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

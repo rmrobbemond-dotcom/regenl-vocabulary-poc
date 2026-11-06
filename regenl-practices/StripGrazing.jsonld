@@ -6,12 +6,12 @@
     "en": "strip grazing"
   },
   "definition": {
-    "nl": "Een vorm van rotatiebeweiding waarbij dieren met een verplaatsbare afrastering telkens toegang krijgen tot een smalle strook grasland.",
-    "en": "a rotational grazing method where animals are given access to a narrow strip of pasture using a temporary, movable fence, like electric tape"
+    "nl": "Het vee telkens toegang geven tot een smalle grasstrook, meestal door een tijdelijke afrastering te verplaatsen om stapsgewijs vers voer aan te bieden.",
+    "en": "Giving livestock access to a narrow section of pasture at a time, usually by moving temporary fencing to provide fresh forage incrementally."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

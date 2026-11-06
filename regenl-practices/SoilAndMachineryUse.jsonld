@@ -5,9 +5,13 @@
     "nl": "Bodem en machinegebruik",
     "en": "Soil and machinery use"
   },
+  "definition": {
+    "nl": "Het afstemmen van bodembeheer op machinekeuze, werktijdstip en rijbewegingen om schade aan bodemstructuur te beperken en veldwerk mogelijk te maken.",
+    "en": "Coordinating soil management with the selection, timing and traffic of farm machinery to limit damage to soil structure and support field operations."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

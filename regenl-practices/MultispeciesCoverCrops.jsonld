@@ -6,8 +6,8 @@
     "en": "Multispecies cover crops"
   },
   "definition": {
-    "nl": "mengsel van verschillende soorten bodembedekker (zoals een combinatie van eenjarige grassen, kruisbloemigen en vlinderbloemigen",
-    "en": "More then 1 different types of species of cover crops are sown (eg. Combination of combination of annual grasses, brassicas, and legumes)"
+    "nl": "Het telen van een mengsel van minimaal twee bodembedekkende plantensoorten met verschillende wortel-, nutriënten- of leefgebiedfuncties.",
+    "en": "Growing a cover-crop mixture containing at least two plant species with complementary root, nutrient or habitat characteristics."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

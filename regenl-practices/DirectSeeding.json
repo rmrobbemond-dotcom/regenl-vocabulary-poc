@@ -5,9 +5,13 @@
     "nl": "Directzaai",
     "en": "Direct seeding"
   },
+  "definition": {
+    "nl": "Het direct zaaien van zaad op de uiteindelijke groeiplaats, vaak in gewasresten of nauwelijks bewerkte grond, zonder eerst planten op te kweken en te verplanten.",
+    "en": "Sowing seed directly into its final growing position, often into crop residues or minimally disturbed soil, without raising and transplanting seedlings."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

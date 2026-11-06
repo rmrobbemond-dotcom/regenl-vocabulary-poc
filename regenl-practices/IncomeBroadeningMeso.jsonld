@@ -5,9 +5,13 @@
     "nl": "Inkomensverbreding",
     "en": "Income broadening"
   },
+  "definition": {
+    "nl": "Het spreiden van bedrijfsinkomsten door naast de primaire landbouwproductie extra producten, diensten of activiteiten te ontwikkelen.",
+    "en": "Diversifying farm revenue by developing additional products, services or activities beyond primary agricultural production."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

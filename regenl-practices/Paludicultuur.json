@@ -5,9 +5,13 @@
     "nl": "Paludicultuur (natte teelt)",
     "en": "paludicultuur"
   },
+  "definition": {
+    "nl": "Het telen van gewassen die geschikt zijn voor permanent natte of vernatte bodems, zoals veengronden, terwijl hoge waterstanden behouden blijven.",
+    "en": "Cultivating crops adapted to permanently wet or rewetted soils, such as peatlands, while maintaining high water tables."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

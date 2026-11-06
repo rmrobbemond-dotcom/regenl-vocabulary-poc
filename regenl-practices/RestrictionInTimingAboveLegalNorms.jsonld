@@ -6,8 +6,8 @@
     "en": "restriction in timing (above legal norms)"
   },
   "definition": {
-    "nl": "Specifieke normen het momenten van bemest die strenger zijn dan de geldende wetgeving",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in timing (above legal norms)'."
+    "nl": "Het hanteren van aanvullende beperkingen aan het tijdstip waarop een input of maatregel wordt gebruikt, strenger dan wettelijke perioden of timingregels.",
+    "en": "Imposing additional restrictions on when a farming input or practice may be used, beyond legally required closed periods or timing rules."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

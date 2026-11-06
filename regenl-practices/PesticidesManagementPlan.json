@@ -5,9 +5,13 @@
     "nl": "Gewasbeschermingsplan",
     "en": "pesticides management plan"
   },
+  "definition": {
+    "nl": "Een vastgelegde strategie om plagen en ziekten te voorkomen, te monitoren en te beheersen, met criteria voor het eventueel inzetten van gewasbeschermingsmiddelen.",
+    "en": "A documented strategy for preventing, monitoring and controlling crop pests and diseases, including criteria for deciding when and how products may be used."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

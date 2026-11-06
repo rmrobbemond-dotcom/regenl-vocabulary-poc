@@ -5,9 +5,13 @@
     "nl": "Inzet van zware machines verminderen",
     "en": "Reduce heavy machinery"
   },
+  "definition": {
+    "nl": "Het verminderen van zware veldmachines door lichter materieel, minder werkgangen of aangepaste logistiek om bodemverdichting te beperken.",
+    "en": "Decreasing use of high-weight field machinery through lighter equipment, fewer passes or changes in field logistics to limit soil compaction."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

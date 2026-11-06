@@ -6,8 +6,8 @@
     "en": "Reduction organic fertilizers"
   },
   "definition": {
-    "nl": "Het verminderd of minimaal gebruik van organische meststoffen",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduction organic fertilizers'."
+    "nl": "Het verminderen van giften organische meststoffen of mest om nutriëntenbalansen te verbeteren en overmatige nutriëntenbelasting te beperken.",
+    "en": "Reducing applications of organic fertilisers or manures to meet nutrient balances and limit excess nutrient loading."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

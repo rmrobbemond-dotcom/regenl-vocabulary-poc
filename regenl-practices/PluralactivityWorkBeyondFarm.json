@@ -5,9 +5,13 @@
     "nl": "Nevenactiviteiten buiten de landbouw",
     "en": "Pluralactivity - work beyond farm"
   },
+  "definition": {
+    "nl": "Het combineren van landbouwactiviteiten met ander werk of ondernemerschap buiten het bedrijf om huishoud- of bedrijfsinkomsten te spreiden.",
+    "en": "Combining agricultural work with additional professional or commercial activities outside the farm to diversify household or business income."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

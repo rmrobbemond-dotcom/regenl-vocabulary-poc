@@ -5,9 +5,13 @@
     "nl": "Restmaterialen gebruiken",
     "en": "Use of residual materials"
   },
+  "definition": {
+    "nl": "Het benutten van agrarische bijproducten of resterende biomassa als voer, strooisel, meststof, materiaal of energiebron in plaats van ze af te voeren.",
+    "en": "Using agricultural by-products or residual biomass as useful inputs for feed, bedding, fertilisation, materials or energy instead of discarding them."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

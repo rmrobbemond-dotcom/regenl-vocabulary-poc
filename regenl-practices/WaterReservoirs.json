@@ -5,9 +5,13 @@
     "nl": "Waterreservoirs",
     "en": "Water reservoirs"
   },
+  "definition": {
+    "nl": "Het aanleggen of onderhouden van bassins, tanks of vijvers voor opslag van water voor beregening, vee of andere bedrijfsbehoeften.",
+    "en": "Constructing or maintaining basins, tanks or ponds intended to store water for irrigation, livestock or other farm needs."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -6,8 +6,8 @@
     "en": "No herbicides"
   },
   "definition": {
-    "nl": "Totaal geen gebruik van herbiciden op het bedrijf. Eventueel wel andere middelen.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No herbicides'."
+    "nl": "Het niet toepassen van herbiciden op het aangewezen gewas of perceel en waar nodig andere vormen van onkruidbeheer gebruiken.",
+    "en": "Not applying herbicides to the specified crop or field, and using other means to manage weeds if needed."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

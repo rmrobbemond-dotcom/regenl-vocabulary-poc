@@ -5,9 +5,13 @@
     "nl": "Groene zorg",
     "en": "Green care"
   },
+  "definition": {
+    "nl": "Het inzetten van de boerderijomgeving, dieren, planten en werkzaamheden in georganiseerde zorg-, begeleidings- of therapeutische trajecten.",
+    "en": "Using farm environments, animals, plants and activities in organised care, support or therapeutic programmes for people with care needs."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

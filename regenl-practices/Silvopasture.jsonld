@@ -5,9 +5,13 @@
     "nl": "Bomen gecombineerd met beweiding",
     "en": "Silvopasture"
   },
+  "definition": {
+    "nl": "Een agroforestrysysteem waarin bomen of struiken doelbewust worden gecombineerd met grazend vee en ruwvoerproductie op hetzelfde oppervlak.",
+    "en": "An agroforestry system deliberately combining trees or shrubs with grazing livestock and forage production in the same area."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

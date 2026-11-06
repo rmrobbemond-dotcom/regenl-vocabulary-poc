@@ -6,11 +6,12 @@
     "en": "Crop Production Management"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Mega level with label 'Crop Production Management'."
+    "nl": "De samenhangende aansturing van gewasproductie, waaronder vruchtwisseling, bodembewerking, zaaien, bemesting, gewasbescherming en oogst.",
+    "en": "The coordinated management of crop production, including rotations, soil preparation, sowing, nutrition, pest control and harvest."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

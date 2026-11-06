@@ -6,7 +6,8 @@
     "en": "Sheep wool fertilizer"
   },
   "definition": {
-    "nl": "Het gebruik van schapenwol als meststof"
+    "nl": "Het gebruiken van verwerkte schapenwol als organische, langzaam afbrekende nutriëntenbron, vooral voor stikstof, voor bodem of gewassen.",
+    "en": "Applying processed sheep wool as an organic, slowly decomposing nutrient source, particularly of nitrogen, to soil or crops."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

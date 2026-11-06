@@ -5,9 +5,13 @@
     "nl": "Minimale beweidingsperiode of beperkingen aan beweiding en veebezetting",
     "en": "minimum grazing period; no or restricted grazing; grazing livestock density limitation"
   },
+  "definition": {
+    "nl": "Het beperken van graasduur, graasmomenten of veebezetting op aangewezen grond om vegetatie, bodem of biodiversiteit volgens bepaalde beheerregels te beschermen.",
+    "en": "Restricting grazing duration, timing or livestock density on designated land to protect vegetation, soils or biodiversity under defined management rules."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

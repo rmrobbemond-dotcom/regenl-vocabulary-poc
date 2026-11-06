@@ -6,8 +6,8 @@
     "en": "Green manure use"
   },
   "definition": {
-    "nl": "Het gebruik van Groenbemesting (green manure) als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Green manure use'."
+    "nl": "Het telen of inwerken van een gewas voornamelijk om organische stof en soms nutriënten aan de bodem toe te voegen, in plaats van het als hoofdproduct te oogsten.",
+    "en": "Growing or incorporating a crop mainly to supply organic matter and sometimes nutrients to the soil rather than harvesting it as a marketable product."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

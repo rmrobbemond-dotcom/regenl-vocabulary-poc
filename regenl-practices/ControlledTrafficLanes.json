@@ -5,9 +5,13 @@
     "nl": "Vaste rijpaden",
     "en": "Controlled traffic lanes"
   },
+  "definition": {
+    "nl": "Het concentreren van zware veldbewegingen op vaste rijsporen zodat de overige bodem minder vaak wordt bereden en minder risico op verdichting heeft.",
+    "en": "Restricting heavy field traffic to permanent, designated wheel tracks so that the remainder of the field is driven on less frequently and is less compacted."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

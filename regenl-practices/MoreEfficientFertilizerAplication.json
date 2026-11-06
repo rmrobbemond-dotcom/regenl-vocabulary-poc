@@ -6,8 +6,8 @@
     "en": "More efficient fertilizer aplication"
   },
   "definition": {
-    "nl": "Maatregelen voor een effiecientere opname en minder verliezen van meststoffen",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'More efficient fertilizer aplication'."
+    "nl": "Het verbeteren van plaatsing, timing, dosering of apparatuur bij bemesting zodat gewassen nutriënten beter benutten en verliezen afnemen.",
+    "en": "Improving placement, timing, dosing or equipment used for fertiliser application so that crops capture more nutrients and losses are reduced."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

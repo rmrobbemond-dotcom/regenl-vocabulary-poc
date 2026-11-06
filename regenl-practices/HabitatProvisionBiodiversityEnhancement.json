@@ -5,9 +5,13 @@
     "nl": "Leefgebieden creëren en biodiversiteit versterken",
     "en": "Habitat provision/ biodiversity enhancement"
   },
+  "definition": {
+    "nl": "Het aanleggen, herstellen of beheren van leefgebieden op landbouwgrond om diversiteit of aantallen wilde planten en dieren te ondersteunen.",
+    "en": "Creating, restoring or managing habitats on farmland to support a greater diversity or abundance of wild plants and animals."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

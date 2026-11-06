@@ -5,9 +5,13 @@
     "nl": "Beweidingssysteem",
     "en": "grazing system"
   },
+  "definition": {
+    "nl": "Een vastgelegde werkwijze voor wanneer en waar vee graast, zoals standweide, rotatiebeweiding of stripgrazen.",
+    "en": "A defined arrangement for organising when and where livestock graze, such as continuous, rotational or strip grazing."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

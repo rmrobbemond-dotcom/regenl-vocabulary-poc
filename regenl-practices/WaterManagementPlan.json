@@ -5,9 +5,13 @@
     "nl": "Waterbeheerplan",
     "en": "water management plan"
   },
+  "definition": {
+    "nl": "Een vastgelegd plan met waterbronnen, risico's, doelen en maatregelen voor irrigatie, drainage, opslag, waterbesparing en monitoring op het bedrijf.",
+    "en": "A documented plan defining farm water sources, risks, targets and measures for irrigation, drainage, storage, conservation and monitoring."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

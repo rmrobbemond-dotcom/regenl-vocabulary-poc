@@ -5,9 +5,13 @@
     "nl": "Analyse van kuilvoer- en voedermonsters",
     "en": "Silage/feed sample analysis"
   },
+  "definition": {
+    "nl": "Het laboratoriumonderzoek van kuilvoer- of voermonsters op nutriënten, droge stof en kwaliteitsindicatoren voor rantsoenberekening en voerbeheer.",
+    "en": "Laboratory analysis of silage or feed samples for nutrients, dry matter and quality indicators to guide ration formulation and feed management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

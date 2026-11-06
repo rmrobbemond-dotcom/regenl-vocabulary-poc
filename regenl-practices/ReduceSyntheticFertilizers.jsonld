@@ -6,8 +6,8 @@
     "en": "Reduce synthetic fertilizers"
   },
   "definition": {
-    "nl": "Het verminderd of minimaal gebruik van kunstmest",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic fertilizers'."
+    "nl": "Het verminderen van industrieel vervaardigde minerale meststoffen via beter nutriëntenbeheer of vervanging door andere nutriëntenbronnen.",
+    "en": "Lowering applications of industrially manufactured mineral fertilisers through improved nutrient management or substitution with other nutrient sources."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Educatie op het landbouwbedrijf",
     "en": "Farm education"
   },
+  "definition": {
+    "nl": "Het aanbieden van georganiseerde leeractiviteiten op een actief landbouwbedrijf over landbouw, voedselproductie, natuur of bedrijfsvoering.",
+    "en": "Providing structured learning experiences on a working farm about agriculture, food production, nature or farm management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

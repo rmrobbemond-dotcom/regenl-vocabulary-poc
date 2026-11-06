@@ -6,12 +6,12 @@
     "en": "Reduce tillage/ minimal tillage"
   },
   "definition": {
-    "nl": "Het beperken van de intensiteit of frequentie van bodembewerking om verstoring van de bodem te verminderen.",
-    "en": "minimize soil disturbance due to tillage"
+    "nl": "Het verminderen van frequentie, diepte of oppervlakte van mechanische bodembewerking ten opzichte van conventionele teelt om bodemverstoring te beperken.",
+    "en": "Reducing the frequency, depth or area of mechanical soil cultivation compared with conventional tillage to limit soil disturbance."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

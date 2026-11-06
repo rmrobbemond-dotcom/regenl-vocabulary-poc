@@ -5,9 +5,13 @@
     "nl": "Mest uitrijden met sleepslangen",
     "en": "Drag hose manure spreading"
   },
+  "definition": {
+    "nl": "Het via een lange slang vanaf een pomp of opslagtank aanvoeren van drijfmest naar de veldmachine, zodat zware mesttanks minder over het perceel hoeven te rijden.",
+    "en": "Supplying slurry to a field applicator through a hose from a remote pump or tank, avoiding repeated trips by heavy slurry tankers on the field."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

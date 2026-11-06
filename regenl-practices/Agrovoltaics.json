@@ -5,9 +5,13 @@
     "nl": "Agrovoltaïsche systemen",
     "en": "Agrovoltaics"
   },
+  "definition": {
+    "nl": "Het combineren van elektriciteitsopwekking met zonnepanelen en landbouwproductie op hetzelfde grondoppervlak, waarbij gewassen of dieren onder of tussen de panelen ruimte behouden.",
+    "en": "Combining electricity generation from photovoltaic panels with agricultural production on the same area, with a layout that allows crops or livestock beneath or between panels."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

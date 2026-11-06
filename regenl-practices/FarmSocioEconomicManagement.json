@@ -5,9 +5,13 @@
     "nl": "Sociaal-economisch bedrijfsbeheer",
     "en": "Farm socio-economic management"
   },
+  "definition": {
+    "nl": "Het beheren van arbeid, financiën, zakelijke relaties, maatschappelijke betrokkenheid en inkomensbronnen naast de agrarische productie.",
+    "en": "Managing labour, finance, business relationships, community engagement and income diversification alongside the farm's agricultural activities."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

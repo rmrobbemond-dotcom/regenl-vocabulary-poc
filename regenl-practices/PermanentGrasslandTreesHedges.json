@@ -5,9 +5,13 @@
     "nl": "Blijvend grasland met bomen en heggen",
     "en": "permanent grassland, trees, hedges"
   },
+  "definition": {
+    "nl": "Langjarig grasland waarin of waarlangs blijvende bomen en heggen voorkomen die naast grasproductie leefgebied, beschutting of andere functies bieden.",
+    "en": "Long-term grassland that includes or borders established trees and hedgerows used for habitat, shelter or other functions alongside grass production."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

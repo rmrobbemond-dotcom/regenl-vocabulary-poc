@@ -11,7 +11,8 @@
     ]
   },
   "definition": {
-    "en": "integrated pest management means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment"
+    "nl": "Het beheersen van onkruid, plagen en gewasziekten met mechanische, fysieke, biologische of teeltkundige methoden in plaats van chemische middelen.",
+    "en": "Controlling weeds, pests and crop diseases with mechanical, physical, biological or cultural methods instead of chemical pesticides."
   },
   "changeNote": {
     "nl": [
@@ -20,7 +21,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

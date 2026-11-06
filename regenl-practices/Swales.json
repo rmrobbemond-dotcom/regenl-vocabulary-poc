@@ -5,9 +5,13 @@
     "nl": "Wadi's en infiltratiegreppels",
     "en": "Swales"
   },
+  "definition": {
+    "nl": "Het aanleggen van ondiepe, vaak langs hoogtelijnen gelegen begroeide geulen die afstromend water opvangen en infiltratie bevorderen.",
+    "en": "Constructing shallow, often contour-aligned vegetated depressions that intercept runoff and encourage water infiltration into the landscape."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

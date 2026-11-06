@@ -5,9 +5,13 @@
     "nl": "Lokale of regionale samenwerking tussen sectoren",
     "en": "Local or regional collaboration between sectors (e.g. crop-livestock)"
   },
+  "definition": {
+    "nl": "Samenwerking tussen bedrijven of sectoren in een regio, bijvoorbeeld door uitwisseling van mest, voer, stro of grondgebruik tussen akkerbouw en veehouderij.",
+    "en": "Cooperation between farms or sectors in a locality, for example exchanging manure, feed, straw or land use between crop and livestock farms."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

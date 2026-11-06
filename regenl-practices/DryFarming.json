@@ -5,9 +5,13 @@
     "nl": "Droge teelt zonder irrigatie",
     "en": "Dry farming"
   },
+  "definition": {
+    "nl": "Het telen van gewassen zonder reguliere beregening, op basis van neerslag, opgeslagen bodemvocht en maatregelen die water vasthouden.",
+    "en": "Growing crops without routine irrigation by relying on precipitation, stored soil moisture and water-conserving soil and crop management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Bio-economie, energie-efficiëntie en productie",
     "en": "Bioeconomy, energy efficiency and production"
   },
+  "definition": {
+    "nl": "Bedrijfsmaatregelen die hernieuwbare energie of biobased producten voortbrengen en tegelijk de energievraag beperken door efficiëntere technieken en processen.",
+    "en": "Farm management practices that produce renewable energy or bio-based products and reduce energy demand through efficient technologies and processes."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

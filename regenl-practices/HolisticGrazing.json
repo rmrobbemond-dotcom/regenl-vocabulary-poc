@@ -6,12 +6,12 @@
     "en": "Holistic grazing"
   },
   "definition": {
-    "nl": "Een adaptieve vorm van beweidingsbeheer waarin graasdruk en herstelperioden worden afgestemd op de toestand van vegetatie, bodem en ecosysteemprocessen.",
-    "en": "similar to rotational grazing but differs in that it more explicitly recognizes and provides a framework for adapting to the four basic ecosystem processes by increasing the recovery time"
+    "nl": "Adaptief geplande beweiding waarbij verplaatsingen van vee, graasdruk en herstelperiodes worden aangepast aan de toestand van vegetatie, bodem en dieren.",
+    "en": "Adaptive planned grazing that adjusts herd movements, grazing intensity and recovery periods in response to ecological and livestock conditions."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

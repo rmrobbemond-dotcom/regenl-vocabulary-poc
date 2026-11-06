@@ -6,8 +6,8 @@
     "en": "Vermicompost"
   },
   "definition": {
-    "nl": "Het gebruik van Wormenkweek/vermicompost als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Vermicompost'."
+    "nl": "Het gebruiken van organisch materiaal dat met behulp van regenwormen en micro-organismen is afgebroken en omgezet als bodemverbeteraar of meststof.",
+    "en": "Using organic material decomposed and processed with the help of earthworms and microorganisms as a soil amendment or fertiliser."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

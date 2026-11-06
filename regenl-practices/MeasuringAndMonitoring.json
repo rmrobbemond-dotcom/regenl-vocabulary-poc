@@ -5,9 +5,13 @@
     "nl": "Meten en monitoren",
     "en": "Measuring and monitoring"
   },
+  "definition": {
+    "nl": "Het systematisch en herhaald verzamelen van waarnemingen of metingen over bedrijfsmaatregelen, bodem, gewassen, dieren of milieuresultaten om veranderingen te volgen.",
+    "en": "Systematically collecting repeated observations or measurements of farm practices, soil, crops, livestock or environmental outcomes to assess change over time."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

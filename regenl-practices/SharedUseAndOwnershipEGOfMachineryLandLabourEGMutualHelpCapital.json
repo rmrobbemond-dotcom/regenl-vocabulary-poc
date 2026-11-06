@@ -5,9 +5,13 @@
     "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal",
     "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)"
   },
+  "definition": {
+    "nl": "Het gezamenlijk inzetten, bezitten of financieren van machines, grond, arbeid of kapitaal door landbouwbedrijven of partners in plaats van alles afzonderlijk te organiseren.",
+    "en": "Pooling, co-owning or jointly using machinery, land, labour or capital among farms or community partners instead of arranging each resource separately."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

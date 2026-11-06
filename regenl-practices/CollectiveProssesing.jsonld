@@ -5,9 +5,13 @@
     "nl": "Collectieve verwerking",
     "en": "Collective prossesing"
   },
+  "definition": {
+    "nl": "Het gezamenlijk verwerken van agrarische producten via gedeelde voorzieningen, machines of een producentenorganisatie om kosten te delen of productwaarde te verhogen.",
+    "en": "Processing agricultural products jointly through shared facilities, equipment or a producer organisation to increase efficiency or product value."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

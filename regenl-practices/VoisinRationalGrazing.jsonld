@@ -6,12 +6,12 @@
     "en": "Voisin rational grazing"
   },
   "definition": {
-    "nl": "Een planmatige vorm van rotatiebeweiding waarin de graas- en herstelperioden worden afgestemd op de groei van het gras en de beweidingsbehoefte van de dieren.",
-    "en": "VRG can be defined as a rational method for managing the soil–plant–animal complex through direct grazing and well-planned pasture rotation. the VRG follows four principles (1ste. recovery period, occupation, maximum performance, regualr performance)"
+    "nl": "Een planmatige vorm van rotatiebeweiding gebaseerd op voldoende herstelperiodes van gras, korte bezettingsduur en afstemming van het grasaanbod op de behoeften van het vee.",
+    "en": "A planned rotational grazing method based on adequate pasture recovery periods, short occupation times and allocating forage according to livestock needs."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

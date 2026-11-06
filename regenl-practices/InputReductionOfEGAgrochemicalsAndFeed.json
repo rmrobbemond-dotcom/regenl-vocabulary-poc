@@ -5,9 +5,13 @@
     "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer",
     "en": "Input reduction of e.g. agrochemicals and feed"
   },
+  "definition": {
+    "nl": "Het verminderen van hoeveelheden of afhankelijkheid van ingekochte inputs, zoals gewasbeschermingsmiddelen en voer, met behoud van aandacht voor productie- en dierbehoeften.",
+    "en": "Lowering the quantity or dependency on purchased external inputs, such as agrochemicals and feed, while managing production and animal needs."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

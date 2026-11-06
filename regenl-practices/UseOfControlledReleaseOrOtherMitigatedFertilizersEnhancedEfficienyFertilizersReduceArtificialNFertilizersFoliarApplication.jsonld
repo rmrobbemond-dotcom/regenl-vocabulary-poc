@@ -5,9 +5,13 @@
     "nl": "Gecontroleerd vrijkomende en efficiëntere meststoffen gebruiken",
     "en": "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application"
   },
+  "definition": {
+    "nl": "Het gebruiken van gecontroleerd vrijkomende of efficiëntere meststoffen en gerichte toedieningsmethoden om nutriënten over de tijd beter beschikbaar te stellen en verliezen te beperken.",
+    "en": "Using controlled-release or enhanced-efficiency fertilisers and targeted application methods to improve nutrient availability over time and reduce avoidable losses."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

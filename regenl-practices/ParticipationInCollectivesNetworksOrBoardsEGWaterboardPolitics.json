@@ -5,9 +5,13 @@
     "nl": "Deelname aan collectieven, netwerken en besturen",
     "en": "Participation in collectives, networks or boards (e.g. waterboard, politics)"
   },
+  "definition": {
+    "nl": "Het deelnemen aan producentencollectieven, netwerken, besturen of publieke organisaties om besluiten te beïnvloeden en gezamenlijke agrarische activiteiten af te stemmen.",
+    "en": "Taking part in producer groups, networks, governing boards or public organisations to influence decisions and coordinate actions relevant to farming."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

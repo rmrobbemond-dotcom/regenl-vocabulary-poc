@@ -5,9 +5,13 @@
     "nl": "Vruchtwisseling van minimaal zes jaar of braaklegging",
     "en": "have a minimum rotation length of 6 years/ fallow"
   },
+  "definition": {
+    "nl": "Het hanteren van een vruchtwisseling van minimaal zes jaar voordat het uitgangsgewas terugkeert, eventueel met een braak- of extensieve fase.",
+    "en": "Using a crop rotation lasting at least six years before the starting crop recurs, potentially including a fallow or low-intensity phase."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

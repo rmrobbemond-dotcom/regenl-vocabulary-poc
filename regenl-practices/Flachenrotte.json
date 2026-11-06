@@ -5,9 +5,13 @@
     "nl": "Flächenrotte (oppervlakkige compostering)",
     "en": "Flachenrotte"
   },
+  "definition": {
+    "nl": "Het oppervlakkig laten verteren van verse plantenresten of organisch materiaal, vaak met lichte inwerking in de bovenste bodemlaag om biologische afbraak te stimuleren.",
+    "en": "Shallow surface decomposition of fresh plant residues or organic materials, often with limited incorporation into the topsoil to encourage biological breakdown."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

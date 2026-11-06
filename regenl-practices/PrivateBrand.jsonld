@@ -5,9 +5,13 @@
     "nl": "Eigen merk",
     "en": "Private brand"
   },
+  "definition": {
+    "nl": "Het op de markt brengen van boerderijproducten onder een eigen merk van het landbouwbedrijf in plaats van uitsluitend onder een handels- of generieke productnaam.",
+    "en": "Marketing farm products under a brand owned or controlled by the farm rather than solely under a retailer or commodity identity."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

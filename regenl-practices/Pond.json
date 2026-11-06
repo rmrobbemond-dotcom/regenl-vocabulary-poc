@@ -5,9 +5,13 @@
     "nl": "Poel",
     "en": "Pond"
   },
+  "definition": {
+    "nl": "Het aanleggen of onderhouden van een kleine stilstaande waterpartij op landbouwgrond voor waterberging, leefgebied voor soorten of andere bedrijfsfuncties.",
+    "en": "Creating or maintaining a small standing-water body on farmland for water storage, wildlife habitat or other farm functions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Kunstmest",
     "en": "synthetic fertilizer"
   },
+  "definition": {
+    "nl": "Het toedienen van industrieel vervaardigde minerale meststoffen die plantenvoedingsstoffen leveren in geconcentreerde anorganische of industrieel verwerkte vorm.",
+    "en": "Applying manufactured mineral fertilisers that supply plant nutrients in concentrated inorganic or industrially processed forms."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

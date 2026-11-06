@@ -5,9 +5,13 @@
     "nl": "Natte zones en greppels voor weidevogels",
     "en": "Wetted zones/swales (for meadow birds)"
   },
+  "definition": {
+    "nl": "Het aanleggen of behouden van ondiepe natte plekken en waterhoudende laagtes in grasland die geschikte voedsel- en broedomstandigheden voor weidevogels bieden.",
+    "en": "Creating or maintaining shallow wet areas and water-filled depressions in grassland that provide feeding and breeding habitat conditions for meadow birds."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

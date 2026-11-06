@@ -5,9 +5,13 @@
     "nl": "Beweidingsbeheer",
     "en": "grazing management"
   },
+  "definition": {
+    "nl": "Het plannen van veebezetting, graasperioden, rusttijden en perceelindeling om diervoeding en de conditie van het grasland in balans te houden.",
+    "en": "Planning stocking density, grazing periods, rest periods and pasture allocation to balance animal feeding with grassland condition."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

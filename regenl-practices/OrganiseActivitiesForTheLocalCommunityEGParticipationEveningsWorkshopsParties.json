@@ -5,9 +5,13 @@
     "nl": "Activiteiten voor de lokale gemeenschap organiseren",
     "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)"
   },
+  "definition": {
+    "nl": "Het organiseren van bijvoorbeeld inspraakavonden, workshops of buurtbijeenkomsten die het landbouwbedrijf verbinden met bewoners en lokale organisaties.",
+    "en": "Hosting activities such as participation meetings, workshops or community gatherings that connect the farm with residents and local organisations."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

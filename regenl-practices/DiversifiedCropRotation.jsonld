@@ -5,9 +5,13 @@
     "nl": "Gevarieerde vruchtwisseling",
     "en": "diversified crop rotation"
   },
+  "definition": {
+    "nl": "Het ontwerpen van een vruchtwisseling met meerdere gewassoorten of plantenfamilies en verschillende groeiperioden om plaagcycli te doorbreken en het bodemgebruik te variëren.",
+    "en": "Designing a rotation with several crop species or botanical families and differing growth periods to interrupt pest cycles and diversify soil use."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

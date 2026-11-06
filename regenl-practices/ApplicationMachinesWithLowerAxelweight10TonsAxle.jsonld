@@ -5,9 +5,13 @@
     "nl": "Machines met lagere aslast (minder dan 10 ton per as)",
     "en": "Application machines with lower axelweight (<10 tons/axle)"
   },
+  "definition": {
+    "nl": "Het gebruiken van werktuigen voor veldtoepassingen met een aslast onder 10 ton per as om de belasting van de bodem en het risico op diepe verdichting te beperken.",
+    "en": "Using field application machinery with an axle load below 10 tonnes per axle to reduce pressure on soil and the risk of deep compaction compared with heavier equipment."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

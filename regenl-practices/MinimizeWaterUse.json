@@ -5,9 +5,13 @@
     "nl": "Watergebruik minimaliseren",
     "en": "Minimize water use"
   },
+  "definition": {
+    "nl": "Het verminderen van het totale waterverbruik van bedrijfsactiviteiten of teelten door efficiëntie, hergebruik of vraaggericht beheer.",
+    "en": "Reducing the total water consumed by farm operations or crops through efficiency, reuse or demand management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

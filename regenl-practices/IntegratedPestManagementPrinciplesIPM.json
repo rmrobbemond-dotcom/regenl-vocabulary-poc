@@ -6,8 +6,8 @@
     "en": "Integrated pest management principles (IPM)"
   },
   "definition": {
-    "nl": "Geintegreerd gebruik van bestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische middelen worden alleen gebruikt als het niet anders kan.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated pest management principles (IPM)'."
+    "nl": "Het voorkomen en beheersen van plagen via monitoring, schadedrempels, resistente rassen en biologische of niet-chemische methoden, met chemische middelen alleen wanneer gerechtvaardigd.",
+    "en": "Preventing and managing pests through monitoring, thresholds, resistant varieties and biological or non-chemical methods, using pesticides only when justified."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Watergebruik verminderen",
     "en": "Reduce water use"
   },
+  "definition": {
+    "nl": "Het verminderen van de hoeveelheid water die bedrijfsprocessen of beregening verbruiken door betere planning, efficiënte voorzieningen of hergebruik.",
+    "en": "Decreasing the amount of water consumed by farm processes or crop irrigation through better scheduling, efficient devices or reuse."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

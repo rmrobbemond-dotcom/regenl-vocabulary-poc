@@ -5,9 +5,13 @@
     "nl": "Directe boerderijverkoop en collectieve afzet",
     "en": "Direct onfarm and collective forms of sales"
   },
+  "definition": {
+    "nl": "Het rechtstreeks verkopen van boerderijproducten aan consumenten op het bedrijf of gezamenlijk via producentenwinkels, markten, pakketten of andere collectieve afzetkanalen.",
+    "en": "Selling farm products directly to consumers on the farm or jointly through producer-owned shops, markets, box schemes or other collective channels."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

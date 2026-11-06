@@ -5,9 +5,13 @@
     "nl": "Zelfvoorziening",
     "en": "Self-sufficiency"
   },
+  "definition": {
+    "nl": "Het vergroten van het aandeel hulpbronnen of producten dat het landbouwbedrijf of huishouden zelf produceert of levert in plaats van extern inkoopt.",
+    "en": "Increasing the share of resources or products needed by a farm or farm household that are produced or supplied internally rather than purchased externally."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

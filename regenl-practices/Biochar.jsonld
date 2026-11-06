@@ -6,11 +6,12 @@
     "en": "biochar"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'biochar'."
+    "nl": "Het toepassen van koolstofrijk materiaal dat door verhitting van biomassa bij weinig zuurstof is gemaakt, vooral als bodemverbeteraar en mogelijk voor langdurige koolstofvastlegging.",
+    "en": "Applying carbon-rich material made by heating biomass under oxygen-limited conditions, mainly as a soil amendment and potentially as a long-term carbon store."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

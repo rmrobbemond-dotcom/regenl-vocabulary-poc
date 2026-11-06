@@ -6,8 +6,8 @@
     "en": "Incorperating crop residues"
   },
   "definition": {
-    "nl": "Het gebruik van Gewasresten onder-/inwerken als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Incorperating crop residues'."
+    "nl": "Het inwerken van oogstresten, zoals stro, stengels en bladeren, in de bodem zodat ze afbreken en organische stof en nutriënten terugleveren.",
+    "en": "Mixing harvested crop residues such as straw, stems or leaves into the soil for decomposition and return of organic matter and nutrients."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

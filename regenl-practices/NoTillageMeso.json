@@ -6,12 +6,12 @@
     "en": "No tillage"
   },
   "definition": {
-    "nl": "Een teeltwijze waarbij tussen de oogst en de volgende inzaai geen grondbewerking plaatsvindt en direct in de onbewerkte bodem wordt gezaaid.",
-    "en": "no tillage applied between harvest and sowing. The crop is sown directly into the soil not tilled since the harvest of the previous crop."
+    "nl": "Een teeltbenadering waarin vóór het zaaien geen reguliere grondbewerking plaatsvindt en gewassen rechtstreeks in onbewerkte grond worden gevestigd, vaak met gewasresten.",
+    "en": "A cropping approach that avoids routine soil tillage before sowing and establishes crops directly in untilled soil, often retaining residues."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

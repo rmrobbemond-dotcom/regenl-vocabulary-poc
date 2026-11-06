@@ -5,9 +5,13 @@
     "nl": "Klimaat- en lichtregeling",
     "en": "climate and light control"
   },
+  "definition": {
+    "nl": "Het regelen van temperatuur, luchtvochtigheid, ventilatie en licht in agrarische productieomgevingen om aan gewas- of dierbehoeften te voldoen en hulpbronnen efficiënt te benutten.",
+    "en": "Regulating temperature, humidity, ventilation and light in agricultural production environments to meet crop or animal requirements while managing resource use."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

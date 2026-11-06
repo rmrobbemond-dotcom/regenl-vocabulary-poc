@@ -5,9 +5,13 @@
     "nl": "Waterbuffers",
     "en": "Water buffers"
   },
+  "definition": {
+    "nl": "Het aanleggen of gebruiken van tijdelijke waterbergingsgebieden die overtollige neerslag of afstroming opvangen en water vertraagd afvoeren of laten infiltreren.",
+    "en": "Creating or using temporary storage areas that absorb excess rainwater or runoff and release or infiltrate water more gradually."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

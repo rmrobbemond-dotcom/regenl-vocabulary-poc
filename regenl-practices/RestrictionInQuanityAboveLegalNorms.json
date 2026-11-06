@@ -6,8 +6,8 @@
     "en": "restriction in quanity (above legal norms)"
   },
   "definition": {
-    "nl": "Specifieke normen voor de hoeveeheid bemesting die strenger zijn dan de geldende wetgeving",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'restriction in quanity (above legal norms)'."
+    "nl": "Het hanteren van een aanvullende vrijwillige of contractuele maximumhoeveelheid voor een input, strenger dan de wettelijke beperking.",
+    "en": "Imposing an additional voluntary or contractual cap on quantities of an input beyond the restrictions already required by law."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

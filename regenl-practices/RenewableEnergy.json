@@ -5,9 +5,13 @@
     "nl": "Hernieuwbare energie",
     "en": "renewable energy"
   },
+  "definition": {
+    "nl": "Het opwekken of gebruiken van energie uit zich natuurlijk vernieuwende bronnen, zoals zonlicht, wind of duurzaam beheerde biomassa, voor bedrijfsactiviteiten.",
+    "en": "Generating or using energy from naturally replenishing sources, such as sunlight, wind or sustainably managed biomass, for farm activities."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

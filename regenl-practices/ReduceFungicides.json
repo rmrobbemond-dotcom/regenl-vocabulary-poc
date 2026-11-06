@@ -6,8 +6,8 @@
     "en": "Reduce fungicides"
   },
   "definition": {
-    "nl": "Fungiciden zoveel mogelijk verminderen en/of alleen gebruik in uiterste noodzaak",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce fungicides'."
+    "nl": "Het verminderen van het aantal of de dosis fungicidetoepassingen en tegelijk preventie, monitoring of alternatieve ziektebeheersing inzetten.",
+    "en": "Reducing the number or dose of fungicide applications while using prevention, monitoring or alternative disease-control measures."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

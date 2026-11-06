@@ -6,12 +6,12 @@
     "en": "compartmented continous grazing (New nederlands weiden)"
   },
   "definition": {
-    "nl": "Een beweidingssysteem waarbij grasland in compartimenten is verdeeld en dieren dagelijks naar een volgend compartiment worden verplaatst.",
-    "en": "(CCG) is a daily rotational grazing system where a pasture is divided into multiple compartments, and livestock are moved to a new compartment each day"
+    "nl": "Een beweidingssysteem waarbij grasland in compartimenten is verdeeld en koeien volgens een planning regelmatig vers gras krijgen, zoals bij Nieuw Nederlands Weiden.",
+    "en": "A grazing system dividing grassland into several compartments while supplying grazing areas in a planned sequence and maintaining frequent access to fresh pasture."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

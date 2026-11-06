@@ -5,9 +5,13 @@
     "nl": "Zorglandbouw aanbieden",
     "en": "Provide care farming"
   },
+  "definition": {
+    "nl": "Het aanbieden van georganiseerde zorg of begeleide activiteiten aan mensen met een zorgvraag als onderdeel van de dienstverlening en omgeving van het landbouwbedrijf.",
+    "en": "Offering organised care or supported activities to people with care needs as part of the farm's services and environment."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Druppelirrigatie",
     "en": "Drip irrigation"
   },
+  "definition": {
+    "nl": "Het langzaam en plaatselijk toedienen van water via druppelaars of druppelslangen bij de wortelzone, met gerichte dosering en minder verdamping en afstroming.",
+    "en": "Applying water slowly and locally through emitters or drip lines near plant roots, allowing controlled watering with reduced evaporation and runoff."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

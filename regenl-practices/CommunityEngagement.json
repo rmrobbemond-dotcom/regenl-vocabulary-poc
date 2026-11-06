@@ -5,9 +5,13 @@
     "nl": "Betrokkenheid van de lokale gemeenschap",
     "en": "Community engagement"
   },
+  "definition": {
+    "nl": "Het organiseren van contact tussen een landbouwbedrijf en omwonenden of lokale organisaties, met ruimte voor deelname, dialoog en wederzijds begrip over de bedrijfsvoering.",
+    "en": "Creating structured interactions between a farm and local residents or organisations, allowing participation, dialogue and mutual understanding about farm activities."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

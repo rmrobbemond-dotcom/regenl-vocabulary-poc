@@ -6,7 +6,8 @@
     "en": "extensification of grazing management  - adaptive grazing management method"
   },
   "definition": {
-    "nl": "weidepremie ( basis 120 dagen = 720 uur), ecoregeling weidepremie 1500 uur of 2500 uur, (speciefiek voor staatsbosheheer verlengte weidepremie > 900uur > 1800uur)"
+    "nl": "Het verlagen van de beweidingsdruk of aanpassen van veebezetting, graasduur en rustperiodes op basis van vegetatietoestand en beheerdoelen.",
+    "en": "Reducing grazing intensity or adjusting stocking rate, grazing duration and rest periods in response to vegetation conditions and management objectives."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

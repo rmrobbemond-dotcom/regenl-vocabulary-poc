@@ -6,8 +6,8 @@
     "en": "Permanent greening / green cover on permanent crops"
   },
   "definition": {
-    "nl": "groene bodembedekking in bijvoorbeeld boomgaarden of wijngaarden. Deze kan zich bevinden tussen de rijen, onder de boomkruinen of in andere patronen",
-    "en": "vegetative cover in orchards and vineyard. This can be between the rows, under the tree crowns or with other patterns"
+    "nl": "Het gedurende een groot deel van het jaar behouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen of onder de gewasrijen.",
+    "en": "Maintaining living ground vegetation in perennial crop systems, such as orchards or vineyards, between rows or beneath plants for much of the year."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

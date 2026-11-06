@@ -5,9 +5,13 @@
     "nl": "Infiltratiegeulen",
     "en": "Infiltration channels"
   },
+  "definition": {
+    "nl": "Het aanleggen van ondiepe geulen of sleuven die afstromend water opvangen en geleiden zodat het in de bodem kan infiltreren in plaats van snel af te voeren.",
+    "en": "Constructing shallow channels or trenches that direct and retain runoff so that water can infiltrate into the soil instead of flowing away rapidly."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

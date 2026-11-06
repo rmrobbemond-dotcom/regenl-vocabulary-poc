@@ -5,9 +5,13 @@
     "nl": "Landbeheer",
     "en": "Land management"
   },
+  "definition": {
+    "nl": "Het plannen en uitvoeren van de inrichting, het gebruik en het onderhoud van landbouwgrond, waaronder percelen, randen, bodem, water en landschapselementen.",
+    "en": "Planning and implementing how agricultural land is allocated, used and maintained, including fields, margins, soil, water and landscape features."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

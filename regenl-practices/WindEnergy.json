@@ -5,9 +5,13 @@
     "nl": "Windenergie",
     "en": "Wind energy"
   },
+  "definition": {
+    "nl": "Het opwekken van elektriciteit uit wind met turbines op of bij landbouwgrond voor eigen gebruik of levering aan het elektriciteitsnet.",
+    "en": "Producing electricity from wind using turbines on or associated with agricultural land to supply farm demand or the power grid."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

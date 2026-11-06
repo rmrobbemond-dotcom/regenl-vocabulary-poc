@@ -5,9 +5,13 @@
     "nl": "Diagnose- en beheerplannen",
     "en": "diagnosis and management plans"
   },
+  "definition": {
+    "nl": "Een overkoepelende aanpak voor het beoordelen van bedrijfs- of gebiedsomstandigheden, vaststellen van knelpunten en plannen van doelen, maatregelen en monitoring.",
+    "en": "An overarching approach to assessing farm or landscape conditions, identifying problems and setting coordinated objectives, measures and monitoring arrangements."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

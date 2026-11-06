@@ -5,9 +5,13 @@
     "nl": "Gemengd bedrijf met geïntegreerde veehouderij",
     "en": "Mixed farming / integrate livestock"
   },
+  "definition": {
+    "nl": "Het combineren van akkerbouw of tuinbouw met veehouderij op één bedrijf zodat voer, mest en gewasresten onderling kunnen worden benut.",
+    "en": "Combining arable or horticultural crops with livestock on one farm so that resources such as feed, manure and crop residues can be cycled internally."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

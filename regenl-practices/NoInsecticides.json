@@ -6,11 +6,12 @@
     "en": "No insecticides"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No insecticides'."
+    "nl": "Het niet toepassen van insecticiden op het aangewezen gewas of perceel en zo nodig monitoring of andere bestrijdingsmethoden gebruiken.",
+    "en": "Not applying insecticidal products to the specified crop or field, using monitoring or non-insecticidal control measures where needed."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

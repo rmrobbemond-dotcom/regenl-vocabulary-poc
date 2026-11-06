@@ -5,9 +5,13 @@
     "nl": "Dierhuisvesting",
     "en": "animal housing"
   },
+  "definition": {
+    "nl": "Het ontwerpen en beheren van stallen en schuilvoorzieningen voor landbouwhuisdieren, waaronder ruimte, stalklimaat, strooisel en toegang, met aandacht voor welzijn en emissies.",
+    "en": "Designing and managing buildings and shelters for farm animals, including their space, climate, bedding and access, with attention to welfare and emissions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

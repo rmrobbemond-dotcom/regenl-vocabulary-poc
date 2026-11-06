@@ -5,9 +5,13 @@
     "nl": "Meerjarige gewassen gebruiken",
     "en": "Use perennials"
   },
+  "definition": {
+    "nl": "Het opnemen van meerjarige gewassen die gedurende meerdere jaren productief blijven of levende plantstructuren behouden binnen het teeltsysteem.",
+    "en": "Including perennial crops that remain productive or maintain living plant structures across multiple years as part of the cropping system."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

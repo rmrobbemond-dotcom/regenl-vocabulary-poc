@@ -5,9 +5,13 @@
     "nl": "Lokale of inheemse gewas- en diersoorten",
     "en": "Local or native crop and animal species"
   },
+  "definition": {
+    "nl": "Het kiezen van gewas- of diersoorten en rassen die lokaal aangepast of inheems zijn, rekening houdend met geschiktheid voor het agro-ecosysteem.",
+    "en": "Selecting crop or livestock species and varieties that are locally adapted or native to the region, with attention to agroecological suitability."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

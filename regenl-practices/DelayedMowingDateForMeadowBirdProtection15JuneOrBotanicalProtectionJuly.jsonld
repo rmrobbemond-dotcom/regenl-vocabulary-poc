@@ -6,12 +6,12 @@
     "en": "delayed mowing date for meadow bird protection ( 15 June) or botanical protection (July)"
   },
   "definition": {
-    "nl": "Het uitstellen van maaiwerkzaamheden om bijvoorbeeld broedende weidevogels of botanische waarden te beschermen.",
-    "en": "diversification of mowing activitiesfarm scale to benefit biodiversity"
+    "nl": "Het niet maaien van grasland tot ongeveer 15 juni voor weidevogels of tot in juli voor botanisch beheer, waarbij feitelijke datums afhangen van ecologische omstandigheden en afspraken.",
+    "en": "Keeping grassland uncut until approximately 15 June for meadow birds or into July for botanical management, with actual dates adjusted to ecological conditions and agreements."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

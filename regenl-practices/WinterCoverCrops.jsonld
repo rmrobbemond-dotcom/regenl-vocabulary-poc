@@ -6,8 +6,8 @@
     "en": "Winter cover crops"
   },
   "definition": {
-    "nl": "gewassen die in de winter worden geteeld om de bodem te bedekken en te beschermen",
-    "en": "cover crops grown to provide vegetative cover of the soil in winter"
+    "nl": "Het telen van een gewas dat in de winter levende bodembedekking biedt om de bodem te beschermen, restnutriënten op te nemen en erosie of uitspoeling te beperken.",
+    "en": "Growing a crop that maintains living vegetation over winter to protect soil, capture residual nutrients and reduce winter erosion or leaching."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

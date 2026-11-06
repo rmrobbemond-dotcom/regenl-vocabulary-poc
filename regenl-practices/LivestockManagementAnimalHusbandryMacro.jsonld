@@ -5,9 +5,13 @@
     "nl": "Veehouderijbeheer",
     "en": "Livestock management / animal husbandry"
   },
+  "definition": {
+    "nl": "Het samenhangend aansturen van voeding, fokkerij, huisvesting, gezondheid, welzijn en beweiding van landbouwhuisdieren binnen het bedrijf.",
+    "en": "Coordinating livestock feeding, breeding, housing, health, welfare and grazing within a farm production system."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

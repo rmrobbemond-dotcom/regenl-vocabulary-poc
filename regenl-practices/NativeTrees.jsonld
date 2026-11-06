@@ -5,9 +5,13 @@
     "nl": "Inheemse bomen",
     "en": "Native trees"
   },
+  "definition": {
+    "nl": "Het planten of behouden van boomsoorten die van nature in de regio voorkomen en passen bij de lokale ecologische omstandigheden.",
+    "en": "Planting or retaining tree species naturally occurring in the region and suited to local ecological conditions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

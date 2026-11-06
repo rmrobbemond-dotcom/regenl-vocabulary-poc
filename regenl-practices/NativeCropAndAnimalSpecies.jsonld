@@ -5,9 +5,13 @@
     "nl": "Inheemse gewas- en diersoorten",
     "en": "Native crop and animal species"
   },
+  "definition": {
+    "nl": "Het inzetten van gewassoorten of veerassen die uit de regio afkomstig zijn of daar historisch thuishoren, met passend behoud en beheer.",
+    "en": "Using crop species or livestock breeds originating from or historically established in the region, subject to suitable conservation and husbandry practice."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

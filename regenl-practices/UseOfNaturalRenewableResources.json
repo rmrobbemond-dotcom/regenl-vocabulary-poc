@@ -5,9 +5,13 @@
     "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken",
     "en": "Use of natural/renewable resources"
   },
+  "definition": {
+    "nl": "Het vervangen van niet-hernieuwbare grondstoffen door duurzaam beschikbare natuurlijke of hernieuwbare hulpbronnen in bedrijfsprocessen en producten.",
+    "en": "Replacing non-renewable raw materials with sustainably supplied natural or renewable resources in farm operations and products."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

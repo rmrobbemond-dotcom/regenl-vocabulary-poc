@@ -5,9 +5,13 @@
     "nl": "Waterfiltratie",
     "en": "Water filtration"
   },
+  "definition": {
+    "nl": "Het verwijderen van zwevende stoffen, nutriënten of andere verontreinigingen uit agrarische waterstromen met filters, vegetatie, substraten of zuiveringssystemen.",
+    "en": "Removing suspended matter, nutrients or other contaminants from farm-related water flows using filters, vegetation, substrates or treatment systems."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

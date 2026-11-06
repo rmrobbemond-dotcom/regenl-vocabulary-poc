@@ -6,8 +6,8 @@
     "en": "Shallow tillage"
   },
   "definition": {
-    "nl": "Ploegen of keren van de bodem tot een diepte van ongeveer 12-20cm",
-    "en": "inversion tillage (between e.g. 0.12-0.20m depth)"
+    "nl": "Mechanische bodembewerking tot een relatief geringe diepte voor zaaibedvoorbereiding of gewasbeheer zonder diepe verstoring.",
+    "en": "Mechanical cultivation restricted to a relatively small depth to prepare or manage the seedbed without deep soil disturbance."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Externe inputs verminderen",
     "en": "Reduce external inputs"
   },
+  "definition": {
+    "nl": "Het verminderen van hoeveelheden van buiten aangevoerde materialen en diensten, zoals aangekochte meststoffen, voer, gewasbeschermingsmiddelen of energie.",
+    "en": "Lowering the quantities of materials and services brought onto the farm from outside, such as purchased fertilisers, feed, pesticides or energy."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

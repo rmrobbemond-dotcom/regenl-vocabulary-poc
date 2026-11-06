@@ -6,8 +6,8 @@
     "en": "digestate"
   },
   "definition": {
-    "nl": "Het gebruik van restproducten uit vergisters, als bemesting",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'digestate'."
+    "nl": "Het benutten van het restmateriaal na anaerobe vergisting van mest of andere biomassa als nutriëntenbron of bodeminvoer, afhankelijk van samenstelling en regelgeving.",
+    "en": "Using the residual material remaining after anaerobic digestion of manure or other biomass as a nutrient source or soil input, subject to composition and regulations."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

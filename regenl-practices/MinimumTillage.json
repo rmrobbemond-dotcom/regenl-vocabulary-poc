@@ -6,8 +6,8 @@
     "en": "Minimum tillage"
   },
   "definition": {
-    "nl": "Alleen daar waar gezaaid of geplant wordt, wordt de bodem bewerkt",
-    "en": "tillage only in spots where plants are seeded"
+    "nl": "Het bewerken van de bodem met minder werkgangen of lagere bewerkingsintensiteit dan bij conventionele teelt met ploegen.",
+    "en": "Preparing or managing soil with a reduced number or intensity of tillage operations compared with conventional plough-based cultivation."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

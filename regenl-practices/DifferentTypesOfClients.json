@@ -5,9 +5,13 @@
     "nl": "Verschillende typen afnemers",
     "en": "Different types of clients"
   },
+  "definition": {
+    "nl": "Het spreiden van de klantenkring over consumenten, bedrijven, instellingen of coöperatieve afnemers om minder afhankelijk te worden van één afzetkanaal.",
+    "en": "Diversifying the farm's customer base across consumer, business, institutional or cooperative buyers to reduce dependence on a single sales channel."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

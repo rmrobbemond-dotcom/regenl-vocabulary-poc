@@ -6,8 +6,8 @@
     "en": "Integrated weed management"
   },
   "definition": {
-    "nl": "Geintegreerd gebruik van onkruidbestrijdingsmethoden, waarbij biologische, mechanische en andere niet synthetische methoden de voorkeur hebben. Synthetische herbiciden worden alleen gebruikt als het niet anders kan.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Integrated weed management'."
+    "nl": "Het combineren van preventieve, teeltkundige, mechanische en zo nodig chemische maatregelen tegen onkruid om afhankelijkheid van één aanpak te beperken.",
+    "en": "Combining preventive, cultural, mechanical and where necessary chemical approaches to manage weeds while reducing reliance on any single method."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

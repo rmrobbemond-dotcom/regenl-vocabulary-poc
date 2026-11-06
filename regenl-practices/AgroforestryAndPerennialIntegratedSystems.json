@@ -5,9 +5,13 @@
     "nl": "Agroforestry en systemen met meerjarige gewassen",
     "en": "Agroforestry and Perennial-Integrated Systems -"
   },
+  "definition": {
+    "nl": "Landgebruikssystemen waarin bomen, struiken of andere meerjarige gewassen met eenjarige teelten of vee worden gecombineerd tot een gevarieerd productiesysteem met blijvende vegetatie.",
+    "en": "Land-use systems combining woody vegetation or other perennial crops with annual crops or livestock to create a diversified and persistent production structure."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

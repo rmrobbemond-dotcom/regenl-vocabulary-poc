@@ -5,9 +5,13 @@
     "nl": "Afhankelijkheid van fossiele brandstoffen verminderen",
     "en": "Reduce dependency on fossil fuel"
   },
+  "definition": {
+    "nl": "Het verminderen van de afhankelijkheid van diesel, aardgas en andere fossiele energie door efficiëntie, elektrificatie of hernieuwbare alternatieven.",
+    "en": "Reducing the farm's reliance on diesel, natural gas and other fossil energy through efficiency, electrification or renewable alternatives."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

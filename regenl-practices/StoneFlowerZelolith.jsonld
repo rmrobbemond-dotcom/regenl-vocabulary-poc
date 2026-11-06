@@ -6,11 +6,12 @@
     "en": "Stone flower, Zelolith"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Stone flower, Zelolith'."
+    "nl": "Het toedienen van fijngemalen gesteentemeel of zeoliet aan de bodem om mineralen aan te voeren of nutriëntenuitwisseling en bodemchemie te beïnvloeden.",
+    "en": "Applying finely ground mineral rock powders or zeolite materials to soil to supply minerals or influence nutrient exchange and soil chemistry."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

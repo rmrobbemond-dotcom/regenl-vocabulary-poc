@@ -5,9 +5,13 @@
     "nl": "Regenafhankelijk teeltsysteem",
     "en": "Rainfed system"
   },
+  "definition": {
+    "nl": "Een teeltsysteem dat vooral afhankelijk is van natuurlijke neerslag in plaats van reguliere irrigatie, met beheer afgestemd op het lokale neerslagpatroon.",
+    "en": "A crop production system supplied primarily by natural rainfall rather than regular irrigation, with management adapted to local rainfall patterns."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

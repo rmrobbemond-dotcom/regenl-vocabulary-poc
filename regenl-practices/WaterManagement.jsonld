@@ -5,9 +5,13 @@
     "nl": "Waterbeheer",
     "en": "Water management"
   },
+  "definition": {
+    "nl": "Het afstemmen van drainage, irrigatie, wateropslag en peilbeheer op landbouwgrond om productie, waterkwaliteit en ecologische behoeften te dienen.",
+    "en": "Coordinating drainage, irrigation, storage and water-level control on farmland to maintain production while addressing water quality and ecological needs."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

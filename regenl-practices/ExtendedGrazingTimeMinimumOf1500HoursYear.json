@@ -6,7 +6,8 @@
     "en": "Extended grazing time: minimum of 1500 hours/year"
   },
   "definition": {
-    "nl": "ecoregeling weidepremie 1500 uur of 2500 uur"
+    "nl": "Het vee gedurende minimaal 1.500 uur per jaar toegang geven tot grasland, opgeteld over de afzonderlijke perioden van weidegang.",
+    "en": "Providing grazing access to livestock for at least 1,500 hours per year, measured as accumulated time outdoors on pasture."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

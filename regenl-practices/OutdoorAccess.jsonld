@@ -5,9 +5,13 @@
     "nl": "Buitenuitloop",
     "en": "outdoor access"
   },
+  "definition": {
+    "nl": "Het bieden van toegang tot een buitenruimte waar landbouwhuisdieren kunnen bewegen, verkennen of grazen onder passende veiligheids- en welzijnsomstandigheden.",
+    "en": "Providing livestock with access to an outdoor area where animals can move, explore or graze under suitable safety and welfare conditions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

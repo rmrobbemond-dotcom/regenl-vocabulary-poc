@@ -5,9 +5,13 @@
     "nl": "Informeel leren",
     "en": "Informal learning"
   },
+  "definition": {
+    "nl": "Leren door praktijkervaring, observeren, overleg met collega's of dagelijkse ervaringen zonder vast lesprogramma of formeel diploma.",
+    "en": "Learning through practice, observation, peer discussion or everyday experience without a formal curriculum or qualification."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

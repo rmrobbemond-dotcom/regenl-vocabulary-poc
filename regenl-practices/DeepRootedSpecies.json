@@ -5,9 +5,13 @@
     "nl": "Diepwortelende soorten",
     "en": "Deep rooted species"
   },
+  "definition": {
+    "nl": "Het inzetten van plantensoorten met relatief diepe wortels die diepere bodemlagen benutten en bodemstructuur, nutriëntenopname en droogtebestendigheid kunnen beïnvloeden.",
+    "en": "Including plant species with relatively deep root systems to access deeper soil layers and influence soil structure, nutrient uptake and drought tolerance."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

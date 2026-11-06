@@ -5,9 +5,13 @@
     "nl": "Vergistingsinstallatie",
     "en": "Biodigester"
   },
+  "definition": {
+    "nl": "Een installatie waarin organisch materiaal, zoals mest of gewasresten, zonder zuurstof wordt afgebroken tot biogas en een restproduct dat digestaat wordt genoemd.",
+    "en": "An installation that anaerobically decomposes organic material such as manure or crop residues to produce biogas and a residual material called digestate."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

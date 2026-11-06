@@ -5,9 +5,13 @@
     "nl": "Formeel leren",
     "en": "formal learning"
   },
+  "definition": {
+    "nl": "Deelname aan georganiseerd onderwijs of scholing met vooraf bepaalde leerdoelen, een programma en vaak toetsing of certificering.",
+    "en": "Participation in organised education or training with specified learning goals, a curriculum and often assessment or certification."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

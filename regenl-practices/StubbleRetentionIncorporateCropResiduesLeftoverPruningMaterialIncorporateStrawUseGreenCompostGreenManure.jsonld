@@ -5,9 +5,13 @@
     "nl": "Stoppelresten behouden en organische restmaterialen inwerken",
     "en": "Stubble retention; Incorporate crop residues; Leftover pruning material; Incorporate straw; Use green compost ; green manure"
   },
+  "definition": {
+    "nl": "Het behouden van stoppels en terugbrengen van gewasresten, stro, snoeimateriaal en groene organische materialen naar het perceel om biomassa en nutriënten te hergebruiken.",
+    "en": "Retaining stubble and returning crop, straw or pruning residues and green organic materials to the field to recycle biomass and nutrients."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

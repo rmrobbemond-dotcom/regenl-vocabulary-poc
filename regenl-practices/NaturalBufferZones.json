@@ -5,9 +5,13 @@
     "nl": "Natuurlijke bufferzones",
     "en": "Natural buffer zones"
   },
+  "definition": {
+    "nl": "Het behouden van stroken of plekken halfnatuurlijke vegetatie tussen landbouwgrond en kwetsbare gebieden om afstroming op te vangen, leefgebied te bieden of verstoring te verminderen.",
+    "en": "Maintaining strips or patches of semi-natural vegetation between farmland and vulnerable areas to intercept runoff, provide habitat or reduce disturbance."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Financieel beheer",
     "en": "Financial management"
   },
+  "definition": {
+    "nl": "Het plannen, vastleggen en beheersen van inkomsten, uitgaven, investeringen, liquiditeit en financiële risico's van het landbouwbedrijf.",
+    "en": "Planning, recording and controlling farm income, expenses, investments, cash flow and financial risks to support business continuity."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

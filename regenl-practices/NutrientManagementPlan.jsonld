@@ -5,9 +5,13 @@
     "nl": "Nutriëntenbeheerplan",
     "en": "nutrient management plan"
   },
+  "definition": {
+    "nl": "Een vastgelegd overzicht van nutriëntenaanbod, gewasbehoefte, toedieningstijdstippen en nutriëntenbalansen om bemesting te sturen en verliezen te beperken.",
+    "en": "A documented assessment of nutrient supply, crop demand, application timing and nutrient balances used to guide fertilisation and limit losses."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

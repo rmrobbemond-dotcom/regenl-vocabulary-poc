@@ -5,9 +5,13 @@
     "nl": "Rustgewassen telen",
     "en": "Use break crops"
   },
+  "definition": {
+    "nl": "Het opnemen van gewassen uit andere plantenfamilies of met afwijkende beworteling en ziektegevoeligheid om een intensieve teeltvolgorde te onderbreken.",
+    "en": "Including crops from different plant families or with distinct rooting and disease relationships to interrupt intensive cropping sequences."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -6,11 +6,12 @@
     "en": "fertilization and manure management"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'fertilization and manure management'."
+    "nl": "Het plannen van productie, opslag, verwerking en toediening van mest en meststoffen om gewassen te voeden en verliezen naar lucht en water te beperken.",
+    "en": "Planning the production, storage, treatment and application of manure and fertilisers to supply crops with nutrients while limiting losses to air and water."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

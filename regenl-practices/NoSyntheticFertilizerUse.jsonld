@@ -6,8 +6,8 @@
     "en": "No synthetic fertilizer use"
   },
   "definition": {
-    "nl": "Totaal geen gebruik van bemesting met kunstmest",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic fertilizer use'."
+    "nl": "Het telen zonder vervaardigde synthetische minerale meststoffen en andere nutriëntenbronnen gebruiken met aandacht voor de nutriëntenbalans.",
+    "en": "Supplying crops without manufactured synthetic mineral fertilisers, relying on other nutrient sources while accounting for nutrient balances."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

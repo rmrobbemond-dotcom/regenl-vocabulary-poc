@@ -5,9 +5,13 @@
     "nl": "Belangenvertegenwoordiging van boeren",
     "en": "Representation of farmers"
   },
+  "definition": {
+    "nl": "Het namens boeren deelnemen aan overleg, onderhandelingen of besluitvormende organen om gezamenlijke belangen uit te dragen en te behartigen.",
+    "en": "Acting on behalf of farmers in consultation, negotiations or decision-making bodies to communicate and defend their shared interests."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

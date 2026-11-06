@@ -5,9 +5,13 @@
     "nl": "Schaduwbomen planten",
     "en": "shade tree planting"
   },
+  "definition": {
+    "nl": "Het aanplanten van bomen op gekozen plekken op het bedrijf om schaduw te bieden en hittebelasting van dieren, gewassen of medewerkers te beperken.",
+    "en": "Establishing trees at selected farm locations to provide shade that mitigates heat exposure for animals, crops or workers."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

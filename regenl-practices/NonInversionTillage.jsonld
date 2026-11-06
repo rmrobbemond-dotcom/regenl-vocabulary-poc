@@ -6,8 +6,8 @@
     "en": "Non-inversion tillage"
   },
   "definition": {
-    "nl": "maakt de grond los and zorgt voor ventilering zonder de bodem te keren.",
-    "en": "loosens and aerates the soil without turning it over, preserving surface residues and maintaining soil structure"
+    "nl": "Het losmaken of mengen van de bodem zonder het bodemprofiel te keren, waardoor de natuurlijke gelaagdheid meer behouden blijft dan bij ploegen.",
+    "en": "Loosening or mixing soil without turning the soil profile over, preserving more of its natural layer arrangement than inversion ploughing."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

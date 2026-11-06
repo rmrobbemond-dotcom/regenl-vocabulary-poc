@@ -6,11 +6,12 @@
     "en": "permanent grassland sward older than 15 year"
   },
   "definition": {
-    "en": "see definition permanent grassland types"
+    "nl": "Grasland waarvan de huidige zode meer dan vijftien jaar aanwezig is zonder volledige vernieuwing of herinzaai.",
+    "en": "Grassland whose current sward has remained in place for more than fifteen years without full renewal or reseeding."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

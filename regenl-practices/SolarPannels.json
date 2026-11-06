@@ -5,9 +5,13 @@
     "nl": "Zonnepanelen",
     "en": "Solar pannels"
   },
+  "definition": {
+    "nl": "Het plaatsen of benutten van fotovoltaïsche zonnepanelen die zonlicht omzetten in elektriciteit voor bedrijfsgebruik of levering aan het net.",
+    "en": "Installing or using photovoltaic panels that convert sunlight into electricity for farm operations or export to the grid."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

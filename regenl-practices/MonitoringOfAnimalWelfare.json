@@ -5,9 +5,13 @@
     "nl": "Monitoring van dierenwelzijn",
     "en": "monitoring of animal welfare"
   },
+  "definition": {
+    "nl": "Het regelmatig beoordelen van diergebonden indicatoren, zoals gedrag, verwondingen, lichaamsconditie en gezondheid, om welzijnsproblemen te signaleren en aan te pakken.",
+    "en": "Regularly assessing animal-based indicators such as behaviour, injuries, body condition and health to detect and address welfare problems."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -11,8 +11,8 @@
     ]
   },
   "definition": {
-    "nl": "De integratie van bomen en akkerbousgewassen op hetzelfde perceel",
-    "en": "the integration of trees and arable crops on the same field"
+    "nl": "Een agroforestrysysteem waarin bomen of struiken met akkerbouwgewassen op dezelfde grond worden gecombineerd, bijvoorbeeld teelten tussen bomenrijen.",
+    "en": "An agroforestry system combining trees or shrubs with arable crops on the same land, for example crops between tree rows."
   },
   "changeNote": {
     "nl": [
@@ -20,8 +20,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

@@ -5,9 +5,13 @@
     "nl": "Bemonstering van de bodem",
     "en": "Soil sampling"
   },
+  "definition": {
+    "nl": "Het nemen van representatieve bodemmonsters op vastgelegde locaties en diepten voor laboratoriumonderzoek of beoordeling in het veld.",
+    "en": "Collecting representative samples of soil at defined locations and depths for laboratory analysis or field assessment."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

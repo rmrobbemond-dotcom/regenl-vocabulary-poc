@@ -5,9 +5,13 @@
     "nl": "Levende wortels in de bodem behouden",
     "en": "Keep living roots"
   },
+  "definition": {
+    "nl": "Het zo lang mogelijk gedurende het jaar behouden van levende plantenwortels in de bodem via meerjarige gewassen, bodembedekkers of overlappende teeltperioden.",
+    "en": "Maintaining living plant roots in the soil for as much of the year as practical through perennial crops, cover crops or overlapping growing periods."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

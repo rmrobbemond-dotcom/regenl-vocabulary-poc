@@ -5,9 +5,13 @@
     "nl": "Agritoerisme",
     "en": "Agrotourism"
   },
+  "definition": {
+    "nl": "Het aanbieden van toeristische en recreatieve activiteiten op of rond een actief landbouwbedrijf, zoals logeren, rondleidingen of boerderijbeleving, als aanvullende bedrijfsactiviteit.",
+    "en": "Providing tourism and recreation activities connected to a working farm, such as farm stays, tours or on-farm experiences, as a complementary business activity."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

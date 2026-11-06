@@ -5,9 +5,13 @@
     "nl": "Gemeenschapslandbouw (CSA)",
     "en": "Community based/supported agriculture"
   },
+  "definition": {
+    "nl": "Een voedselproductie- en afzetsysteem waarin consumenten zich direct aan een bedrijf verbinden, vaak via abonnement of vooruitbetaling en soms door risico en oogst te delen.",
+    "en": "A food production and distribution arrangement in which consumers make a direct commitment to a farm, often through subscriptions or prepayment and sometimes sharing risks and harvests."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

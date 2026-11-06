@@ -5,9 +5,13 @@
     "nl": "Syntropische landbouw",
     "en": "Syntropic farming"
   },
+  "definition": {
+    "nl": "Het beheren van zeer diverse, vaak boomrijke teeltsystemen via geplande successie, dichte beplanting en snoei om biomassa op te bouwen en ecologische processen te ondersteunen.",
+    "en": "Managing highly diverse, often tree-based crop systems through planned succession, dense planting and pruning to build biomass and support ecological processes."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

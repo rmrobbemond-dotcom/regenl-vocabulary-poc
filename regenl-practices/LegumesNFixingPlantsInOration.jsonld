@@ -5,9 +5,13 @@
     "nl": "Vlinderbloemigen en stikstofbindende gewassen in de rotatie",
     "en": "Legumes (N-fixing plants) in oration"
   },
+  "definition": {
+    "nl": "Het opnemen van vlinderbloemigen of andere stikstofbindende planten in de vruchtwisseling om biologisch gebonden stikstof aan te voeren en teelten te variëren.",
+    "en": "Including legumes or other nitrogen-fixing plants in crop rotations to introduce biologically fixed nitrogen and diversify cropping sequences."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

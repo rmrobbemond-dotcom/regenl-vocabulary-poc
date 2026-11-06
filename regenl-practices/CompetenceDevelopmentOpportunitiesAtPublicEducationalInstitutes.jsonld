@@ -5,9 +5,13 @@
     "nl": "Mogelijkheden voor competentieontwikkeling in het openbaar onderwijs",
     "en": "(Competence) development opportunities at public educational institutes"
   },
+  "definition": {
+    "nl": "Het bieden van mogelijkheden aan boeren of medewerkers om kennis en vaardigheden te ontwikkelen via opleidingen, cursussen of trainingen bij openbare onderwijsinstellingen.",
+    "en": "Providing farmers or farm workers with opportunities to acquire skills and knowledge through courses, training or qualifications offered by public educational institutions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

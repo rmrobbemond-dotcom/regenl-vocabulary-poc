@@ -5,9 +5,13 @@
     "nl": "Inkomensverdieping door hogere productwaarde",
     "en": "Income deepening -increasing added value of product"
   },
+  "definition": {
+    "nl": "Het verhogen van de opbrengst per eenheid landbouwproduct door verwerking, merkontwikkeling, kwaliteitsonderscheid of kortere afzetketens.",
+    "en": "Increasing revenue per unit of farm produce through processing, branding, quality differentiation or shorter marketing chains."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

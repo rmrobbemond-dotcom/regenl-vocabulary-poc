@@ -6,8 +6,8 @@
     "en": "Shallow non-inversion tillage"
   },
   "definition": {
-    "nl": "Losmaken van de bodem zonder deze te keren, tot bijvoorbeeld maximaal 6 cm diep",
-    "en": "non-inversion tillage until e.g. maximum 0.06m depth"
+    "nl": "Het bewerken van uitsluitend de bovenste bodemlaag zonder het bodemprofiel te keren, zodat de verstoringsdiepte en bodemkering beperkt blijven.",
+    "en": "Cultivating only the upper soil layer without turning over the soil profile, thereby limiting depth and inversion of disturbance."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

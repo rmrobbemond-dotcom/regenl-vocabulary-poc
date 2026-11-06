@@ -5,9 +5,13 @@
     "nl": "Hoge waterstanden handhaven",
     "en": "keep water levels high"
   },
+  "definition": {
+    "nl": "Het sturen van waterstanden op landbouwgrond naar een relatief hoog streefpeil om ontwatering of bodemdaling te beperken en waar passend natte omstandigheden te ondersteunen.",
+    "en": "Managing farmland water levels at a relatively high target to limit drainage or subsidence and support wet conditions where appropriate."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Deelname aan studiegroepen over relaties tussen mens en natuur",
     "en": "Participation in study groups, (reconsidering human-nonhuman relations)"
   },
+  "definition": {
+    "nl": "Het deelnemen aan studiegroepen die bespreken hoe landbouwpraktijken zich verhouden tot dieren, planten, bodems en ander niet-menselijk leven.",
+    "en": "Joining organised discussions or learning groups that examine how farming practices affect and relate to animals, plants, soils and other non-human life."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

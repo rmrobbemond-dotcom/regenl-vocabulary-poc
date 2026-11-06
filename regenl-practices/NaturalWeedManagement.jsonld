@@ -6,8 +6,8 @@
     "en": "Natural weed management"
   },
   "definition": {
-    "nl": "Ander natuurlijk onkruidbeheer, bv. specifieke groenbemesters of landbewerking voor de teelt",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Natural weed management'."
+    "nl": "Het onderdrukken van onkruid via ecologische maatregelen zoals concurrentie door gewassen, mulch, beweiding of vruchtwisseling, zonder primair op synthetische herbiciden te steunen.",
+    "en": "Suppressing weeds through ecological measures such as competition, mulching, grazing or crop rotation without relying primarily on synthetic herbicides."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

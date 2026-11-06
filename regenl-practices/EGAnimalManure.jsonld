@@ -5,9 +5,13 @@
     "nl": "Dierlijke mest",
     "en": "(e.g. animal manure)"
   },
+  "definition": {
+    "nl": "Het toepassen van uitwerpselen of strooiselmest van landbouwhuisdieren als organische bron van nutriënten en organische stof, met aandacht voor opslag en emissies.",
+    "en": "Applying excreta or bedding-based manure from farm animals as an organic source of nutrients and organic matter, with attention to storage and application impacts."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

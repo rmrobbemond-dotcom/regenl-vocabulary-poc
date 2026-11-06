@@ -6,8 +6,8 @@
     "en": "Mechanical weed management"
   },
   "definition": {
-    "nl": "Onkruidbestrijding met behulp van werktuigen of andere fysiek maatregelen, incl. handmatig wieden",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Mechanical weed management'."
+    "nl": "Het beheersen van onkruid met mechanische bewerkingen zoals schoffelen, eggen, borstelen of maaien, in plaats van of naast herbiciden.",
+    "en": "Managing weeds by mechanical actions such as hoeing, harrowing, brushing or cutting, instead of or in addition to herbicides."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

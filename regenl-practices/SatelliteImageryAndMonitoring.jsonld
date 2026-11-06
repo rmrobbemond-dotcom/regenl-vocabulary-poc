@@ -5,9 +5,13 @@
     "nl": "Satellietbeelden en monitoring",
     "en": "Satellite imagery and monitoring"
   },
+  "definition": {
+    "nl": "Het gebruiken van herhaalde satellietbeelden en daaruit afgeleide indicatoren voor vegetatie, vocht of landbedekking om perceelomstandigheden en veranderingen te volgen.",
+    "en": "Using repeated satellite images and derived vegetation, moisture or land-cover indicators to observe field conditions and detect changes over time."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

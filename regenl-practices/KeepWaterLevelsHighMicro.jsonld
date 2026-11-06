@@ -5,9 +5,13 @@
     "nl": "Hoge waterstanden handhaven",
     "en": "keep water levels high"
   },
+  "definition": {
+    "nl": "Het handhaven van een afgesproken hogere oppervlaktewater- of grondwaterstand met regelbare drainage, stuwen of andere waterregelvoorzieningen.",
+    "en": "Maintaining an agreed elevated surface-water or groundwater level through adjustable drains, weirs or water-control structures."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

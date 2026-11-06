@@ -6,8 +6,8 @@
     "en": "Under sowing"
   },
   "definition": {
-    "nl": "Het telen van een tussen / vanggewas (zie ook bodembedekkers) waarbij er temporale overlap is met het hoofdgewas",
-    "en": "catch crop (see also cover crops), grown partly at the same time as the main crop"
+    "nl": "Het inzaaien van een tweede gewas, vaak een bodembedekker, onder een bestaande hoofdteelt zodat het vóór of na de oogst van de hoofdteelt groeit.",
+    "en": "Sowing a second crop, often a cover crop, beneath an established main crop so that it grows before or after the main crop is harvested."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

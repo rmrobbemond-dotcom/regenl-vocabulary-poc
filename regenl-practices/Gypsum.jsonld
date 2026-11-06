@@ -6,11 +6,12 @@
     "en": "gypsum"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'gypsum'."
+    "nl": "Het toedienen van calciumsulfaat aan de bodem als bodemverbeteraar die calcium en zwavel levert en onder geschikte omstandigheden bodemchemie of structuur beïnvloedt.",
+    "en": "Applying calcium sulphate to soil as an amendment that supplies calcium and sulphur and can influence soil chemistry or structure under suitable conditions."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

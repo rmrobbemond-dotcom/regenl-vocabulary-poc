@@ -5,9 +5,13 @@
     "nl": "Diagnose- en beheerplannen",
     "en": "diagnosis and management plans"
   },
+  "definition": {
+    "nl": "Het opstellen en gebruiken van concrete diagnoses en beheerplannen om ingrepen op een bedrijf of perceel te kiezen, uit te voeren en te evalueren.",
+    "en": "The preparation and use of specific diagnostic assessments and management plans to choose, implement and evaluate interventions on a farm or field."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -6,12 +6,12 @@
     "en": "diversification of mowing activities on field and farm scale"
   },
   "definition": {
-    "nl": "Het variëren van maaimomenten of maaibeheer binnen percelen en bedrijven om biodiversiteit en de verbinding tussen leefgebieden te ondersteunen.",
-    "en": "diversification of mowing activities on field and farm scale to benefit biodiversity and improve connectivity of habitats"
+    "nl": "Het variëren van maaimomenten, maaifrequentie en locaties binnen percelen en het bedrijf om verschillende vegetatiestructuren en schuilplekken voor fauna te behouden.",
+    "en": "Varying mowing times, frequency or locations across fields and the farm to create different vegetation structures and leave refuges for wildlife."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

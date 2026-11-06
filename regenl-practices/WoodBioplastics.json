@@ -5,9 +5,13 @@
     "nl": "Hout en bioplastics",
     "en": "wood, bioplastics"
   },
+  "definition": {
+    "nl": "Het produceren of gebruiken van houtgebaseerde materialen en bioplastics die geheel of gedeeltelijk uit hernieuwbare biomassa bestaan als alternatief voor fossiele materialen.",
+    "en": "Producing or using wood-based materials and bio-based plastics derived partly or wholly from renewable biomass as alternatives to fossil-based materials."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

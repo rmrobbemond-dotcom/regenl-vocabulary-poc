@@ -5,9 +5,13 @@
     "nl": "Hügelkultur en verhoogde teeltbedden",
     "en": "Hügelkultur/ raised beds"
   },
+  "definition": {
+    "nl": "Het aanleggen van verhoogde teeltbedden met houtachtig materiaal en organische stof die geleidelijk verteren en vocht en nutriënten kunnen vasthouden of vrijgeven.",
+    "en": "Building raised planting beds with woody material and organic matter, allowing decomposition and gradual release of moisture and nutrients."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

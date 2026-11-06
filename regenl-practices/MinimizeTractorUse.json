@@ -5,9 +5,13 @@
     "nl": "Tractorinzet minimaliseren",
     "en": "Minimize tractor use"
   },
+  "definition": {
+    "nl": "Het verminderen van aantallen, afstanden of intensiteit van tractorbewerkingen door werkzaamheden te combineren, ander materieel of minder werkgangen.",
+    "en": "Reducing the number, distance or intensity of tractor operations through combined tasks, alternative equipment or less frequent field passes."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

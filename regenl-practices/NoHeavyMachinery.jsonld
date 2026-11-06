@@ -5,9 +5,13 @@
     "nl": "Geen zware machines",
     "en": "No heavy machinery"
   },
+  "definition": {
+    "nl": "Het vermijden van machines boven een afgesproken massa- of aslastgrens op percelen om drukbelasting en bodemverdichting te beperken.",
+    "en": "Avoiding field machinery above a chosen weight or axle-load threshold to reduce pressure and the risk of soil compaction."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

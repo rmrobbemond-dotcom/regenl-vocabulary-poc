@@ -6,8 +6,8 @@
     "en": "Reduce synthetic pesticides"
   },
   "definition": {
-    "nl": "Synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen zoveel mogelijk verminderen",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reduce synthetic pesticides'."
+    "nl": "Het verminderen van synthetisch-chemische gewasbeschermingsmiddelen door preventie, monitoring en niet-chemische gewasbescherming te versterken.",
+    "en": "Reducing applications of synthetic chemical pesticides by strengthening prevention, monitoring and non-chemical crop protection measures."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

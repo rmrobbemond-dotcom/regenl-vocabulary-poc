@@ -5,9 +5,13 @@
     "nl": "Duurzaamheidsbetalingen door ketenpartners",
     "en": "Sustainability payments by chain partners"
   },
+  "definition": {
+    "nl": "Het ontvangen van vergoedingen of prijstoeslagen van afnemers of andere ketenpartners voor het voldoen aan afgesproken milieu- of sociale prestaties.",
+    "en": "Receiving payments or price premiums from buyers or other supply-chain actors for meeting agreed environmental or social performance requirements."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

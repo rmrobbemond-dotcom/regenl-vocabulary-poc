@@ -5,9 +5,13 @@
     "nl": "Ruigtevegetatie",
     "en": "rugged vegetation"
   },
+  "definition": {
+    "nl": "Het behouden of ontwikkelen van hogere, minder intensief beheerde ruige kruidenvegetatie of struweel als gevarieerd leefgebied in het landbouwlandschap.",
+    "en": "Retaining or developing taller, less intensively managed herbaceous vegetation or scrub patches as varied habitat in the agricultural landscape."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

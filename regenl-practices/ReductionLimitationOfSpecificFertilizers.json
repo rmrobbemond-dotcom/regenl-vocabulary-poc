@@ -6,8 +6,8 @@
     "en": "Reduction/ limitation of specific  fertilizers"
   },
   "definition": {
-    "nl": "Het beperken van de hoeveelheid meststof of het tijdstip waarop bepaalde meststoffen worden toegediend.",
-    "en": "quantity or time limitation of application"
+    "nl": "Het verminderen of begrenzen van aangewezen meststoffen of nutriënten in plaats van dezelfde beperking op alle meststoftypen toe te passen.",
+    "en": "Reducing or limiting designated fertiliser products or nutrients rather than imposing the same restriction on all fertiliser types."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

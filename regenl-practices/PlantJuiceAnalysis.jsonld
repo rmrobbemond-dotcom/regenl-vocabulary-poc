@@ -5,9 +5,13 @@
     "nl": "Plantsapanalyse",
     "en": "Plant juice analysis"
   },
+  "definition": {
+    "nl": "Het analyseren van uit plantenweefsel gewonnen sap op nutriënten of fysiologische indicatoren ter ondersteuning van teeltbeslissingen.",
+    "en": "Analysing sap extracted from plant tissues for nutrient or physiological indicators to inform crop management decisions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

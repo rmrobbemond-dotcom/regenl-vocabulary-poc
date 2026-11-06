@@ -6,11 +6,12 @@
     "en": "regenerative capacity"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'regenerative capacity'."
+    "nl": "Het vermogen van een agrarische bodem of productiesysteem om functies te herstellen en ecologische processen na verstoring te behouden of te verbeteren.",
+    "en": "The capacity of an agricultural soil or production system to recover functions and maintain or improve ecological processes after disturbance."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -6,11 +6,12 @@
     "en": "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages"
   },
   "definition": {
-    "en": "for the ecoregeling , additional payment 2500 hours in 120 days max 3 LU per ha (huiskavel), 1500 hours in 120 days  max 5 LU ha ( huiskavel), for ALNb depending on the region as restriction in the number of LU per grassland site can be restricted"
+    "nl": "Het verlagen van de graasdruk door de veebezetting per hectare te begrenzen, bijvoorbeeld rond 1,5 grootvee-eenheid per hectare wanneer een beheerovereenkomst dat vereist.",
+    "en": "Reducing grazing pressure by limiting livestock units per hectare, for example to around 1.5 livestock units per hectare where required by a management agreement."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

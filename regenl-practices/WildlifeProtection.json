@@ -5,9 +5,13 @@
     "nl": "Bescherming van wilde dieren",
     "en": "wildlife protection"
   },
+  "definition": {
+    "nl": "Het voorkomen van schade aan wilde dieren door agrarische activiteiten via leefgebiedbeheer, aangepaste werkzaamheden, afrastering of soortgerichte maatregelen.",
+    "en": "Preventing harm to wild animals from farm activities through habitat management, adjusted operations, fencing or other species-specific measures."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Bomen en heggen als leefgebied",
     "en": "Trees and hedges as habitat"
   },
+  "definition": {
+    "nl": "Het behouden, aanplanten of beheren van bomen en heggen die nestplaatsen, voedsel, beschutting en verplaatsingsroutes voor fauna bieden.",
+    "en": "Retaining, planting or managing trees and hedgerows to offer nesting sites, food, shelter and movement routes for wildlife."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

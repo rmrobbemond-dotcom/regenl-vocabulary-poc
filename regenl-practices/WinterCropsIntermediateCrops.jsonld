@@ -6,8 +6,8 @@
     "en": "Winter crops / intermediate crops:"
   },
   "definition": {
-    "nl": "Een handelsgewas dat (in de winter) wordt geteeld tussen twee hoofdgewassen",
-    "en": "a cash crops grown (in winter) between two main crops"
+    "nl": "Het telen van een gewas in de winter of tussen twee hoofdteelten voor bodembedekking, oogstbare productie of opname van resterende nutriënten.",
+    "en": "Cultivating a crop during the winter or in the interval between main crops to provide cover, harvestable output or nutrient capture."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

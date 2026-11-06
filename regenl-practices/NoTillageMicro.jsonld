@@ -6,7 +6,8 @@
     "en": "No tillage"
   },
   "definition": {
-    "nl": "Geen bodembewerking tussen oogst en inzaai. Het nieuwe gewas wordt direct in de onbewerkte bodem gezaaid, zondat dat de grond sinds de vorige oogst is omgeploegd of losgemaakt"
+    "nl": "Het rechtstreeks zaaien of planten van een gewas zonder voorafgaande mechanische bewerking of kering van de bodem over het perceel.",
+    "en": "Directly sowing or planting a crop without mechanically loosening or inverting the soil across the field before establishment."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

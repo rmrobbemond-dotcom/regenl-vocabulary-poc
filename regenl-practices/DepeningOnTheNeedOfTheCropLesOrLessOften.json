@@ -6,8 +6,8 @@
     "en": "Depening on the need of the crop (les or less often)"
   },
   "definition": {
-    "nl": "Bemesting op basis van het groei potentieel, bv. gedurende het seizoen en afhangelijk van de groeiomstandigheden",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Depening on the need of the crop (les or less often)'."
+    "nl": "Het afstemmen van hoeveelheden en frequentie van water, meststoffen of andere inputs op de gemeten of verwachte gewasbehoefte in plaats van standaard meer toe te dienen.",
+    "en": "Adjusting application rates and frequency of irrigation, fertilisers or other inputs to measured or expected crop demand rather than applying a fixed excess."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Vogel- en vleermuiskasten",
     "en": "Bird and bat boxes"
   },
+  "definition": {
+    "nl": "Het plaatsen van kunstmatige nest- of verblijfplaatsen voor vogels en vleermuizen op of naast landbouwgrond waar natuurlijke plaatsen beperkt aanwezig zijn.",
+    "en": "Installing artificial nesting or roosting structures for birds and bats on or near agricultural land where suitable natural sites are scarce."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

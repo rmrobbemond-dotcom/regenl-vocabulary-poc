@@ -5,9 +5,13 @@
     "nl": "Waterstanden constant houden",
     "en": "maintain waterlevels constant"
   },
+  "definition": {
+    "nl": "Het gebruiken van stuwen, regelbare drainage of ander waterbeheer om oppervlaktewater- of grondwaterstanden dicht bij een gekozen streefpeil te houden.",
+    "en": "Using water-control structures or drainage management to keep surface-water or groundwater levels near a chosen target with limited fluctuations."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -6,11 +6,12 @@
     "en": "temporary grassland , sward younger than 5 years"
   },
   "definition": {
-    "en": "see definition permanent grassland types"
+    "nl": "Grasland met een zode jonger dan vijf jaar sinds aanleg of vernieuwing, vaak opgenomen in een akkerbouwrotatie in plaats van blijvend aangehouden.",
+    "en": "Grassland with a sward younger than five years since establishment or renewal, often included in arable rotations rather than maintained indefinitely."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

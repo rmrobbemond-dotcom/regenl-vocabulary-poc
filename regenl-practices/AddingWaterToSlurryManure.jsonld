@@ -6,8 +6,8 @@
     "en": "Adding water to slurry manure"
   },
   "definition": {
-    "nl": "Water toedienen aan de drijfmest voor effiëntere bemesting en minder vervluchtiging",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Adding water to slurry manure'."
+    "nl": "Het verdunnen van drijfmest met water vóór of tijdens het uitrijden, zodat de mest beter vloeit en infiltreert en onder geschikte omstandigheden minder ammoniak kan vervluchtigen.",
+    "en": "Diluting livestock slurry with water before or during application to improve flow and infiltration and potentially reduce ammonia loss under suitable conditions."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

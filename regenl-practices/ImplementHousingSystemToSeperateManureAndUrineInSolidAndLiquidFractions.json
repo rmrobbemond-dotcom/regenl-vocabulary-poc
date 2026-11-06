@@ -5,9 +5,13 @@
     "nl": "Huisvestingssysteem voor scheiding van mest en urine",
     "en": "Implement housing system to seperate manure and urine in solid and liquid fractions"
   },
+  "definition": {
+    "nl": "Het toepassen van stalvloeren of opvangsystemen die feces en urine kort na uitscheiding scheiden zodat beide fracties afzonderlijk kunnen worden behandeld en bepaalde emissies worden beperkt.",
+    "en": "Using housing floors or manure collection systems that separate faeces and urine soon after excretion to enable different treatment and reduce some emissions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

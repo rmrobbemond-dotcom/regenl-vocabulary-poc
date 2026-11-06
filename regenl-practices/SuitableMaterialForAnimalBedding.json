@@ -5,9 +5,13 @@
     "nl": "Geschikt strooiselmateriaal voor dieren",
     "en": "suitable material for animal bedding"
   },
+  "definition": {
+    "nl": "Het kiezen van strooiselmaterialen die dieren een hygiënische, droge en comfortabele ligplek bieden, met aandacht voor beschikbaarheid en mestbeheer.",
+    "en": "Selecting bedding materials that provide livestock with hygienic, dry and comfortable lying conditions while considering availability and manure management."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

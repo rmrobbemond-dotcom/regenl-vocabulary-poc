@@ -5,9 +5,13 @@
     "nl": "Seizoensgebonden vaste rijpaden",
     "en": "Controlled traffic lanes per season"
   },
+  "definition": {
+    "nl": "Het per teeltseizoen aanwijzen en gebruiken van rijsporen voor machines om willekeurig rijden en de oppervlakte met herhaalde wielbelasting te beperken.",
+    "en": "Planning designated machine tracks for a growing season, rather than driving randomly across the field, to limit the area repeatedly compacted by wheels."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

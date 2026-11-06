@@ -5,9 +5,13 @@
     "nl": "Droogtetolerante gewassen",
     "en": "drought tolerant crops"
   },
+  "definition": {
+    "nl": "Het kiezen van gewassen of rassen die bij beperkte watervoorziening relatief goed kunnen groeien of produceren dankzij fysiologische of bouwkundige eigenschappen.",
+    "en": "Choosing crop species or varieties capable of maintaining growth or yield under limited water availability through physiological or morphological adaptations."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

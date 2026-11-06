@@ -6,8 +6,8 @@
     "en": "Reducing sysnthetic N-ferterilizers"
   },
   "definition": {
-    "nl": "Het verminderd of minimaal gebruik van kunstmest met stikstof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Reducing sysnthetic N-ferterilizers'."
+    "nl": "Het specifiek verminderen van synthetische stikstofmeststoffen, bijvoorbeeld via vlinderbloemigen, organische nutriëntenbronnen of nauwkeuriger bemesting.",
+    "en": "Specifically reducing manufactured nitrogen fertilisers, for example by using legumes, organic nutrient sources or more precise application."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

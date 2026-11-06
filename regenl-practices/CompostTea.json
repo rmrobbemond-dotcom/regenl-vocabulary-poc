@@ -6,8 +6,8 @@
     "en": "Compost tea"
   },
   "definition": {
-    "nl": "Het gebruik van Compostthee als meststof",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Compost tea'."
+    "nl": "Een waterig extract van compost, soms met beluchting bereid, dat als vloeibare bodem- of plantbehandeling wordt gebruikt; samenstelling en werkzaamheid verschillen per bereiding.",
+    "en": "An aqueous extract of compost, sometimes prepared with aeration, used as a liquid soil or plant treatment; composition and evidence of effectiveness vary by preparation."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

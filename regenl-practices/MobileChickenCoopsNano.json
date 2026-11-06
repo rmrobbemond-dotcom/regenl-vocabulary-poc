@@ -5,9 +5,13 @@
     "nl": "Mobiele kippenhokken",
     "en": "Mobile chicken coops"
   },
+  "definition": {
+    "nl": "Het volgens een planning verplaatsen van een mobiel kippenhok tussen concrete plekken in het grasland om langdurige belasting van één locatie te vermijden.",
+    "en": "Moving a portable chicken coop between specific pasture positions according to a planned schedule to avoid prolonged pressure at one spot."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

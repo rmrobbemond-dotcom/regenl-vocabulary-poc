@@ -6,12 +6,12 @@
     "en": "rotational grazing"
   },
   "definition": {
-    "nl": "Een beweidingsmethode waarbij dieren achtereenvolgens toegang krijgen tot verschillende delen van grasland in plaats van voortdurend het hele perceel te beweiden.",
-    "en": "use more than one paddock in a pasture to restrict livestock grazing to a certain area"
+    "nl": "Het achtereenvolgens verplaatsen van vee tussen afgebakende graasdelen, zodat eerder beweid grasland kan herstellen voordat de dieren terugkeren.",
+    "en": "Moving livestock among defined grazing areas in sequence so that grazed pasture can recover before animals return."
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

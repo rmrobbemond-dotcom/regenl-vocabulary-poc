@@ -5,9 +5,13 @@
     "nl": "Rustperiode in de vruchtwisseling",
     "en": "Break period in the rotation"
   },
+  "definition": {
+    "nl": "Het opnemen van een geplande tussenperiode of extensieve fase tussen teelten om ziekte- en plaagcycli te doorbreken en bodem of vegetatie te laten herstellen.",
+    "en": "Including a planned interval or low-intensity phase between crops in a rotation to interrupt pest cycles and allow soil or vegetation recovery."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Herbebossing",
     "en": "Reforestation"
   },
+  "definition": {
+    "nl": "Het herstellen van bomen en bosvegetatie op grond die eerder bos was maar de boombedekking heeft verloren.",
+    "en": "Re-establishing trees and forest vegetation on land that previously carried forest but has lost its tree cover."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

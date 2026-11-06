@@ -5,9 +5,13 @@
     "nl": "Nieuwe vormen van toegang tot grond, arbeid en kapitaal",
     "en": "New forms of access to  land, labour, capital"
   },
+  "definition": {
+    "nl": "Regelingen waarmee boeren via alternatieven voor traditioneel eigendom of krediet toegang krijgen tot grond, arbeid of financiering, zoals coöperaties en gedeeld gebruik.",
+    "en": "Arrangements that give farmers access to land, labour or financing through alternatives to conventional ownership or credit, such as cooperatives or shared-use contracts."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

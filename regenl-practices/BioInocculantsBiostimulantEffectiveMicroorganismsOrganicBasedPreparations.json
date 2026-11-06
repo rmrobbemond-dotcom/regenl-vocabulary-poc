@@ -5,9 +5,13 @@
     "nl": "Microbiële inoculanten, biostimulanten en organische preparaten",
     "en": "Bio inocculants; Biostimulant; Effective microorganisms; Organic-based preparations"
   },
+  "definition": {
+    "nl": "Het toedienen van microbiële inoculanten, biostimulanten of organische preparaten om nutriëntenbeschikbaarheid, plantengroei, wortelontwikkeling of biologische bodemprocessen te beïnvloeden.",
+    "en": "Applying microbial inoculants, biostimulants or organic preparations intended to influence nutrient availability, plant growth, root development or soil biological processes."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

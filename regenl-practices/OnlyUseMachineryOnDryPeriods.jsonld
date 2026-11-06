@@ -5,9 +5,13 @@
     "nl": "Machines alleen inzetten in droge perioden",
     "en": "only use machinery on dry periods"
   },
+  "definition": {
+    "nl": "Het uitvoeren van veldwerk met zware machines alleen wanneer de bodem voldoende droog of draagkrachtig is om structuurschade en verdichting te beperken.",
+    "en": "Scheduling field operations with heavy equipment only when the soil is sufficiently dry or load-bearing to limit structural damage and compaction."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

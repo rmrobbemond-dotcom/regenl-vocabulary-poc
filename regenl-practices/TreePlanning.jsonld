@@ -5,9 +5,13 @@
     "nl": "Bomen aanplanten en beheren",
     "en": "tree planning"
   },
+  "definition": {
+    "nl": "Het plannen waar en hoe bomen op een landbouwbedrijf worden aangeplant en beheerd, inclusief soortkeuze, plantafstand, onderhoud en beoogde functies.",
+    "en": "Planning where and how trees will be planted and managed on a farm, including species choice, spacing, maintenance and intended functions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

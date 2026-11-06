@@ -6,11 +6,12 @@
     "en": "Extensive crop rotations"
   },
   "definition": {
-    "en": "practices where the farmer is requested to use improved crop varieties and/or certified seeds"
+    "nl": "Het toepassen van ruimere vruchtwisselingen met meer gewassen of langere tijd tussen herhaling van hetzelfde gewas, eventueel met rustgewassen of braak.",
+    "en": "Using rotations with more crops or longer intervals before the same crop returns, potentially including soil-restoring crops and fallow phases."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

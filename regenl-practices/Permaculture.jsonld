@@ -5,9 +5,13 @@
     "nl": "Permacultuur",
     "en": "Permaculture"
   },
+  "definition": {
+    "nl": "Een ontwerpbenadering voor productieve landschappen die ecologische relaties, diversiteit en kringlopen benut om gewassen, dieren, water en menselijke activiteiten samenhangend in te richten.",
+    "en": "A design approach for productive landscapes that uses ecological relationships, diversity and resource cycling to organise crops, animals, water and human activities."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Delen van middelen tussen akkerbouw en melkveehouderij",
     "en": "resource sharing, collaboration between arable production and dairy"
   },
+  "definition": {
+    "nl": "Samenwerking tussen akkerbouw- en melkveebedrijven om middelen zoals mest, voer, machines, grondgebruik of gewasresten te delen.",
+    "en": "Cooperation between crop and dairy farms to share resources such as manure, feed, machinery, land use or crop residues."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Woelen en diepwoelen",
     "en": "chisel plowing, subsoiling"
   },
+  "definition": {
+    "nl": "Het losmaken van verdichte bodemlagen met tanden of diepwoelers, meestal zonder de bodem volledig te keren, om beworteling en waterbeweging te verbeteren.",
+    "en": "Loosening compacted soil layers with tines or subsoilers, usually without fully inverting the soil, to improve rooting and water movement."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

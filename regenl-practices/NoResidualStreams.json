@@ -5,9 +5,13 @@
     "nl": "Geen reststromen",
     "en": "No residual streams"
   },
+  "definition": {
+    "nl": "Het zo inrichten van bedrijfsprocessen dat bruikbare bijproducten en afvalstromen worden voorkomen, verminderd of hergebruikt in plaats van als onbeheerde reststroom over te blijven.",
+    "en": "Designing farm processes so that usable by-products and waste streams are prevented, reduced or reused rather than leaving unmanaged residual material."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

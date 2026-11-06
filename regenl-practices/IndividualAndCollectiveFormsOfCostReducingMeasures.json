@@ -5,9 +5,13 @@
     "nl": "Individuele en collectieve kostenbesparende maatregelen",
     "en": "Individual and collective forms of cost reducing measures"
   },
+  "definition": {
+    "nl": "Het verlagen van bedrijfs- of investeringskosten door eigen efficiëntiemaatregelen of gezamenlijke inkoop, machines en voorzieningen met andere bedrijven.",
+    "en": "Reducing farm operating or investment costs through individual efficiency measures or shared purchasing, machinery and infrastructure with other farms."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

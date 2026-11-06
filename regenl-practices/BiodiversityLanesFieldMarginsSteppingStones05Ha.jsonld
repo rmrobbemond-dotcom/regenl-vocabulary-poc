@@ -5,9 +5,13 @@
     "nl": "Biodiversiteitsstroken, akkerranden en stapstenen (meer dan 0,5 ha)",
     "en": "biodiversity lanes; field margins; stepping stones (> 0.5 ha)"
   },
+  "definition": {
+    "nl": "Het aanleggen of beheren van begroeide akkerranden, verbindingsstroken of leefgebiedplekken groter dan 0,5 hectare die voedsel, beschutting en verbindingen voor soorten bieden.",
+    "en": "Creating or maintaining vegetated field margins, corridors or habitat patches larger than 0.5 hectares that offer food, shelter and ecological connections for species."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

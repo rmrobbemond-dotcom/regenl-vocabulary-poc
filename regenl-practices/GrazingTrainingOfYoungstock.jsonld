@@ -6,11 +6,12 @@
     "en": "grazing training of youngstock"
   },
   "definition": {
-    "en": "training of youngstock improves immunity and grass intake"
+    "nl": "Het geleidelijk laten wennen van jongvee aan grasland om graasgedrag te ontwikkelen en vertrouwd te raken met afrasteringen, weersomstandigheden en buiten voeren.",
+    "en": "Gradually introducing young livestock to pasture to develop grazing behaviour and familiarity with fences, weather and outdoor feeding."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

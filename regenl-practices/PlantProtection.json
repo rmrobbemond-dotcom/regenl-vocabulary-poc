@@ -6,11 +6,12 @@
     "en": "plant protection"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Macro level with label 'plant protection'."
+    "nl": "Het voorkomen, monitoren en beheersen van onkruid, plagen en ziekten om schade aan geteelde planten te beperken.",
+    "en": "The prevention, monitoring and management of weeds, pests and diseases to limit damage to cultivated plants."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

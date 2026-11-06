@@ -5,9 +5,13 @@
     "nl": "Voedselbos",
     "en": "Food forest"
   },
+  "definition": {
+    "nl": "Een doelbewust ingericht meerlagig teeltsysteem met vooral meerjarige eetbare planten, waaronder bomen en struiken, voor voedsel en andere producten.",
+    "en": "A deliberately designed, multi-layered system of mainly perennial edible plants, including trees and shrubs, managed for food and other useful products."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

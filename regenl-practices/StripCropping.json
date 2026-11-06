@@ -6,8 +6,8 @@
     "en": "Strip cropping"
   },
   "definition": {
-    "nl": "Twee of meer gewassen die in afwisselnde stroken worden geteeld, waarbij ten minste een strook meer dan een rij bevat",
-    "en": "two or more species cultivated in alternative strips and at least one strip includes more than one row"
+    "nl": "Het telen van verschillende gewassen in naast elkaar liggende, relatief smalle stroken die breed genoeg zijn voor bewerking, vaak om diversiteit te vergroten en plaagverspreiding te beperken.",
+    "en": "Growing different crops in adjacent, relatively narrow strips wide enough for field operations, often to increase diversity and reduce pest spread."
   },
   "changeNote": {
     "nl": [
@@ -15,8 +15,8 @@
     ]
   },
   "editorialNote": {
-    "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

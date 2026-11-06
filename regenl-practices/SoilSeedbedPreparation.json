@@ -6,11 +6,12 @@
     "en": "soil - seedbed preparation"
   },
   "definition": {
-    "en": "the practice of applying a layer of organic or inorganic material, to the surface of the soil"
+    "nl": "Het voorbereiden van bodemoppervlak en zaai- of plantzone met gekozen bewerkingen, rekening houdend met bodemstructuur en vocht.",
+    "en": "Preparing the soil surface and seed zone for sowing or planting through selected mechanical operations while managing soil structure and moisture."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

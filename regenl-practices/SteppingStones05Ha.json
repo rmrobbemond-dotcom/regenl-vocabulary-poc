@@ -5,9 +5,13 @@
     "nl": "Ecologische stapstenen (meer dan 0,5 ha)",
     "en": "stepping stones (> 0.5 ha)"
   },
+  "definition": {
+    "nl": "Het aanleggen of behouden van leefgebiedplekken groter dan 0,5 hectare die als tussenliggende schuilplaatsen of verbindingen tussen grotere natuurgebieden dienen.",
+    "en": "Creating or retaining habitat patches larger than 0.5 hectares that serve as intermediate refuges or links between larger natural areas."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

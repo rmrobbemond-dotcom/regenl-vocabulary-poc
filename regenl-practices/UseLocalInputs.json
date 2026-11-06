@@ -5,9 +5,13 @@
     "nl": "Lokale inputs gebruiken",
     "en": "Use local inputs"
   },
+  "definition": {
+    "nl": "Het voorrang geven aan materialen, voer, zaden of andere productiemiddelen van het eigen bedrijf of uit de regio om aanvoerketens te verkorten.",
+    "en": "Prioritising materials, feed, seeds or other production inputs sourced on the farm or within the local region to shorten supply chains."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

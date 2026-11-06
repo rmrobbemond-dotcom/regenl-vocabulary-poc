@@ -5,9 +5,13 @@
     "nl": "Verwerking op het landbouwbedrijf",
     "en": "On-farm processing"
   },
+  "definition": {
+    "nl": "Het op het landbouwbedrijf verwerken van eigen plantaardige of dierlijke producten tot voedsel, voer of andere goederen om bruikbaarheid of waarde te verhogen.",
+    "en": "Processing farm-grown or farm-raised products on the farm into food, feed or other goods to increase their usability or value."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

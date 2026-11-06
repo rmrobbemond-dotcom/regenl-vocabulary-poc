@@ -6,8 +6,8 @@
     "en": "No synthetic pesticides"
   },
   "definition": {
-    "nl": "Totaal geen gebruik van synthetische bestrijdingsmiddelen/gewasbeschermingsmiddelen op het bedrijf. Geen enkel type.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No synthetic pesticides'."
+    "nl": "Het telen zonder synthetisch-chemische gewasbeschermingsmiddelen en zo nodig preventieve, biologische of mechanische methoden toepassen.",
+    "en": "Managing crops without applying synthetic chemical crop-protection pesticides, relying on preventive, biological or mechanical methods where necessary."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

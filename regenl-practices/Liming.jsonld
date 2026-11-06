@@ -6,11 +6,12 @@
     "en": "Liming"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'Liming'."
+    "nl": "Het toedienen van kalkhoudende materialen om de bodem-pH te verhogen of verzuring te corrigeren op basis van bodemonderzoek en gewasbehoefte.",
+    "en": "Applying lime-based materials to raise soil pH or correct acidity, according to soil tests and crop requirements."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

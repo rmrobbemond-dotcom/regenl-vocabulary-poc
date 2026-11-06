@@ -5,9 +5,13 @@
     "nl": "Meerjarige gewassen gebruiken",
     "en": "Use perennials"
   },
+  "definition": {
+    "nl": "Het telen van een concreet meerjarig gewas op een perceel in plaats van jaarlijks een eenjarig gewas opnieuw te vestigen, waar passend met minder bodemverstoring.",
+    "en": "Cultivating an identified perennial crop on a field rather than re-establishing an annual crop each year, reducing yearly soil disturbance where appropriate."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

@@ -5,9 +5,13 @@
     "nl": "Gebouwen voor emissiereductie",
     "en": "building for emission reduction"
   },
+  "definition": {
+    "nl": "Het bouwen of aanpassen van agrarische gebouwen om uitstoot van bijvoorbeeld ammoniak, methaan, geur of fijnstof bij de bron te verminderen.",
+    "en": "Constructing or modifying farm buildings to reduce releases of substances such as ammonia, methane, odour or particulate matter at their source."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

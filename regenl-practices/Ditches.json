@@ -5,9 +5,13 @@
     "nl": "Sloten",
     "en": "Ditches"
   },
+  "definition": {
+    "nl": "Het beheren of onderhouden van open sloten en afwateringskanalen in landbouwgebied om waterstanden en afvoer te regelen met aandacht voor leefgebiedfuncties.",
+    "en": "Managing or maintaining open drainage and water-conveyance channels in farmland to regulate water levels and movement while considering habitat functions."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

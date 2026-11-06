@@ -6,8 +6,8 @@
     "en": "No fungicides"
   },
   "definition": {
-    "nl": "Totaal geen gebruik van fungiciden op het bedrijf. Eventueel wel andere middelen.",
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Micro level with label 'No fungicides'."
+    "nl": "Het gedurende de betreffende beheerperiode niet toepassen van fungiciden op het aangewezen gewas of perceel.",
+    "en": "Not applying fungicidal plant protection products to the specified crop or field during the relevant management period."
   },
   "changeNote": {
     "nl": [
@@ -16,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

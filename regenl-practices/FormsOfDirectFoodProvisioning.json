@@ -5,9 +5,13 @@
     "nl": "Vormen van directe voedselvoorziening",
     "en": "Forms of direct food provisioning"
   },
+  "definition": {
+    "nl": "Afzetvormen waarbij voedsel met weinig tussenhandel rechtstreeks van landbouwbedrijven naar consumenten gaat, zoals pakketten, zelfoogst of boerderijwinkels.",
+    "en": "Arrangements that deliver food directly from farms to consumers with few intermediaries, such as farm boxes, self-picking or farm shops."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

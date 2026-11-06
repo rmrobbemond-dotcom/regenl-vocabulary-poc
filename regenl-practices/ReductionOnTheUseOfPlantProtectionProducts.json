@@ -6,7 +6,8 @@
     "en": "Reduction on the use of plant protection products"
   },
   "definition": {
-    "en": "this class includes the practices where there are limitations in the use of fertilisers on the whole field (excluding partial spatial limitations such as  landscape features, buffer strips...)"
+    "nl": "Het verminderen van hoeveelheid, toepassingsfrequentie of behandeld oppervlak van gewasbeschermingsmiddelen binnen een duidelijke gewasbeschermingsstrategie.",
+    "en": "Reducing the amount, frequency or treated area of plant protection products while maintaining an explicit crop-protection strategy."
   },
   "changeNote": {
     "nl": [
@@ -15,7 +16,7 @@
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "historyNote": {

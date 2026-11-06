@@ -5,9 +5,13 @@
     "nl": "Graslandtype naar leeftijd van de zode",
     "en": "grassland type - sward age"
   },
+  "definition": {
+    "nl": "Het indelen van grasland naar de tijd dat de huidige zode aanwezig is sinds aanleg of de laatste vernieuwing.",
+    "en": "Classifying grassland according to how long the current sward has existed since establishment or last renewal."
+  },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [

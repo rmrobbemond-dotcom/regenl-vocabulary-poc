@@ -6,11 +6,12 @@
     "en": "Soil amendments"
   },
   "definition": {
-    "en": "A ClassificationElement in the RegenerativePracticeFramework at Meso level with label 'Soil amendments'."
+    "nl": "Het toevoegen van materialen aan de bodem om fysische, chemische of biologische eigenschappen te veranderen, zoals structuur, pH of vochtvasthoudend vermogen, niet uitsluitend als bemesting.",
+    "en": "Adding materials to soil to modify its physical, chemical or biological properties, such as structure, pH or water retention, beyond direct crop nutrition alone."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
