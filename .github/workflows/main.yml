@@ -148,7 +148,10 @@ jobs:
                       encoding="utf-8"
                   )
           PY
-          
+      
+      - name: Apply ReGeNL concept layout
+        run: python3 scripts/add_regenl_layout.py public
+    
       - name: Add ReGeNL feedback button
         run: python scripts/add_regenl_feedback.py public data
 
