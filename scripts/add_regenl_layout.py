@@ -145,12 +145,20 @@ js = r'''/* ReGeNL bilingual descriptions, sourced from the deployed Turtle. */
   }
 
   function selectedLanguage(container) {
-    // SkoHub's <html lang> can lag behind the visible nl/en toggle.
-    const markdown = container.querySelector(':scope > .markdown');
-    const txt = markdown ? markdown.textContent : '';
-    if (/\bDefinitie\b/.test(txt)) return 'nl';
-    if (/\bDefinition\b/.test(txt)) return 'en';
-    return document.documentElement.lang.toLowerCase().startsWith('nl') ? 'nl' : 'en';
+    // Read the actual displayed field heading. The visible definition is not
+    // necessarily a direct child of `.markdown` in every SkoHub page.
+    const headings = container.querySelectorAll('h1, h2, h3, h4, h5, h6, dt, strong, b');
+    for (const node of headings) {
+      const label = (node.textContent || '').trim().toLowerCase();
+      if (label === 'definitie') return 'nl';
+      if (label === 'definition') return 'en';
+    }
+    // Fallback: check the full detail pane, not just its `.markdown` child.
+    const text = container.textContent || '';
+    if (/\bDefinitie\b/.test(text)) return 'nl';
+    if (/\bDefinition\b/.test(text)) return 'en';
+    // Last resort: the document language (which can be stale on Gatsby pages).
+    return (document.documentElement.lang || '').toLowerCase().startsWith('nl') ? 'nl' : 'en';
   }
 
   function update() {
