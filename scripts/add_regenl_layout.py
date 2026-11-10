@@ -145,19 +145,38 @@ js = r'''/* ReGeNL bilingual descriptions, sourced from the deployed Turtle. */
   }
 
   function selectedLanguage(container) {
-    // Read the actual displayed field heading. The visible definition is not
-    // necessarily a direct child of `.markdown` in every SkoHub page.
-    const headings = container.querySelectorAll('h1, h2, h3, h4, h5, h6, dt, strong, b');
+    // SkoHub's <html lang> can remain "en" even when the Dutch translation
+    // is selected. Read the *visible page content* instead of relying on it.
+    // The definition heading is frequently outside figure.parentElement.
+    const main = document.querySelector('main') || document.body;
+    const headings = main.querySelectorAll('h1,h2,h3,h4,h5,h6,dt,strong,b');
     for (const node of headings) {
+      if (node.closest('.regenl-photo-description')) continue;
+      if (!node.getClientRects().length) continue;
       const label = (node.textContent || '').trim().toLowerCase();
       if (label === 'definitie') return 'nl';
       if (label === 'definition') return 'en';
     }
-    // Fallback: check the full detail pane, not just its `.markdown` child.
-    const text = container.textContent || '';
-    if (/\bDefinitie\b/.test(text)) return 'nl';
-    if (/\bDefinition\b/.test(text)) return 'en';
-    // Last resort: the document language (which can be stale on Gatsby pages).
+
+    // SkoHub sometimes renders 'Definitie' as a plain-text label, not a
+    // heading. innerText uses rendered text and excludes hidden UI elements.
+    // Ignore our own generated photo caption to prevent feedback loops.
+    const caption = container.querySelector(':scope > .regenl-photo-description');
+    const captionText = caption ? caption.innerText : '';
+    let visible = main.innerText || '';
+    if (captionText) visible = visible.replace(captionText, '');
+    if (/(^|\n)\s*Definitie\s*(\n|$)/i.test(visible)) return 'nl';
+    if (/(^|\n)\s*Definition\s*(\n|$)/i.test(visible)) return 'en';
+
+    // Last resort: locale controls. SkoHub may keep <html lang> stale.
+    for (const button of document.querySelectorAll('a,button')) {
+      const label = (button.textContent || '').trim().toLowerCase();
+      if (label !== 'nl' && label !== 'en') continue;
+      const pressed = button.getAttribute('aria-pressed') === 'true' ||
+        button.getAttribute('aria-current') === 'true' ||
+        button.getAttribute('aria-selected') === 'true';
+      if (pressed) return label;
+    }
     return (document.documentElement.lang || '').toLowerCase().startsWith('nl') ? 'nl' : 'en';
   }
 
