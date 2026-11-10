@@ -109,6 +109,8 @@ marker = 'data-regenl-layout="v1"'
 block = f'<style {marker}>\n{css}\n</style>'
 count = 0
 for path in public.rglob('*.html'):
+    if not path.is_file():
+    continue
     html = path.read_text(encoding='utf-8')
     # Remove older versions of the same injected style (safe for reruns).
     html = re.sub(r'<style\s+data-regenl-layout="v1">.*?</style>', '', html, flags=re.S)
