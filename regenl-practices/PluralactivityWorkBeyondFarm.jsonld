@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PluralactivityWorkBeyondFarm",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Nevenactiviteiten buiten de landbouw",
-    "en": "Pluralactivity - work beyond farm"
-  },
-  "definition": {
-    "nl": "Het combineren van landbouwactiviteiten met ander werk of ondernemerschap buiten het bedrijf om huishoud- of bedrijfsinkomsten te spreiden.",
-    "en": "Combining agricultural work with additional professional or commercial activities outside the farm to diversify household or business income."
+    "en": "Pluralactivity - work beyond farm",
+    "nl": "Nevenactiviteiten buiten de landbouw"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonFarmAndOffFarmEmployment",
       "prefLabel": {
-        "nl": "Werk buiten het landbouwbedrijf",
-        "en": "non-farm and off-farm employment"
+        "en": "non-farm and off-farm employment",
+        "nl": "Werk buiten het landbouwbedrijf"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "nl": "Sociaal-economisch bedrijfsbeheer",
-      "en": "Farm socio-economic management"
+      "en": "Farm socio-economic management",
+      "nl": "Sociaal-economisch bedrijfsbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

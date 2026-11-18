@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfNaturalRenewableResources",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken",
-    "en": "Use of natural/renewable resources"
-  },
-  "definition": {
-    "nl": "Het vervangen van niet-hernieuwbare grondstoffen door duurzaam beschikbare natuurlijke of hernieuwbare hulpbronnen in bedrijfsprocessen en producten.",
-    "en": "Replacing non-renewable raw materials with sustainably supplied natural or renewable resources in farm operations and products."
+    "en": "Use of natural/renewable resources",
+    "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WoodBioplastics",
       "prefLabel": {
-        "nl": "Hout en bioplastics",
-        "en": "wood, bioplastics"
+        "en": "wood, bioplastics",
+        "nl": "Hout en bioplastics"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs",
     "prefLabel": {
-      "nl": "Externe inputs verminderen",
-      "en": "Reduce external inputs"
+      "en": "Reduce external inputs",
+      "nl": "Externe inputs verminderen"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

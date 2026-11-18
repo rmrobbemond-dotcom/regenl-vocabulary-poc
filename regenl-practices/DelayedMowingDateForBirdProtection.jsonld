@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DelayedMowingDateForBirdProtection",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Uitgestelde maaidatum voor vogelbescherming",
-    "en": "delayed mowing date for bird protection"
-  },
-  "definition": {
-    "nl": "Het uitstellen van het maaien van grasland of vegetatie tot een bepaalde datum of na het broedseizoen om verstoring en sterfte van vogels te verminderen.",
-    "en": "Postponing cutting of grassland or vegetation until a specified date or after nesting periods to reduce disturbance and mortality of birds."
+    "en": "delayed mowing date for bird protection",
+    "nl": "Uitgestelde maaidatum voor vogelbescherming"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DelayedMowingDateForMeadowBirdProtection15JuneOrBotanicalProtectionJuly",
     "prefLabel": {
-      "nl": "Uitgestelde maaidatum voor weidevogels (15 juni) of botanisch beheer (juli)",
-      "en": "delayed mowing date for meadow bird protection ( 15 June) or botanical protection (July)"
+      "en": "delayed mowing date for meadow bird protection ( 15 June) or botanical protection (July)",
+      "nl": "Uitgestelde maaidatum voor weidevogels (15 juni) of botanisch beheer (juli)"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

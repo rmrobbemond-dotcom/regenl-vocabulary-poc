@@ -2,26 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MultispeciesCoverCrops",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Bodembedekkers met meerdere soorten",
-    "en": "Multispecies cover crops"
+    "en": "Multispecies cover crops",
+    "nl": "Bodembedekkers met meerdere soorten"
   },
   "definition": {
-    "nl": "Het telen van een mengsel van minimaal twee bodembedekkende plantensoorten met verschillende wortel-, nutriënten- of leefgebiedfuncties.",
-    "en": "Growing a cover-crop mixture containing at least two plant species with complementary root, nutrient or habitat characteristics."
-  },
-  "changeNote": {
-    "nl": [
-      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
-    ]
+    "en": "More then 1 different types of species of cover crops are sown (eg. Combination of combination of annual grasses, brassicas, and legumes)",
+    "nl": "Het inzaaien van een mengsel van minstens twee soorten groenbedekkers, bijvoorbeeld grassen, kruisbloemigen of vlinderbloemigen."
   },
   "editorialNote": {
-    "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
-    ]
-  },
-  "historyNote": {
     "nl": [
-      "Voorgaande PoC-definitie (nl): Het inzaaien van een mengsel van minstens twee soorten groenbedekkers, bijvoorbeeld grassen, kruisbloemigen of vlinderbloemigen."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [
@@ -30,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops",
     "prefLabel": {
-      "nl": "Gewasdiversificatie met bodembedekkers",
-      "en": "Crop diversification -Cover crops:"
+      "en": "Crop diversification -Cover crops:",
+      "nl": "Gewasdiversificatie met bodembedekkers"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

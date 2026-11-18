@@ -2,16 +2,15 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Verlagen van beweidingsintensiteit (bijvoorbeeld 1,5 GVE per ha)",
-    "en": "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages"
+    "en": "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages",
+    "nl": "Verlagen van beweidingsintensiteit (bijvoorbeeld 1,5 GVE per ha)"
   },
   "definition": {
-    "nl": "Het verlagen van de graasdruk door de veebezetting per hectare te begrenzen, bijvoorbeeld rond 1,5 grootvee-eenheid per hectare wanneer een beheerovereenkomst dat vereist.",
-    "en": "Reducing grazing pressure by limiting livestock units per hectare, for example to around 1.5 livestock units per hectare where required by a management agreement."
+    "en": "for the ecoregeling , additional payment 2500 hours in 120 days max 3 LU per ha (huiskavel), 1500 hours in 120 days  max 5 LU ha ( huiskavel), for ALNb depending on the region as restriction in the number of LU per grassland site can be restricted"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,24 +20,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation",
       "prefLabel": {
-        "nl": "Minimale beweidingsperiode of beperkingen aan beweiding en veebezetting",
-        "en": "minimum grazing period; no or restricted grazing; grazing livestock density limitation"
+        "en": "minimum grazing period; no or restricted grazing; grazing livestock density limitation",
+        "nl": "Minimale beweidingsperiode of beperkingen aan beweiding en veebezetting"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensificationOfGrazingManagementAdaptiveGrazingManagementMethod",
     "prefLabel": {
-      "nl": "Extensivering en adaptief beweidingsbeheer",
-      "en": "extensification of grazing management  - adaptive grazing management method"
+      "en": "extensification of grazing management  - adaptive grazing management method",
+      "nl": "Extensivering en adaptief beweidingsbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

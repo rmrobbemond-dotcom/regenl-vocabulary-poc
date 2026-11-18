@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcosystemservicePaymentsFromGovernment",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Overheidsbetalingen voor ecosysteemdiensten",
-    "en": "Ecosystemservice payments from government"
-  },
-  "definition": {
-    "nl": "Het ontvangen van een overheidsvergoeding voor afgesproken of aantoonbaar geleverd beheer dat ecosysteemdiensten ondersteunt, zoals biodiversiteit, waterkwaliteit of koolstofopslag.",
-    "en": "Receiving public compensation for verified or agreed farm management that provides ecosystem services such as biodiversity, water quality or carbon storage."
+    "en": "Ecosystemservice payments from government",
+    "nl": "Overheidsbetalingen voor ecosysteemdiensten"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningPaymentsForEcosystemServices",
     "prefLabel": {
-      "nl": "Inkomensverbreding via betalingen voor ecosysteemdiensten",
-      "en": "Income broadening- Payments for ecosystem services"
+      "en": "Income broadening- Payments for ecosystem services",
+      "nl": "Inkomensverbreding via betalingen voor ecosysteemdiensten"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

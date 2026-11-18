@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioeconomyEnergyEfficiencyAndProduction",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Bio-economie, energie-efficiëntie en productie",
-    "en": "Bioeconomy, energy efficiency and production"
-  },
-  "definition": {
-    "nl": "Bedrijfsmaatregelen die hernieuwbare energie of biobased producten voortbrengen en tegelijk de energievraag beperken door efficiëntere technieken en processen.",
-    "en": "Farm management practices that produce renewable energy or bio-based products and reduce energy demand through efficient technologies and processes."
+    "en": "Bioeconomy, energy efficiency and production",
+    "nl": "Bio-economie, energie-efficiëntie en productie"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,38 +17,38 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RenewableEnergy",
       "prefLabel": {
-        "nl": "Hernieuwbare energie",
-        "en": "renewable energy"
+        "en": "renewable energy",
+        "nl": "Hernieuwbare energie"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceExternalInputs",
       "prefLabel": {
-        "nl": "Externe inputs verminderen",
-        "en": "Reduce external inputs"
+        "en": "Reduce external inputs",
+        "nl": "Externe inputs verminderen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ResourceSharingCollaborationBetweenArableProductionAndDairy",
       "prefLabel": {
-        "nl": "Delen van middelen tussen akkerbouw en melkveehouderij",
-        "en": "resource sharing, collaboration between arable production and dairy"
+        "en": "resource sharing, collaboration between arable production and dairy",
+        "nl": "Delen van middelen tussen akkerbouw en melkveehouderij"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Bioeconomy",
     "prefLabel": {
-      "nl": "Bio-economie",
-      "en": "Bioeconomy"
+      "en": "Bioeconomy",
+      "nl": "Bio-economie"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

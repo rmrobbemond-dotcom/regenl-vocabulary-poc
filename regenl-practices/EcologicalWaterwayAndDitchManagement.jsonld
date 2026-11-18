@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/EcologicalWaterwayAndDitchManagement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Ecologisch beheer van watergangen en sloten",
-    "en": "Ecological waterway and ditch management"
-  },
-  "definition": {
-    "nl": "Het ecologisch beheren van slootkanten en watergangen met bijvoorbeeld gefaseerd maaien, behoud van vegetatie en beperkte verstoring voor water- en oevernatuur.",
-    "en": "Managing banks and watercourses with measures such as phased mowing, vegetation retention and reduced disturbance to support aquatic and riparian biodiversity."
+    "en": "Ecological waterway and ditch management",
+    "nl": "Ecologisch beheer van watergangen en sloten"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentVegetationAtBordersDitchCleaningBaggerenPreventLivestockAccessToWaterways",
       "prefLabel": {
-        "nl": "Permanente oevervegetatie, slootonderhoud en uitsluiten van vee",
-        "en": "permanent vegetation at borders; ditch cleaning (baggeren); Prevent livestock access to waterways"
+        "en": "permanent vegetation at borders; ditch cleaning (baggeren); Prevent livestock access to waterways",
+        "nl": "Permanente oevervegetatie, slootonderhoud en uitsluiten van vee"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HabitatProvisionBiodiversityEnhancement",
     "prefLabel": {
-      "nl": "Leefgebieden creëren en biodiversiteit versterken",
-      "en": "Habitat provision/ biodiversity enhancement"
+      "en": "Habitat provision/ biodiversity enhancement",
+      "nl": "Leefgebieden creëren en biodiversiteit versterken"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

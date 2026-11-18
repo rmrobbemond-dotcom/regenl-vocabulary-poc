@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilManagement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Bodembeheer",
-    "en": "Soil management"
-  },
-  "definition": {
-    "nl": "Het plannen en toepassen van maatregelen die bodemstructuur, vruchtbaarheid, bodemleven, waterhuishouding en het langdurige productievermogen beschermen of verbeteren.",
-    "en": "Planning and applying practices that protect or improve soil structure, fertility, biology, water dynamics and long-term productive capacity."
+    "en": "Soil management",
+    "nl": "Bodembeheer"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,45 +17,45 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAndMachineryUse",
       "prefLabel": {
-        "nl": "Bodem en machinegebruik",
-        "en": "Soil and machinery use"
+        "en": "Soil and machinery use",
+        "nl": "Bodem en machinegebruik"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilSeedbedPreparation",
       "prefLabel": {
-        "nl": "Bodem- en zaaibedvoorbereiding",
-        "en": "soil - seedbed preparation"
+        "en": "soil - seedbed preparation",
+        "nl": "Bodem- en zaaibedvoorbereiding"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceTillageMinimalTillage",
       "prefLabel": {
-        "nl": "Grondbewerking verminderen of minimaliseren",
-        "en": "Reduce tillage/ minimal tillage"
+        "en": "Reduce tillage/ minimal tillage",
+        "nl": "Grondbewerking verminderen of minimaliseren"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoTillageMeso",
       "prefLabel": {
-        "nl": "Niet-kerende nulbewerking",
-        "en": "No tillage"
+        "en": "No tillage",
+        "nl": "Niet-kerende nulbewerking"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagement",
     "prefLabel": {
-      "nl": "Gewasproductiebeheer",
-      "en": "Crop Production Management"
+      "en": "Crop Production Management",
+      "nl": "Gewasproductiebeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

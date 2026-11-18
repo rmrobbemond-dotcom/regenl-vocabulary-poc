@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InfiltrationChannels",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Infiltratiegeulen",
-    "en": "Infiltration channels"
-  },
-  "definition": {
-    "nl": "Het aanleggen van ondiepe geulen of sleuven die afstromend water opvangen en geleiden zodat het in de bodem kan infiltreren in plaats van snel af te voeren.",
-    "en": "Constructing shallow channels or trenches that direct and retain runoff so that water can infiltrate into the soil instead of flowing away rapidly."
+    "en": "Infiltration channels",
+    "nl": "Infiltratiegeulen"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterStorage",
     "prefLabel": {
-      "nl": "Wateropslag",
-      "en": "Water storage"
+      "en": "Water storage",
+      "nl": "Wateropslag"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

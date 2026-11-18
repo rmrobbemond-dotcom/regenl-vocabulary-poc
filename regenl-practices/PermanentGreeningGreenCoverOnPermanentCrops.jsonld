@@ -2,26 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGreeningGreenCoverOnPermanentCrops",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Permanente groenbedekking bij meerjarige teelten",
-    "en": "Permanent greening / green cover on permanent crops"
+    "en": "Permanent greening / green cover on permanent crops",
+    "nl": "Permanente groenbedekking bij meerjarige teelten"
   },
   "definition": {
-    "nl": "Het gedurende een groot deel van het jaar behouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen of onder de gewasrijen.",
-    "en": "Maintaining living ground vegetation in perennial crop systems, such as orchards or vineyards, between rows or beneath plants for much of the year."
-  },
-  "changeNote": {
-    "nl": [
-      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
-    ]
+    "en": "vegetative cover in orchards and vineyard. This can be between the rows, under the tree crowns or with other patterns",
+    "nl": "Het aanhouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen de rijen of onder de bomen."
   },
   "editorialNote": {
-    "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
-    ]
-  },
-  "historyNote": {
     "nl": [
-      "Voorgaande PoC-definitie (nl): Het aanhouden van levende bodembedekking in meerjarige teelten, zoals boomgaarden of wijngaarden, tussen de rijen of onder de bomen."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [
@@ -30,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops",
     "prefLabel": {
-      "nl": "Gewasdiversificatie met bodembedekkers",
-      "en": "Crop diversification -Cover crops:"
+      "en": "Crop diversification -Cover crops:",
+      "nl": "Gewasdiversificatie met bodembedekkers"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

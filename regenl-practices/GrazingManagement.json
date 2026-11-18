@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingManagement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Beweidingsbeheer",
-    "en": "grazing management"
-  },
-  "definition": {
-    "nl": "Het plannen van veebezetting, graasperioden, rusttijden en perceelindeling om diervoeding en de conditie van het grasland in balans te houden.",
-    "en": "Planning stocking density, grazing periods, rest periods and pasture allocation to balance animal feeding with grassland condition."
+    "en": "grazing management",
+    "nl": "Beweidingsbeheer"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -19,40 +15,26 @@
   ],
   "narrower": [
     {
-      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf1500HoursYear",
-      "prefLabel": {
-        "nl": "Verlengde weidegang: minimaal 1.500 uur per jaar",
-        "en": "Extended grazing time: minimum of 1500 hours/year"
-      }
-    },
-    {
-      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtendedGrazingTimeMinimumOf720HoursYearMaximumOf1500HoursPerYear",
-      "prefLabel": {
-        "nl": "Verlengde weidegang: 720–1.500 uur per jaar",
-        "en": "Extended grazing time: minimum of 720 hours/year (maximum of 1500 hours per year)"
-      }
-    },
-    {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrazingGeneral",
       "prefLabel": {
-        "nl": "Beweiding (algemeen)",
-        "en": "Grazing (general)"
+        "en": "Grazing (general)",
+        "nl": "Beweiding (algemeen)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
     "prefLabel": {
-      "nl": "Grasland en beweiding",
-      "en": "Grassland and grazing"
+      "en": "Grassland and grazing",
+      "nl": "Grasland en beweiding"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

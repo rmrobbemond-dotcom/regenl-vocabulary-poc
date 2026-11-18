@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PesticidesManagementPlan",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gewasbeschermingsplan",
-    "en": "pesticides management plan"
-  },
-  "definition": {
-    "nl": "Een vastgelegde strategie om plagen en ziekten te voorkomen, te monitoren en te beheersen, met criteria voor het eventueel inzetten van gewasbeschermingsmiddelen.",
-    "en": "A documented strategy for preventing, monitoring and controlling crop pests and diseases, including criteria for deciding when and how products may be used."
+    "en": "pesticides management plan",
+    "nl": "Gewasbeschermingsplan"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DiagnosisAndManagementPlansMeso",
     "prefLabel": {
-      "nl": "Diagnose- en beheerplannen",
-      "en": "diagnosis and management plans"
+      "en": "diagnosis and management plans",
+      "nl": "Diagnose- en beheerplannen"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

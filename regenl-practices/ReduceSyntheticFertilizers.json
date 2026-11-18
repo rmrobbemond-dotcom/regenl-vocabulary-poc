@@ -2,21 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticFertilizers",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Kunstmestgebruik verminderen",
-    "en": "Reduce synthetic fertilizers"
-  },
-  "definition": {
-    "nl": "Het verminderen van industrieel vervaardigde minerale meststoffen via beter nutriëntenbeheer of vervanging door andere nutriëntenbronnen.",
-    "en": "Lowering applications of industrially manufactured mineral fertilisers through improved nutrient management or substitution with other nutrient sources."
-  },
-  "changeNote": {
-    "nl": [
-      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
-    ]
+    "en": "Reduce synthetic fertilizers",
+    "nl": "Kunstmestgebruik verminderen"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -26,24 +17,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfControlledReleaseOrOtherMitigatedFertilizersEnhancedEfficienyFertilizersReduceArtificialNFertilizersFoliarApplication",
       "prefLabel": {
-        "nl": "Gecontroleerd vrijkomende en efficiëntere meststoffen gebruiken",
-        "en": "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application"
+        "en": "Use of controlled release or other mitigated fertilizers/ enhanced efficieny fertilizers, Reduce artificial N fertilizers, Foliar application",
+        "nl": "Gecontroleerd vrijkomende en efficiëntere meststoffen gebruiken"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionLimitationOfSpecificFertilizers",
     "prefLabel": {
-      "nl": "Specifieke meststoffen verminderen of beperken",
-      "en": "Reduction/ limitation of specific  fertilizers"
+      "en": "Reduction/ limitation of specific  fertilizers",
+      "nl": "Specifieke meststoffen verminderen of beperken"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

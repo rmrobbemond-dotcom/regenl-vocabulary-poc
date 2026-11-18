@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterStorage",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Wateropslag",
-    "en": "Water storage"
-  },
-  "definition": {
-    "nl": "Het tijdelijk vasthouden van water in tanks, vijvers, bodems of aangelegde reservoirs voor later gebruik of gecontroleerde afgifte.",
-    "en": "Holding water temporarily in tanks, ponds, soils or constructed reservoirs for use or controlled release at a later time."
+    "en": "Water storage",
+    "nl": "Wateropslag"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,80 +17,80 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Ditches",
       "prefLabel": {
-        "nl": "Sloten",
-        "en": "Ditches"
+        "en": "Ditches",
+        "nl": "Sloten"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InfiltrationChannels",
       "prefLabel": {
-        "nl": "Infiltratiegeulen",
-        "en": "Infiltration channels"
+        "en": "Infiltration channels",
+        "nl": "Infiltratiegeulen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NaturalWaterHarvesting",
       "prefLabel": {
-        "nl": "Natuurlijke wateropvang",
-        "en": "Natural water harvesting"
+        "en": "Natural water harvesting",
+        "nl": "Natuurlijke wateropvang"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Pond",
       "prefLabel": {
-        "nl": "Poel",
-        "en": "Pond"
+        "en": "Pond",
+        "nl": "Poel"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RainfedSystem",
       "prefLabel": {
-        "nl": "Regenafhankelijk teeltsysteem",
-        "en": "Rainfed system"
+        "en": "Rainfed system",
+        "nl": "Regenafhankelijk teeltsysteem"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Swales",
       "prefLabel": {
-        "nl": "Wadi's en infiltratiegreppels",
-        "en": "Swales"
+        "en": "Swales",
+        "nl": "Wadi's en infiltratiegreppels"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterBuffers",
       "prefLabel": {
-        "nl": "Waterbuffers",
-        "en": "Water buffers"
+        "en": "Water buffers",
+        "nl": "Waterbuffers"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterFiltration",
       "prefLabel": {
-        "nl": "Waterfiltratie",
-        "en": "Water filtration"
+        "en": "Water filtration",
+        "nl": "Waterfiltratie"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterReservoirs",
       "prefLabel": {
-        "nl": "Waterreservoirs",
-        "en": "Water reservoirs"
+        "en": "Water reservoirs",
+        "nl": "Waterreservoirs"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
     "prefLabel": {
-      "nl": "Waterbeheer",
-      "en": "Water management"
+      "en": "Water management",
+      "nl": "Waterbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

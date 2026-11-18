@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CSASelfPickingOnFarmsShops",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gemeenschapslandbouw, zelfpluk en boerderijwinkels",
-    "en": "CSA, self-picking, on-farms shops"
-  },
-  "definition": {
-    "nl": "Vormen van rechtstreekse voedselvoorziening waarbij consumenten producten verkrijgen via gemeenschapslandbouw, zelfoogst of een winkel op het landbouwbedrijf.",
-    "en": "Farm-to-consumer arrangements in which customers obtain produce through community-supported agriculture, self-harvesting or a shop on the farm."
+    "en": "CSA, self-picking, on-farms shops",
+    "nl": "Gemeenschapslandbouw, zelfpluk en boerderijwinkels"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormsOfDirectFoodProvisioning",
     "prefLabel": {
-      "nl": "Vormen van directe voedselvoorziening",
-      "en": "Forms of direct food provisioning"
+      "en": "Forms of direct food provisioning",
+      "nl": "Vormen van directe voedselvoorziening"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

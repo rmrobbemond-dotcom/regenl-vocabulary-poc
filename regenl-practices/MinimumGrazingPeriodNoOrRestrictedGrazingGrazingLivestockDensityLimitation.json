@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimumGrazingPeriodNoOrRestrictedGrazingGrazingLivestockDensityLimitation",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Minimale beweidingsperiode of beperkingen aan beweiding en veebezetting",
-    "en": "minimum grazing period; no or restricted grazing; grazing livestock density limitation"
-  },
-  "definition": {
-    "nl": "Het beperken van graasduur, graasmomenten of veebezetting op aangewezen grond om vegetatie, bodem of biodiversiteit volgens bepaalde beheerregels te beschermen.",
-    "en": "Restricting grazing duration, timing or livestock density on designated land to protect vegetation, soils or biodiversity under defined management rules."
+    "en": "minimum grazing period; no or restricted grazing; grazing livestock density limitation",
+    "nl": "Minimale beweidingsperiode of beperkingen aan beweiding en veebezetting"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionInGrazingIntensity15LUHaForInstanceForVoluntaryEcoPracticePackages",
     "prefLabel": {
-      "nl": "Verlagen van beweidingsintensiteit (bijvoorbeeld 1,5 GVE per ha)",
-      "en": "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages"
+      "en": "Reduction in grazing intensity (1.5 LU/ha), for instance for voluntary eco practice packages",
+      "nl": "Verlagen van beweidingsintensiteit (bijvoorbeeld 1,5 GVE per ha)"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RegenerativeCapacityClassificationElement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Regeneratief vermogen",
-    "en": "regenerative capacity"
-  },
-  "definition": {
-    "nl": "Het vermogen van een agrarische bodem of productiesysteem om functies te herstellen en ecologische processen na verstoring te behouden of te verbeteren.",
-    "en": "The capacity of an agricultural soil or production system to recover functions and maintain or improve ecological processes after disturbance."
+    "en": "regenerative capacity",
+    "nl": "Regeneratief vermogen"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FormalLearning",
       "prefLabel": {
-        "nl": "Formeel leren",
-        "en": "formal learning"
+        "en": "formal learning",
+        "nl": "Formeel leren"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InformalLearning",
       "prefLabel": {
-        "nl": "Informeel leren",
-        "en": "Informal learning"
+        "en": "Informal learning",
+        "nl": "Informeel leren"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PeopleManagement",
     "prefLabel": {
-      "nl": "Personeelsbeheer",
-      "en": "people management"
+      "en": "people management",
+      "nl": "Personeelsbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

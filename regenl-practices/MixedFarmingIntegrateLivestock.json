@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MixedFarmingIntegrateLivestock",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gemengd bedrijf met geïntegreerde veehouderij",
-    "en": "Mixed farming / integrate livestock"
-  },
-  "definition": {
-    "nl": "Het combineren van akkerbouw of tuinbouw met veehouderij op één bedrijf zodat voer, mest en gewasresten onderling kunnen worden benut.",
-    "en": "Combining arable or horticultural crops with livestock on one farm so that resources such as feed, manure and crop residues can be cycled internally."
+    "en": "Mixed farming / integrate livestock",
+    "nl": "Gemengd bedrijf met geïntegreerde veehouderij"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ResourceSharingCollaborationBetweenArableProductionAndDairy",
     "prefLabel": {
-      "nl": "Delen van middelen tussen akkerbouw en melkveehouderij",
-      "en": "resource sharing, collaboration between arable production and dairy"
+      "en": "resource sharing, collaboration between arable production and dairy",
+      "nl": "Delen van middelen tussen akkerbouw en melkveehouderij"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

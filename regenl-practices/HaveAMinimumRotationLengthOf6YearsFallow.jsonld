@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/HaveAMinimumRotationLengthOf6YearsFallow",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Vruchtwisseling van minimaal zes jaar of braaklegging",
-    "en": "have a minimum rotation length of 6 years/ fallow"
-  },
-  "definition": {
-    "nl": "Het hanteren van een vruchtwisseling van minimaal zes jaar voordat het uitgangsgewas terugkeert, eventueel met een braak- of extensieve fase.",
-    "en": "Using a crop rotation lasting at least six years before the starting crop recurs, potentially including a fallow or low-intensity phase."
+    "en": "have a minimum rotation length of 6 years/ fallow",
+    "nl": "Vruchtwisseling van minimaal zes jaar of braaklegging"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations",
     "prefLabel": {
-      "nl": "Ruime vruchtwisseling",
-      "en": "Extensive crop rotations"
+      "en": "Extensive crop rotations",
+      "nl": "Ruime vruchtwisseling"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

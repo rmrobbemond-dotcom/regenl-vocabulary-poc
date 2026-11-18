@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IndividualAndCollectiveFormsOfCostReducingMeasures",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Individuele en collectieve kostenbesparende maatregelen",
-    "en": "Individual and collective forms of cost reducing measures"
-  },
-  "definition": {
-    "nl": "Het verlagen van bedrijfs- of investeringskosten door eigen efficiëntiemaatregelen of gezamenlijke inkoop, machines en voorzieningen met andere bedrijven.",
-    "en": "Reducing farm operating or investment costs through individual efficiency measures or shared purchasing, machinery and infrastructure with other farms."
+    "en": "Individual and collective forms of cost reducing measures",
+    "nl": "Individuele en collectieve kostenbesparende maatregelen"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InputReductionOfEGAgrochemicalsAndFeed",
       "prefLabel": {
-        "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer",
-        "en": "Input reduction of e.g. agrochemicals and feed"
+        "en": "Input reduction of e.g. agrochemicals and feed",
+        "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SharedUseAndOwnershipEGOfMachineryLandLabourEGMutualHelpCapital",
       "prefLabel": {
-        "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal",
-        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)"
+        "en": "Shared use and ownership (e.g. of machinery, land, labour (e.g. mutual help, capital)",
+        "nl": "Gezamenlijk gebruik en eigendom van machines, grond, arbeid of kapitaal"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "nl": "Sociaal-economisch bedrijfsbeheer",
-      "en": "Farm socio-economic management"
+      "en": "Farm socio-economic management",
+      "nl": "Sociaal-economisch bedrijfsbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

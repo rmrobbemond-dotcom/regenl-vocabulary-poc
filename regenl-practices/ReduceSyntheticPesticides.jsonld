@@ -2,21 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceSyntheticPesticides",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gebruik van synthetische gewasbeschermingsmiddelen verminderen",
-    "en": "Reduce synthetic pesticides"
-  },
-  "definition": {
-    "nl": "Het verminderen van synthetisch-chemische gewasbeschermingsmiddelen door preventie, monitoring en niet-chemische gewasbescherming te versterken.",
-    "en": "Reducing applications of synthetic chemical pesticides by strengthening prevention, monitoring and non-chemical crop protection measures."
-  },
-  "changeNote": {
-    "nl": [
-      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
-    ]
+    "en": "Reduce synthetic pesticides",
+    "nl": "Gebruik van synthetische gewasbeschermingsmiddelen verminderen"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -25,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "nl": "Gewasbeschermingsmiddelengebruik verminderen",
-      "en": "Reduction on the use of plant protection products"
+      "en": "Reduction on the use of plant protection products",
+      "nl": "Gewasbeschermingsmiddelengebruik verminderen"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

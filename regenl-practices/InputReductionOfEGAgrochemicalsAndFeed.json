@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/InputReductionOfEGAgrochemicalsAndFeed",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer",
-    "en": "Input reduction of e.g. agrochemicals and feed"
-  },
-  "definition": {
-    "nl": "Het verminderen van hoeveelheden of afhankelijkheid van ingekochte inputs, zoals gewasbeschermingsmiddelen en voer, met behoud van aandacht voor productie- en dierbehoeften.",
-    "en": "Lowering the quantity or dependency on purchased external inputs, such as agrochemicals and feed, while managing production and animal needs."
+    "en": "Input reduction of e.g. agrochemicals and feed",
+    "nl": "Vermindering van externe inputs zoals gewasbeschermingsmiddelen en voer"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IndividualAndCollectiveFormsOfCostReducingMeasures",
     "prefLabel": {
-      "nl": "Individuele en collectieve kostenbesparende maatregelen",
-      "en": "Individual and collective forms of cost reducing measures"
+      "en": "Individual and collective forms of cost reducing measures",
+      "nl": "Individuele en collectieve kostenbesparende maatregelen"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

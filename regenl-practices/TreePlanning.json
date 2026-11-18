@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreePlanning",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Bomen aanplanten en beheren",
-    "en": "tree planning"
-  },
-  "definition": {
-    "nl": "Het plannen waar en hoe bomen op een landbouwbedrijf worden aangeplant en beheerd, inclusief soortkeuze, plantafstand, onderhoud en beoogde functies.",
-    "en": "Planning where and how trees will be planted and managed on a farm, including species choice, spacing, maintenance and intended functions."
+    "en": "tree planning",
+    "nl": "Bomen aanplanten en beheren"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,66 +17,66 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Agroforestry",
       "prefLabel": {
-        "nl": "Agroforestry",
-        "en": "Agroforestry"
+        "en": "Agroforestry",
+        "nl": "Agroforestry"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FoodForest",
       "prefLabel": {
-        "nl": "Voedselbos",
-        "en": "Food forest"
+        "en": "Food forest",
+        "nl": "Voedselbos"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Permaculture",
       "prefLabel": {
-        "nl": "Permacultuur",
-        "en": "Permaculture"
+        "en": "Permaculture",
+        "nl": "Permacultuur"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantingShadeTrees",
       "prefLabel": {
-        "nl": "Schaduwbomen aanplanten",
-        "en": "Planting shade trees"
+        "en": "Planting shade trees",
+        "nl": "Schaduwbomen aanplanten"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvopasture",
       "prefLabel": {
-        "nl": "Bomen gecombineerd met beweiding",
-        "en": "Silvopasture"
+        "en": "Silvopasture",
+        "nl": "Bomen gecombineerd met beweiding"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SyntropicFarming",
       "prefLabel": {
-        "nl": "Syntropische landbouw",
-        "en": "Syntropic farming"
+        "en": "Syntropic farming",
+        "nl": "Syntropische landbouw"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Silvoarable",
       "prefLabel": {
-        "nl": "Bomen gecombineerd met akkerbouw",
-        "en": "Silvoarable"
+        "en": "Silvoarable",
+        "nl": "Bomen gecombineerd met akkerbouw"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AgroforestryAndPerennialIntegratedSystems",
     "prefLabel": {
-      "nl": "Agroforestry en systemen met meerjarige gewassen",
-      "en": "Agroforestry and Perennial-Integrated Systems -"
+      "en": "Agroforestry and Perennial-Integrated Systems -",
+      "nl": "Agroforestry en systemen met meerjarige gewassen"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

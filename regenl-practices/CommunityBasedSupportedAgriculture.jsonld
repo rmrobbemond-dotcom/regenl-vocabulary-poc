@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityBasedSupportedAgriculture",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gemeenschapslandbouw (CSA)",
-    "en": "Community based/supported agriculture"
-  },
-  "definition": {
-    "nl": "Een voedselproductie- en afzetsysteem waarin consumenten zich direct aan een bedrijf verbinden, vaak via abonnement of vooruitbetaling en soms door risico en oogst te delen.",
-    "en": "A food production and distribution arrangement in which consumers make a direct commitment to a farm, often through subscriptions or prepayment and sometimes sharing risks and harvests."
+    "en": "Community based/supported agriculture",
+    "nl": "Gemeenschapslandbouw (CSA)"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeDeepeningIncreasingAddedValueOfProduct",
     "prefLabel": {
-      "nl": "Inkomensverdieping door hogere productwaarde",
-      "en": "Income deepening -increasing added value of product"
+      "en": "Income deepening -increasing added value of product",
+      "nl": "Inkomensverdieping door hogere productwaarde"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

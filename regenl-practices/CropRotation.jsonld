@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropRotation",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Vruchtwisseling",
-    "en": "Crop rotation"
-  },
-  "definition": {
-    "nl": "Het achtereenvolgens telen van verschillende gewassen of gewasgroepen op hetzelfde perceel volgens een gepland meerjarig bouwplan.",
-    "en": "Growing different crop species or crop groups on the same field in a planned temporal sequence across successive growing seasons."
+    "en": "Crop rotation",
+    "nl": "Vruchtwisseling"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ExtensiveCropRotations",
     "prefLabel": {
-      "nl": "Ruime vruchtwisseling",
-      "en": "Extensive crop rotations"
+      "en": "Extensive crop rotations",
+      "nl": "Ruime vruchtwisseling"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

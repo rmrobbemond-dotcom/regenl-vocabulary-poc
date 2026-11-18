@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAndMachineryUse",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Bodem en machinegebruik",
-    "en": "Soil and machinery use"
-  },
-  "definition": {
-    "nl": "Het afstemmen van bodembeheer op machinekeuze, werktijdstip en rijbewegingen om schade aan bodemstructuur te beperken en veldwerk mogelijk te maken.",
-    "en": "Coordinating soil management with the selection, timing and traffic of farm machinery to limit damage to soil structure and support field operations."
+    "en": "Soil and machinery use",
+    "nl": "Bodem en machinegebruik"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,80 +17,80 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ApplicationMachinesWithLowerAxelweight10TonsAxle",
       "prefLabel": {
-        "nl": "Machines met lagere aslast (minder dan 10 ton per as)",
-        "en": "Application machines with lower axelweight (<10 tons/axle)"
+        "en": "Application machines with lower axelweight (<10 tons/axle)",
+        "nl": "Machines met lagere aslast (minder dan 10 ton per as)"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ControlledTrafficLanes",
       "prefLabel": {
-        "nl": "Vaste rijpaden",
-        "en": "Controlled traffic lanes"
+        "en": "Controlled traffic lanes",
+        "nl": "Vaste rijpaden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ControlledTrafficLanesPerSeason",
       "prefLabel": {
-        "nl": "Seizoensgebonden vaste rijpaden",
-        "en": "Controlled traffic lanes per season"
+        "en": "Controlled traffic lanes per season",
+        "nl": "Seizoensgebonden vaste rijpaden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DragHoseManureSpreading",
       "prefLabel": {
-        "nl": "Mest uitrijden met sleepslangen",
-        "en": "Drag hose manure spreading"
+        "en": "Drag hose manure spreading",
+        "nl": "Mest uitrijden met sleepslangen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeTractorUse",
       "prefLabel": {
-        "nl": "Tractorinzet minimaliseren",
-        "en": "Minimize tractor use"
+        "en": "Minimize tractor use",
+        "nl": "Tractorinzet minimaliseren"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NoHeavyMachinery",
       "prefLabel": {
-        "nl": "Geen zware machines",
-        "en": "No heavy machinery"
+        "en": "No heavy machinery",
+        "nl": "Geen zware machines"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OnlyUseMachineryOnDryPeriods",
       "prefLabel": {
-        "nl": "Machines alleen inzetten in droge perioden",
-        "en": "only use machinery on dry periods"
+        "en": "only use machinery on dry periods",
+        "nl": "Machines alleen inzetten in droge perioden"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHeavyMachinery",
       "prefLabel": {
-        "nl": "Inzet van zware machines verminderen",
-        "en": "Reduce heavy machinery"
+        "en": "Reduce heavy machinery",
+        "nl": "Inzet van zware machines verminderen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceMechanizationManualLowTechFarming",
       "prefLabel": {
-        "nl": "Mechanisatie verminderen en handmatig of laagtechnologisch werken",
-        "en": "Reduce mechanization, Manual/low tech farming"
+        "en": "Reduce mechanization, Manual/low tech farming",
+        "nl": "Mechanisatie verminderen en handmatig of laagtechnologisch werken"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilManagement",
     "prefLabel": {
-      "nl": "Bodembeheer",
-      "en": "Soil management"
+      "en": "Soil management",
+      "nl": "Bodembeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

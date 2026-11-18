@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeWaterUse",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Watergebruik minimaliseren",
-    "en": "Minimize water use"
-  },
-  "definition": {
-    "nl": "Het verminderen van het totale waterverbruik van bedrijfsactiviteiten of teelten door efficiëntie, hergebruik of vraaggericht beheer.",
-    "en": "Reducing the total water consumed by farm operations or crops through efficiency, reuse or demand management."
+    "en": "Minimize water use",
+    "nl": "Watergebruik minimaliseren"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,45 +17,45 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterSavingIrrigation",
       "prefLabel": {
-        "nl": "Waterbesparende irrigatie",
-        "en": "water-saving irrigation"
+        "en": "water-saving irrigation",
+        "nl": "Waterbesparende irrigatie"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/DryFarming",
       "prefLabel": {
-        "nl": "Droge teelt zonder irrigatie",
-        "en": "Dry farming"
+        "en": "Dry farming",
+        "nl": "Droge teelt zonder irrigatie"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MinimizeIrrigation",
       "prefLabel": {
-        "nl": "Irrigatie minimaliseren",
-        "en": "Minimize irrigation"
+        "en": "Minimize irrigation",
+        "nl": "Irrigatie minimaliseren"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceWaterUse",
       "prefLabel": {
-        "nl": "Watergebruik verminderen",
-        "en": "Reduce water use"
+        "en": "Reduce water use",
+        "nl": "Watergebruik verminderen"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
     "prefLabel": {
-      "nl": "Waterbeheer",
-      "en": "Water management"
+      "en": "Water management",
+      "nl": "Waterbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

@@ -2,26 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Gewasdiversificatie met bodembedekkers",
-    "en": "Crop diversification -Cover crops:"
+    "en": "Crop diversification -Cover crops:",
+    "nl": "Gewasdiversificatie met bodembedekkers"
   },
   "definition": {
-    "nl": "Het vergroten van de soortenvariatie in het teeltsysteem door bodembedekkers tussen of naast hoofdgewassen te telen voor bodembedekking en ecologische functies.",
-    "en": "Increasing the range of plant species in the cropping system by introducing cover crops between or alongside main crops for soil cover and ecological functions."
-  },
-  "changeNote": {
-    "nl": [
-      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch meso. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
-    ]
+    "en": "the inclusion of plants grown for agronomic or environmental purposes in addition to the main crop on a land management unit",
+    "nl": "Het telen van een aanvullend gewas voor landbouwkundige of milieukundige doeleinden naast of tussen de hoofdteelten."
   },
   "editorialNote": {
-    "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
-    ]
-  },
-  "historyNote": {
     "nl": [
-      "Voorgaande PoC-definitie (nl): Het telen van een aanvullend gewas voor landbouwkundige of milieukundige doeleinden naast of tussen de hoofdteelten."
+      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
     ]
   },
   "notation": [
@@ -31,52 +21,52 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CatchCrops",
       "prefLabel": {
-        "nl": "Vanggewassen",
-        "en": "Catch crops"
+        "en": "Catch crops",
+        "nl": "Vanggewassen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/MultispeciesCoverCrops",
       "prefLabel": {
-        "nl": "Bodembedekkers met meerdere soorten",
-        "en": "Multispecies cover crops"
+        "en": "Multispecies cover crops",
+        "nl": "Bodembedekkers met meerdere soorten"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PermanentGreeningGreenCoverOnPermanentCrops",
       "prefLabel": {
-        "nl": "Permanente groenbedekking bij meerjarige teelten",
-        "en": "Permanent greening / green cover on permanent crops"
+        "en": "Permanent greening / green cover on permanent crops",
+        "nl": "Permanente groenbedekking bij meerjarige teelten"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SummerCoverCrops",
       "prefLabel": {
-        "nl": "Zomerse bodembedekkers",
-        "en": "Summer cover crops"
+        "en": "Summer cover crops",
+        "nl": "Zomerse bodembedekkers"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WinterCoverCrops",
       "prefLabel": {
-        "nl": "Winterse bodembedekkers",
-        "en": "Winter cover crops"
+        "en": "Winter cover crops",
+        "nl": "Winterse bodembedekkers"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropManagament",
     "prefLabel": {
-      "nl": "Gewasbeheer",
-      "en": "Crop managament"
+      "en": "Crop managament",
+      "nl": "Gewasbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

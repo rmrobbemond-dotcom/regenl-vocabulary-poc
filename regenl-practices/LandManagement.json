@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LandManagement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Landbeheer",
-    "en": "Land management"
-  },
-  "definition": {
-    "nl": "Het plannen en uitvoeren van de inrichting, het gebruik en het onderhoud van landbouwgrond, waaronder percelen, randen, bodem, water en landschapselementen.",
-    "en": "Planning and implementing how agricultural land is allocated, used and maintained, including fields, margins, soil, water and landscape features."
+    "en": "Land management",
+    "nl": "Landbeheer"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,22 +17,22 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
       "prefLabel": {
-        "nl": "Waterbeheer",
-        "en": "Water management"
+        "en": "Water management",
+        "nl": "Waterbeheer"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/AgroforestryAndPerennialIntegratedSystems",
       "prefLabel": {
-        "nl": "Agroforestry en systemen met meerjarige gewassen",
-        "en": "Agroforestry and Perennial-Integrated Systems -"
+        "en": "Agroforestry and Perennial-Integrated Systems -",
+        "nl": "Agroforestry en systemen met meerjarige gewassen"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WildlifeProtection",
       "prefLabel": {
-        "nl": "Bescherming van wilde dieren",
-        "en": "wildlife protection"
+        "en": "wildlife protection",
+        "nl": "Bescherming van wilde dieren"
       }
     }
   ],
@@ -44,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],
@@ -58,8 +54,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

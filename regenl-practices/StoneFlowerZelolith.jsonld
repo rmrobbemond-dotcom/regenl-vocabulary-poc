@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/StoneFlowerZelolith",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Steenmeel en zeoliet",
-    "en": "Stone flower, Zelolith"
-  },
-  "definition": {
-    "nl": "Het toedienen van fijngemalen gesteentemeel of zeoliet aan de bodem om mineralen aan te voeren of nutriëntenuitwisseling en bodemchemie te beïnvloeden.",
-    "en": "Applying finely ground mineral rock powders or zeolite materials to soil to supply minerals or influence nutrient exchange and soil chemistry."
+    "en": "Stone flower, Zelolith",
+    "nl": "Steenmeel en zeoliet"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
     "prefLabel": {
-      "nl": "Bodemverbeteraars",
-      "en": "Soil amendments"
+      "en": "Soil amendments",
+      "nl": "Bodemverbeteraars"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

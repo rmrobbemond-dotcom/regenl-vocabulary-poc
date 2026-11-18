@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningMeso",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Inkomensverbreding",
-    "en": "Income broadening"
-  },
-  "definition": {
-    "nl": "Het spreiden van bedrijfsinkomsten door naast de primaire landbouwproductie extra producten, diensten of activiteiten te ontwikkelen.",
-    "en": "Diversifying farm revenue by developing additional products, services or activities beyond primary agricultural production."
+    "en": "Income broadening",
+    "nl": "Inkomensverbreding"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/IncomeBroadeningMicro",
       "prefLabel": {
-        "nl": "Inkomensverbreding",
-        "en": "Income broadening"
+        "en": "Income broadening",
+        "nl": "Inkomensverbreding"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ProvideCareFarming",
       "prefLabel": {
-        "nl": "Zorglandbouw aanbieden",
-        "en": "Provide care farming"
+        "en": "Provide care farming",
+        "nl": "Zorglandbouw aanbieden"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
     "prefLabel": {
-      "nl": "Sociaal-economisch bedrijfsbeheer",
-      "en": "Farm socio-economic management"
+      "en": "Farm socio-economic management",
+      "nl": "Sociaal-economisch bedrijfsbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WoodBioplastics",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Hout en bioplastics",
-    "en": "wood, bioplastics"
-  },
-  "definition": {
-    "nl": "Het produceren of gebruiken van houtgebaseerde materialen en bioplastics die geheel of gedeeltelijk uit hernieuwbare biomassa bestaan als alternatief voor fossiele materialen.",
-    "en": "Producing or using wood-based materials and bio-based plastics derived partly or wholly from renewable biomass as alternatives to fossil-based materials."
+    "en": "wood, bioplastics",
+    "nl": "Hout en bioplastics"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/UseOfNaturalRenewableResources",
     "prefLabel": {
-      "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken",
-      "en": "Use of natural/renewable resources"
+      "en": "Use of natural/renewable resources",
+      "nl": "Natuurlijke en hernieuwbare hulpbronnen gebruiken"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

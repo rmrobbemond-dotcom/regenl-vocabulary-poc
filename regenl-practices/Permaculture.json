@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Permaculture",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Permacultuur",
-    "en": "Permaculture"
-  },
-  "definition": {
-    "nl": "Een ontwerpbenadering voor productieve landschappen die ecologische relaties, diversiteit en kringlopen benut om gewassen, dieren, water en menselijke activiteiten samenhangend in te richten.",
-    "en": "A design approach for productive landscapes that uses ecological relationships, diversity and resource cycling to organise crops, animals, water and human activities."
+    "en": "Permaculture",
+    "nl": "Permacultuur"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -20,16 +16,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/TreePlanning",
     "prefLabel": {
-      "nl": "Bomen aanplanten en beheren",
-      "en": "tree planning"
+      "en": "tree planning",
+      "nl": "Bomen aanplanten en beheren"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

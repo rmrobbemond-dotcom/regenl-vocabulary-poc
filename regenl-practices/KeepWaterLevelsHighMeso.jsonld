@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMeso",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Hoge waterstanden handhaven",
-    "en": "keep water levels high"
-  },
-  "definition": {
-    "nl": "Het sturen van waterstanden op landbouwgrond naar een relatief hoog streefpeil om ontwatering of bodemdaling te beperken en waar passend natte omstandigheden te ondersteunen.",
-    "en": "Managing farmland water levels at a relatively high target to limit drainage or subsidence and support wet conditions where appropriate."
+    "en": "keep water levels high",
+    "nl": "Hoge waterstanden handhaven"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,31 +17,31 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/KeepWaterLevelsHighMicro",
       "prefLabel": {
-        "nl": "Hoge waterstanden handhaven",
-        "en": "keep water levels high"
+        "en": "keep water levels high",
+        "nl": "Hoge waterstanden handhaven"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Paludicultuur",
       "prefLabel": {
-        "nl": "Paludicultuur (natte teelt)",
-        "en": "paludicultuur"
+        "en": "paludicultuur",
+        "nl": "Paludicultuur (natte teelt)"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/WaterManagement",
     "prefLabel": {
-      "nl": "Waterbeheer",
-      "en": "Water management"
+      "en": "Water management",
+      "nl": "Waterbeheer"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],

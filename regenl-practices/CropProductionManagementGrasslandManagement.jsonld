@@ -2,16 +2,12 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagementGrasslandManagement",
   "type": "Concept",
   "prefLabel": {
-    "nl": "Graslandbeheer binnen gewasproductie",
-    "en": "Crop production management : grassland management"
-  },
-  "definition": {
-    "nl": "Het beheren van grasland als landbouwgewas via keuzes over soorten, bemesting, maaien, beweiden en vernieuwing.",
-    "en": "Managing grassland as an agricultural crop through choices about species, fertilisation, cutting, grazing and renewal."
+    "en": "Crop production management : grassland management",
+    "nl": "Graslandbeheer binnen gewasproductie"
   },
   "editorialNote": {
     "en": [
-      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+      "Definition pending scientific review; no generic placeholder has been inserted."
     ]
   },
   "notation": [
@@ -21,8 +17,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/GrasslandAndGrazing",
       "prefLabel": {
-        "nl": "Grasland en beweiding",
-        "en": "Grassland and grazing"
+        "en": "Grassland and grazing",
+        "nl": "Grasland en beweiding"
       }
     }
   ],
@@ -30,8 +26,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],
@@ -44,8 +40,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
-        "en": "ReGeNL – regenerative practices (PoC)"
+        "en": "ReGeNL – regenerative practices (PoC)",
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
       }
     }
   ],
