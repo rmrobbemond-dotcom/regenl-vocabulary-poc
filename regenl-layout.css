@@ -1,5 +1,5 @@
 
-/* ReGeNL detail redesign v4 — replaces previous regenl-layout.css */
+/* ReGeNL detail redesign v5 — fixes raw metadata text overlap */
 .main-block {min-width:0 !important; overflow-x:hidden !important;}
 .main-block .regenl-detail-layout {
   display:grid !important; grid-template-columns:minmax(0,47%) minmax(0,1fr);
@@ -47,9 +47,66 @@
 .regenl-technical .regenl-uri {margin-top:8px;font-size:12px;color:#5f726d;overflow-wrap:anywhere;}
 .regenl-technical .regenl-uri button {margin-left:8px;}
 .regenl-technical .regenl-tech-note {font-size:12px;color:#5f726d;}
-.main-block .regenl-detail-layout > .markdown {grid-column:1/-1;grid-row:6;display:none !important;
-  min-width:0;max-width:100%;overflow-wrap:anywhere;}
-.main-block .regenl-detail-layout.regenl-show-raw > .markdown {display:block !important;}
+/* Technical metadata: keep the original SkoHub markup in normal document flow.
+   The original Markdown may contain layout styles that cause overlapping text
+   after it is moved into the ReGeNL grid. Isolate and normalize that section. */
+.main-block .regenl-detail-layout > .markdown {
+  grid-column:1/-1;grid-row:6;
+  display:none !important;
+  box-sizing:border-box !important;
+  min-width:0 !important;max-width:100% !important;
+  width:100% !important;
+  height:auto !important;min-height:0 !important;
+  position:relative !important;
+  overflow:visible !important;overflow-wrap:anywhere !important;
+  margin:0 !important;padding:14px 0 10px !important;
+  border-top:1px solid #e4eae8;
+}
+.main-block .regenl-detail-layout.regenl-show-raw > .markdown {
+  display:flow-root !important;
+}
+/* Ensure every metadata block contributes to the height of its container.
+   This prevents headings and descriptions from being painted on top of each other. */
+.main-block .regenl-detail-layout > .markdown *,
+.main-block .regenl-detail-layout > .markdown *::before,
+.main-block .regenl-detail-layout > .markdown *::after {
+  box-sizing:border-box !important;
+  position:static !important;
+  float:none !important;
+  transform:none !important;
+  max-width:100% !important;
+}
+.main-block .regenl-detail-layout > .markdown > * {
+  display:block !important;
+  width:auto !important;
+  height:auto !important;
+  min-height:0 !important;
+  margin:0 0 14px !important;
+}
+.main-block .regenl-detail-layout > .markdown h1,
+.main-block .regenl-detail-layout > .markdown h2,
+.main-block .regenl-detail-layout > .markdown h3,
+.main-block .regenl-detail-layout > .markdown h4 {
+  clear:both !important;
+  line-height:1.4 !important;
+  height:auto !important;
+  margin:18px 0 8px !important;
+}
+.main-block .regenl-detail-layout > .markdown p,
+.main-block .regenl-detail-layout > .markdown li,
+.main-block .regenl-detail-layout > .markdown dd,
+.main-block .regenl-detail-layout > .markdown dt {
+  line-height:1.55 !important;
+  height:auto !important;
+  white-space:normal !important;
+  overflow-wrap:anywhere !important;
+  margin-bottom:8px !important;
+}
+.main-block .regenl-detail-layout > .markdown a,
+.main-block .regenl-detail-layout > .markdown code {
+  overflow-wrap:anywhere !important;
+  word-break:break-word !important;
+}
 .main-block .regenl-detail-layout > .conceptURI {display:none !important;}
 .main-block .regenl-detail-layout > .json-png {grid-column:1/-1;grid-row:7;}
 /* Hide an obsolete injected v3 caption if left over by a legacy script */
