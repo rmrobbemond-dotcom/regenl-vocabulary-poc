@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/PlantProtection",
   "type": "Concept",
   "prefLabel": {
-    "en": "plant protection",
-    "nl": "Gewasbescherming"
+    "nl": "Gewasbescherming",
+    "en": "plant protection"
+  },
+  "definition": {
+    "nl": "Het voorkomen, monitoren en beheersen van onkruid, plagen en ziekten om schade aan geteelde planten te beperken.",
+    "en": "The prevention, monitoring and management of weeds, pests and diseases to limit damage to cultivated plants."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -17,38 +21,38 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/NonChemicalControlWeedsPestsAndDiseases",
       "prefLabel": {
-        "en": "Non-chemical  control- weeds, pests and diseases",
-        "nl": "Niet-chemische beheersing van onkruid, plagen en ziekten"
+        "nl": "Niet-chemische beheersing van onkruid, plagen en ziekten",
+        "en": "Non-chemical  control- weeds, pests and diseases"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/LimitationOnTheUseOfPlantProtectionProducts",
       "prefLabel": {
-        "en": "Limitation on the use of plant protection products",
-        "nl": "Beperking van gewasbeschermingsmiddelen"
+        "nl": "Beperking van gewasbeschermingsmiddelen",
+        "en": "Limitation on the use of plant protection products"
       }
     },
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts",
       "prefLabel": {
-        "en": "Reduction on the use of plant protection products",
-        "nl": "Gewasbeschermingsmiddelengebruik verminderen"
+        "nl": "Gewasbeschermingsmiddelengebruik verminderen",
+        "en": "Reduction on the use of plant protection products"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropProductionManagement",
     "prefLabel": {
-      "en": "Crop Production Management",
-      "nl": "Gewasproductiebeheer"
+      "nl": "Gewasproductiebeheer",
+      "en": "Crop Production Management"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

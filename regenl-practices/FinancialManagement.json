@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FinancialManagement",
   "type": "Concept",
   "prefLabel": {
-    "en": "Financial management",
-    "nl": "Financieel beheer"
+    "nl": "Financieel beheer",
+    "en": "Financial management"
+  },
+  "definition": {
+    "nl": "Het plannen, vastleggen en beheersen van inkomsten, uitgaven, investeringen, liquiditeit en financiële risico's van het landbouwbedrijf.",
+    "en": "Planning, recording and controlling farm income, expenses, investments, cash flow and financial risks to support business continuity."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -17,8 +21,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/FarmSocioEconomicManagement",
       "prefLabel": {
-        "en": "Farm socio-economic management",
-        "nl": "Sociaal-economisch bedrijfsbeheer"
+        "nl": "Sociaal-economisch bedrijfsbeheer",
+        "en": "Farm socio-economic management"
       }
     }
   ],
@@ -26,8 +30,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
@@ -40,8 +44,8 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

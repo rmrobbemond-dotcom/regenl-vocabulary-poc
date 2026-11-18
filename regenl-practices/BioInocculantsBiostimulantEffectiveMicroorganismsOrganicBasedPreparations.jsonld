@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BioInocculantsBiostimulantEffectiveMicroorganismsOrganicBasedPreparations",
   "type": "Concept",
   "prefLabel": {
-    "en": "Bio inocculants; Biostimulant; Effective microorganisms; Organic-based preparations",
-    "nl": "Microbiële inoculanten, biostimulanten en organische preparaten"
+    "nl": "Microbiële inoculanten, biostimulanten en organische preparaten",
+    "en": "Bio inocculants; Biostimulant; Effective microorganisms; Organic-based preparations"
+  },
+  "definition": {
+    "nl": "Het toedienen van microbiële inoculanten, biostimulanten of organische preparaten om nutriëntenbeschikbaarheid, plantengroei, wortelontwikkeling of biologische bodemprocessen te beïnvloeden.",
+    "en": "Applying microbial inoculants, biostimulants or organic preparations intended to influence nutrient availability, plant growth, root development or soil biological processes."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -16,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilInnoculationWithMicrobiology",
     "prefLabel": {
-      "en": "Soil innoculation with microbiology",
-      "nl": "Bodem enten met micro-organismen"
+      "nl": "Bodem enten met micro-organismen",
+      "en": "Soil innoculation with microbiology"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

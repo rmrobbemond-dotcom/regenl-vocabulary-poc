@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SelectionOfCultivarsOnBasisOfNutritionalValueAndTaste",
   "type": "Concept",
   "prefLabel": {
-    "en": "selection of cultivars on basis of nutritional value and taste",
-    "nl": "Rassenkeuze op basis van voedingswaarde en smaak"
+    "nl": "Rassenkeuze op basis van voedingswaarde en smaak",
+    "en": "selection of cultivars on basis of nutritional value and taste"
+  },
+  "definition": {
+    "nl": "Het kiezen van gewasrassen op basis van gewenste voedingskundige samenstelling en smaakeigenschappen, naast de teeltprestaties.",
+    "en": "Selecting crop varieties for desired nutritional composition and sensory properties, such as flavour, alongside agronomic performance."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -16,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CultivationOfSpecificCropsOrVarieties",
     "prefLabel": {
-      "en": "Cultivation of specific crops or varieties",
-      "nl": "Teelt van specifieke gewassen of rassen"
+      "nl": "Teelt van specifieke gewassen of rassen",
+      "en": "Cultivation of specific crops or varieties"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

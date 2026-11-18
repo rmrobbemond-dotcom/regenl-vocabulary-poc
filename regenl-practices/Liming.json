@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Liming",
   "type": "Concept",
   "prefLabel": {
-    "en": "Liming",
-    "nl": "Bekalking"
+    "nl": "Bekalking",
+    "en": "Liming"
+  },
+  "definition": {
+    "nl": "Het toedienen van kalkhoudende materialen om de bodem-pH te verhogen of verzuring te corrigeren op basis van bodemonderzoek en gewasbehoefte.",
+    "en": "Applying lime-based materials to raise soil pH or correct acidity, according to soil tests and crop requirements."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -17,24 +21,24 @@
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/Shells",
       "prefLabel": {
-        "en": "shells",
-        "nl": "Schelpen"
+        "nl": "Schelpen",
+        "en": "shells"
       }
     }
   ],
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SoilAmendments",
     "prefLabel": {
-      "en": "Soil amendments",
-      "nl": "Bodemverbeteraars"
+      "nl": "Bodemverbeteraars",
+      "en": "Soil amendments"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

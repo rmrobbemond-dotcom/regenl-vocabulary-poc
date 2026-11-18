@@ -2,38 +2,40 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SolarPannels",
   "type": "Concept",
   "prefLabel": {
-    "en": "Solar pannels",
-    "nl": "Zonnepanelen"
+    "nl": "Zonnepanelen",
+    "en": "Solar pannels"
+  },
+  "definition": {
+    "nl": "Het plaatsen of benutten van fotovoltaïsche zonnepanelen die zonlicht omzetten in elektriciteit voor bedrijfsgebruik of levering aan het net.",
+    "en": "Installing or using photovoltaic panels that convert sunlight into electricity for farm operations or export to the grid."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
     "Micro"
   ],
+  "broader": {
+    "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/RenewableEnergy",
+    "prefLabel": {
+      "nl": "Hernieuwbare energie",
+      "en": "renewable energy"
+    }
+  },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
-      "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
-      }
     }
   ],
   "@context": {

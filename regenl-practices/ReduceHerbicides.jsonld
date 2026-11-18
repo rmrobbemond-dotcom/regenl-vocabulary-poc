@@ -2,12 +2,21 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReduceHerbicides",
   "type": "Concept",
   "prefLabel": {
-    "en": "Reduce herbicides",
-    "nl": "Herbicidengebruik verminderen"
+    "nl": "Herbicidengebruik verminderen",
+    "en": "Reduce herbicides"
+  },
+  "definition": {
+    "nl": "Het verminderen van herbicidengebruik via lagere doseringen of minder toepassingen en aanvullend mechanisch of ecologisch onkruidbeheer.",
+    "en": "Reducing the use of herbicides through lower application rates or frequency and complementary mechanical or ecological weed management."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch farmer explanation. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -16,16 +25,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ReductionOnTheUseOfPlantProtectionProducts",
     "prefLabel": {
-      "en": "Reduction on the use of plant protection products",
-      "nl": "Gewasbeschermingsmiddelengebruik verminderen"
+      "nl": "Gewasbeschermingsmiddelengebruik verminderen",
+      "en": "Reduction on the use of plant protection products"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

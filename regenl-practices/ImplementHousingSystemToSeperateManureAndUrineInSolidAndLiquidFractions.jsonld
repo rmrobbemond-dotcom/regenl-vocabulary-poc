@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/ImplementHousingSystemToSeperateManureAndUrineInSolidAndLiquidFractions",
   "type": "Concept",
   "prefLabel": {
-    "en": "Implement housing system to seperate manure and urine in solid and liquid fractions",
-    "nl": "Huisvestingssysteem voor scheiding van mest en urine"
+    "nl": "Huisvestingssysteem voor scheiding van mest en urine",
+    "en": "Implement housing system to seperate manure and urine in solid and liquid fractions"
+  },
+  "definition": {
+    "nl": "Het toepassen van stalvloeren of opvangsystemen die feces en urine kort na uitscheiding scheiden zodat beide fracties afzonderlijk kunnen worden behandeld en bepaalde emissies worden beperkt.",
+    "en": "Using housing floors or manure collection systems that separate faeces and urine soon after excretion to enable different treatment and reduce some emissions."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -16,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/BuildingForEmissionReduction",
     "prefLabel": {
-      "en": "building for emission reduction",
-      "nl": "Gebouwen voor emissiereductie"
+      "nl": "Gebouwen voor emissiereductie",
+      "en": "building for emission reduction"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

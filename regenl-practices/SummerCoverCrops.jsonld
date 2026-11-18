@@ -2,16 +2,26 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/SummerCoverCrops",
   "type": "Concept",
   "prefLabel": {
-    "en": "Summer cover crops",
-    "nl": "Zomerse bodembedekkers"
+    "nl": "Zomerse bodembedekkers",
+    "en": "Summer cover crops"
   },
   "definition": {
-    "en": "Cover crops grown to provide vegetative cover of the soil in summer",
-    "nl": "Groenbedekkers die in de zomer worden geteeld om de bodem met vegetatie bedekt te houden."
+    "nl": "Het in de zomer telen van bodembedekkers, meestal tussen hoofdteelten of na vroege oogst, om bodem te beschermen en beschikbare nutriënten op te nemen.",
+    "en": "Growing cover crops during the summer period, usually between main crops or after early harvest, to protect soil and take up available nutrients."
+  },
+  "changeNote": {
+    "nl": [
+      "Definitie nl overgenomen uit ReGeNL practice_list_0.2.1, kolom: Dutch scientific. Bronbestand: practice_list_0.2.1__git_ (1).xlsx."
+    ]
   },
   "editorialNote": {
+    "en": [
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
+    ]
+  },
+  "historyNote": {
     "nl": [
-      "Nederlandse vertaling is een redactioneel voorstel op basis van de bestaande Engelstalige bron en moet nog worden gevalideerd."
+      "Voorgaande PoC-definitie (nl): Groenbedekkers die in de zomer worden geteeld om de bodem met vegetatie bedekt te houden."
     ]
   },
   "notation": [
@@ -20,16 +30,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CropDiversificationCoverCrops",
     "prefLabel": {
-      "en": "Crop diversification -Cover crops:",
-      "nl": "Gewasdiversificatie met bodembedekkers"
+      "nl": "Gewasdiversificatie met bodembedekkers",
+      "en": "Crop diversification -Cover crops:"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],

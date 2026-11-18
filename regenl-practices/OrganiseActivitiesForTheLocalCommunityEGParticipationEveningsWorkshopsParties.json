@@ -2,12 +2,16 @@
   "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/OrganiseActivitiesForTheLocalCommunityEGParticipationEveningsWorkshopsParties",
   "type": "Concept",
   "prefLabel": {
-    "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)",
-    "nl": "Activiteiten voor de lokale gemeenschap organiseren"
+    "nl": "Activiteiten voor de lokale gemeenschap organiseren",
+    "en": "Organise activities for the local community (e.g. participation evenings, workshops, parties)"
+  },
+  "definition": {
+    "nl": "Het organiseren van bijvoorbeeld inspraakavonden, workshops of buurtbijeenkomsten die het landbouwbedrijf verbinden met bewoners en lokale organisaties.",
+    "en": "Hosting activities such as participation meetings, workshops or community gatherings that connect the farm with residents and local organisations."
   },
   "editorialNote": {
     "en": [
-      "Definition pending scientific review; no generic placeholder has been inserted."
+      "Bilingual definition drafted for the PoC; requires validation by ReGeNL domain experts. Previous source definitions are retained in regenlmeta:originalDefinition."
     ]
   },
   "notation": [
@@ -16,16 +20,16 @@
   "broader": {
     "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/CommunityEngagement",
     "prefLabel": {
-      "en": "Community engagement",
-      "nl": "Betrokkenheid van de lokale gemeenschap"
+      "nl": "Betrokkenheid van de lokale gemeenschap",
+      "en": "Community engagement"
     }
   },
   "inScheme": [
     {
       "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/regenl-practices/",
       "title": {
-        "en": "ReGeNL – regenerative practices (PoC)",
-        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)"
+        "nl": "ReGeNL – regeneratieve landbouwpraktijken (PoC)",
+        "en": "ReGeNL – regenerative practices (PoC)"
       }
     }
   ],
