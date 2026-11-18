@@ -55,6 +55,24 @@ for subject in concepts:
     )
     scheme = str(next(iter(graph.objects(subject, SKOS.inScheme)), ""))
     status = str(next(iter(graph.objects(subject, photo_status)), ""))
+    # Generate technical metadata from RDF, rather than showing the original
+    # SkoHub Markdown (whose global layout styles conflict with our grid).
+    skip = {RDF.type, SKOS.prefLabel, SKOS.definition, SKOS.broader,
+            SKOS.narrower, SKOS.inScheme, SKOS.notation,
+            photo_description, photo_status}
+    extras = []
+    for predicate, obj in graph.predicate_objects(subject):
+        if predicate in skip:
+            continue
+        if isinstance(obj, Literal):
+            if obj.language not in (None, "nl", "en"):
+                continue
+            extras.append({"property": str(predicate), "value": str(obj),
+                           "lang": obj.language or "", "uri": False})
+        elif isinstance(obj, URIRef):
+            extras.append({"property": str(predicate), "value": str(obj),
+                           "lang": "", "uri": True})
+    extras.sort(key=lambda item: (item["property"], item["lang"], item["value"]))
     data[key] = {
         "uri": str(subject),
         "labels": multilingual(subject, SKOS.prefLabel),
@@ -65,10 +83,11 @@ for subject in concepts:
         "children": children,
         "scheme": scheme,
         "photoStatus": status,
+        "extras": extras,
     }
 
 css = r"""
-/* ReGeNL detail redesign v5 — fixes raw metadata text overlap */
+/* ReGeNL detail redesign v6 — structured metadata, no legacy Markdown rendering */
 .main-block {min-width:0 !important; overflow-x:hidden !important;}
 .main-block .regenl-detail-layout {
   display:grid !important; grid-template-columns:minmax(0,47%) minmax(0,1fr);
@@ -116,66 +135,24 @@ css = r"""
 .regenl-technical .regenl-uri {margin-top:8px;font-size:12px;color:#5f726d;overflow-wrap:anywhere;}
 .regenl-technical .regenl-uri button {margin-left:8px;}
 .regenl-technical .regenl-tech-note {font-size:12px;color:#5f726d;}
-/* Technical metadata: keep the original SkoHub markup in normal document flow.
-   The original Markdown may contain layout styles that cause overlapping text
-   after it is moved into the ReGeNL grid. Isolate and normalize that section. */
-.main-block .regenl-detail-layout > .markdown {
-  grid-column:1/-1;grid-row:6;
-  display:none !important;
-  box-sizing:border-box !important;
-  min-width:0 !important;max-width:100% !important;
-  width:100% !important;
-  height:auto !important;min-height:0 !important;
-  position:relative !important;
-  overflow:visible !important;overflow-wrap:anywhere !important;
-  margin:0 !important;padding:14px 0 10px !important;
-  border-top:1px solid #e4eae8;
-}
+/* The original SkoHub Markdown is never expanded. It is retained in the
+   DOM for SkoHub compatibility, but metadata is rendered separately from RDF. */
+.main-block .regenl-detail-layout > .markdown,
 .main-block .regenl-detail-layout.regenl-show-raw > .markdown {
-  display:flow-root !important;
+  display:none !important;
 }
-/* Ensure every metadata block contributes to the height of its container.
-   This prevents headings and descriptions from being painted on top of each other. */
-.main-block .regenl-detail-layout > .markdown *,
-.main-block .regenl-detail-layout > .markdown *::before,
-.main-block .regenl-detail-layout > .markdown *::after {
-  box-sizing:border-box !important;
-  position:static !important;
-  float:none !important;
-  transform:none !important;
-  max-width:100% !important;
+.regenl-extra-metadata {
+  display:none; margin-top:18px; padding-top:14px;
+  border-top:1px solid #e4eae8; min-width:0; width:100%;
 }
-.main-block .regenl-detail-layout > .markdown > * {
-  display:block !important;
-  width:auto !important;
-  height:auto !important;
-  min-height:0 !important;
-  margin:0 0 14px !important;
-}
-.main-block .regenl-detail-layout > .markdown h1,
-.main-block .regenl-detail-layout > .markdown h2,
-.main-block .regenl-detail-layout > .markdown h3,
-.main-block .regenl-detail-layout > .markdown h4 {
-  clear:both !important;
-  line-height:1.4 !important;
-  height:auto !important;
-  margin:18px 0 8px !important;
-}
-.main-block .regenl-detail-layout > .markdown p,
-.main-block .regenl-detail-layout > .markdown li,
-.main-block .regenl-detail-layout > .markdown dd,
-.main-block .regenl-detail-layout > .markdown dt {
-  line-height:1.55 !important;
-  height:auto !important;
-  white-space:normal !important;
-  overflow-wrap:anywhere !important;
-  margin-bottom:8px !important;
-}
-.main-block .regenl-detail-layout > .markdown a,
-.main-block .regenl-detail-layout > .markdown code {
-  overflow-wrap:anywhere !important;
-  word-break:break-word !important;
-}
+.regenl-detail-layout.regenl-show-raw .regenl-extra-metadata {display:block;}
+.regenl-meta-item {display:block; margin:0 0 18px; min-width:0;}
+.regenl-meta-item h3 {font-size:15px !important; font-weight:700 !important;
+  line-height:1.45 !important; margin:0 0 7px !important; color:#005b52 !important;}
+.regenl-meta-values {display:flex;flex-direction:column;gap:7px;min-width:0;}
+.regenl-meta-value {display:block; position:static !important; line-height:1.55 !important;
+  overflow-wrap:anywhere;white-space:normal;min-width:0;}
+.regenl-meta-value a {overflow-wrap:anywhere;word-break:break-word;}
 .main-block .regenl-detail-layout > .conceptURI {display:none !important;}
 .main-block .regenl-detail-layout > .json-png {grid-column:1/-1;grid-row:7;}
 /* Hide an obsolete injected v3 caption if left over by a legacy script */
@@ -193,7 +170,7 @@ css = r"""
 }
 """
 
-js_template = r"""/* ReGeNL detail redesign v5. Data comes from the site's own Turtle. */
+js_template = r"""/* ReGeNL detail redesign v6. Data comes from the site's own Turtle. */
 (function () {
   'use strict';
   const concepts = __REGENL_CONCEPT_DATA__;
@@ -316,6 +293,56 @@ js_template = r"""/* ReGeNL detail redesign v5. Data comes from the site's own T
     });
     meta.append(copy);
     technical.append(toggle,meta);
+    // Technical fields are generated from RDF into isolated block elements.
+    // Never unhide SkoHub's Markdown: doing so makes its headings overlap.
+    const extrasContainer = node('div','regenl-extra-metadata');
+    const fieldLabels = {
+      altLabel:['Alternatieve benaming','Alt Label'],
+      hiddenLabel:['Verborgen benaming','Hidden Label'],
+      editorialNote:['Redactionele toelichting','Editorial Note'],
+      scopeNote:['Toelichting op toepassingsgebied','Scope Note'],
+      historyNote:['Historische toelichting','History Note'],
+      changeNote:['Wijzigingsnotitie','Change Note'],
+      example:['Voorbeeld','Example'],
+      originalDefinition:['Oorspronkelijke definitie','Original Definition'],
+      source:['Bron','Source'],
+      relatedMatch:['Gerelateerd begrip','Related Match'],
+      exactMatch:['Exact equivalent','Exact Match'],
+      closeMatch:['Vergelijkbaar begrip','Close Match']
+    };
+    const grouped = new Map();
+    (c.extras || []).forEach(item => {
+      const key = item.property;
+      if (!grouped.has(key)) grouped.set(key,[]);
+      grouped.get(key).push(item);
+    });
+    grouped.forEach((items, property) => {
+      // Prefer the selected language; include untagged values in both languages.
+      const chosen = items.filter(item => !item.lang || item.lang === locale);
+      const display = chosen.length ? chosen : items.filter(item => item.lang === (locale === 'nl' ? 'en' : 'nl'));
+      if (!display.length) return;
+      const suffix = property.replace(/.*[#/]/,'');
+      const labels = fieldLabels[suffix];
+      const title = labels ? labels[locale === 'nl' ? 0 : 1] : suffix.replace(/([a-z])([A-Z])/g,'$1 $2');
+      const sectionNode = node('section','regenl-meta-item');
+      sectionNode.append(node('h3','',title));
+      const values = node('div','regenl-meta-values');
+      display.forEach(item => {
+        const row = node('div','regenl-meta-value');
+        if (item.uri && /^https?:\/\//i.test(item.value)) {
+          const a = node('a','',item.value);
+          a.href = item.value;
+          a.rel='noopener noreferrer';
+          row.append(a);
+        } else {
+          row.textContent = item.value;
+        }
+        values.append(row);
+      });
+      sectionNode.append(values);
+      extrasContainer.append(sectionNode);
+    });
+    technical.append(extrasContainer);
     if (c.scheme) {
       const scheme=node('div','regenl-tech-note');
       scheme.append(node('span','',w.scheme+': '));
@@ -388,5 +415,5 @@ for path in public.rglob("*.html"):
         path.write_text(html,encoding="utf-8")
         count+=1
 
-print(f"ReGeNL layout v5: {len(data)} SKOS concepts from {len(sources)} TTL file(s).")
+print(f"ReGeNL layout v6: {len(data)} SKOS concepts from {len(sources)} TTL file(s).")
 print(f"Layout assets linked from {count} HTML pages.")
