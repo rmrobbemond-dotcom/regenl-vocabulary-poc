@@ -1,6 +1,6 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix practice: <https://regenl.org/vocabulary/practices/> .
+@prefix practice: <https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix regenlmeta: <https://regenl.org/vocabulary/metadata/> .
@@ -1950,96 +1950,200 @@ practice:R1-0041 a skos:Concept ;
 
 practice:R1-0042 a skos:Concept ;
     dcterms:identifier "PRACTICE_R1_0042" ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Anaerobic_digestate.JPG> ;
     skos:broader practice:meso-5afe732b24c9ad5e ;
-    skos:definition "Practice concerning application of sewage sludge and other sludge (digestate), classified under use of specific fertilizer types or manure  - manure & sludge."@en,
-        "Maatregel binnen mest en slib gebruiken die betrekking heeft op toepassing van rioolslib en ander slib (digestaat)."@nl ;
+    skos:changeNote "Annotaties en selecteerbaarheid goedgekeurd tijdens conceptreview; formele benaming aangepast; afbeeldingskandidaat overgenomen."@nl ;
+    skos:definition "The application of digestate from anaerobic digestion or suitable sludge streams from wastewater treatment or other processing operations as a source of nutrients and potentially organic matter for the soil and crops."@en,
+        "Het toepassen van digestaat uit anaerobe vergisting of daarvoor geschikte slibstromen uit afvalwaterzuivering of andere verwerkingsprocessen als bron van nutriënten en eventueel organische stof voor de bodem en het gewas."@nl ;
     skos:inScheme practice:scheme ;
     skos:notation "Micro" ;
-    skos:prefLabel "Application of sewage sludge and other sludge (digestate)"@en,
-        "Toepassing van rioolslib en ander slib (digestaat)"@nl ;
+    skos:prefLabel "Application of digestate or sludge as fertiliser"@en,
+        "Toepassing van digestaat of slib als meststof"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Anaerobic_digestate.JPG?width=960> ;
     regenlmeta:classificationLevel "Micro" ;
-    regenlmeta:definitionStatus "draft-contextual" ;
+    regenlmeta:definitionStatus "user-reviewed" ;
     regenlmeta:farmerContentSource "Geplakte tekst(20261124-142404).txt" ;
-    regenlmeta:farmerDescription "Het gebruiken van digestaat of een geschikte slibstroom als meststof, voor zover dit wettelijk is toegestaan en veilig kan."@nl ;
-    regenlmeta:farmerDescriptionStatus "reused-from-qualtrics-review-required" ;
-    regenlmeta:farmerLabel "Digestaat of slib toepassen"@nl ;
-    regenlmeta:farmerTopic "Bemesting en bodemvoeding"@nl ;
+    regenlmeta:farmerDescription "Using digestate or suitable sludge as fertiliser, provided that its application is legally permitted and safe."@en,
+        "Het gebruiken van digestaat of een geschikte slibstroom als meststof, voor zover dit wettelijk is toegestaan en veilig kan."@nl ;
+    regenlmeta:farmerDescriptionStatus "user-reviewed" ;
+    regenlmeta:farmerLabel "Apply digestate or sludge as fertiliser"@en,
+        "Digestaat of slib toepassen"@nl ;
+    regenlmeta:farmerTopic "Fertilisation and soil nutrition"@en,
+        "Bemesting en bodemvoeding"@nl ;
     regenlmeta:originalPracticeIdentifier "PRACTICE_R1_0042" ;
     regenlmeta:originalPracticeLabel "Application of sewage sludge and other sludge (digestate)"@en,
         "Toepassing van rioolslib en ander slib (digestaat)"@nl ;
-    regenlmeta:searchKeyword "Digestaat of slib toepassen"@nl,
-        "Toepassing van rioolslib en ander slib"@nl,
-        "bemesten"@nl,
+    regenlmeta:photoCaptionStatus "candidate-visual-and-license-review-needed" ;
+    regenlmeta:photoPracticeDescription "The image shows digestate produced through the anaerobic digestion of organic material, which under certain conditions can be used as a nutrient source for agricultural crops."@en,
+        "De afbeelding toont digestaat dat ontstaat bij de anaerobe vergisting van organisch materiaal en dat onder bepaalde voorwaarden als nutriëntenbron voor landbouwgewassen kan worden benut."@nl ;
+    regenlmeta:searchKeyword "anaerobic digestion"@en,
+        "biosolids"@en,
+        "circular fertilisation"@en,
+        "co-digestion"@en,
+        "digestate"@en,
+        "digestion residue"@en,
+        "fertilisation"@en,
+        "manure digestion"@en,
+        "nutrient cycling"@en,
+        "nutrient recycling"@en,
+        "organic fertilisation"@en,
+        "organic fertilisers"@en,
+        "residual streams"@en,
+        "sewage sludge"@en,
+        "sludge"@en,
+        "soil fertility"@en,
+        "wastewater sludge"@en,
+        "anaerobe vergisting"@nl,
+        "bemesting"@nl,
         "bodemvruchtbaarheid"@nl,
+        "circulaire bemesting"@nl,
+        "covergisting"@nl,
         "digestaat"@nl,
-        "fosfaat"@nl,
-        "kunstmest"@nl,
-        "mest"@nl,
-        "stikstof"@nl ;
+        "mestvergisting"@nl,
+        "nutriëntenhergebruik"@nl,
+        "nutriëntenkringloop"@nl,
+        "organische bemesting"@nl,
+        "organische meststoffen"@nl,
+        "reststromen"@nl,
+        "rioolslib"@nl,
+        "slib"@nl,
+        "vergisting"@nl,
+        "vergistingsresidu"@nl,
+        "zuiveringsslib"@nl ;
     regenlmeta:selectablePractice true ;
-    regenlmeta:sourceLabelStatus "source" ;
+    regenlmeta:sourceLabelStatus "source-with-corrected-prefLabel" ;
     regenlmeta:sourceRow 43 .
 
 practice:R1-0043 a skos:Concept ;
     dcterms:identifier "PRACTICE_R1_0043" ;
     skos:broader practice:meso-5afe732b24c9ad5e ;
-    skos:definition "Practice concerning manure constituent sensing, classified under use of specific fertilizer types or manure  - manure & sludge."@en,
-        "Maatregel binnen mest en slib gebruiken die betrekking heeft op detectie van mestbestanddelen."@nl ;
+    skos:changeNote "Annotaties en selecteerbaarheid goedgekeurd tijdens conceptreview; formele benaming verbreed naar meting van de mestsamenstelling; nieuwe afbeelding nodig."@nl ;
+    skos:definition "The qualitative or quantitative determination of manure composition through sample analysis or sensor-based measurements to obtain information on nutrient concentrations and other relevant properties for fertilisation management."@en,
+        "Het kwalitatief of kwantitatief bepalen van de samenstelling van mest door middel van monsteranalyse of sensormetingen, om inzicht te verkrijgen in nutriëntengehalten en andere relevante eigenschappen ten behoeve van bemestingsmanagement."@nl ;
     skos:inScheme practice:scheme ;
     skos:notation "Micro" ;
-    skos:prefLabel "Manure Constituent Sensing"@en,
-        "Detectie van mestbestanddelen"@nl ;
+    skos:prefLabel "Measurement of manure composition"@en,
+        "Meting van de mestsamenstelling"@nl ;
     regenlmeta:classificationLevel "Micro" ;
-    regenlmeta:definitionStatus "draft-contextual" ;
+    regenlmeta:definitionStatus "user-reviewed" ;
     regenlmeta:farmerContentSource "Geplakte tekst(20261124-142404).txt" ;
-    regenlmeta:farmerDescription "Het laten bepalen van de mestsamenstelling om de hoeveelheid toegediende voedingsstoffen te kennen."@nl ;
-    regenlmeta:farmerDescriptionStatus "reused-from-qualtrics-review-required" ;
-    regenlmeta:farmerLabel "Mestsamenstelling meten"@nl ;
-    regenlmeta:farmerTopic "Bemesting en bodemvoeding"@nl ;
+    regenlmeta:farmerDescription "Measuring or analysing manure composition, such as nitrogen and phosphorus concentrations, to better understand the amount of nutrients applied."@en,
+        "Het meten of laten analyseren van de samenstelling van mest, bijvoorbeeld het stikstof- en fosfaatgehalte, om beter te weten hoeveel voedingsstoffen worden toegediend."@nl ;
+    regenlmeta:farmerDescriptionStatus "user-reviewed" ;
+    regenlmeta:farmerLabel "Measure manure composition"@en,
+        "Mestsamenstelling meten"@nl ;
+    regenlmeta:farmerTopic "Fertilisation and soil nutrition"@en,
+        "Bemesting en bodemvoeding"@nl ;
     regenlmeta:originalPracticeIdentifier "PRACTICE_R1_0043" ;
     regenlmeta:originalPracticeLabel "Manure Constituent Sensing"@en,
         "Detectie van mestbestanddelen"@nl ;
-    regenlmeta:searchKeyword "Detectie van mestbestanddelen"@nl,
-        "Mestsamenstelling meten"@nl,
-        "bemesten"@nl,
-        "bodemvruchtbaarheid"@nl,
-        "fosfaat"@nl,
-        "kunstmest"@nl,
-        "mest"@nl,
-        "stikstof"@nl ;
+    regenlmeta:photoCaptionStatus "image-needed" ;
+    regenlmeta:searchKeyword "NIR"@en,
+        "dry matter content"@en,
+        "fertilisation planning"@en,
+        "manure analysis"@en,
+        "manure composition"@en,
+        "manure constituent sensing"@en,
+        "manure measurement"@en,
+        "manure sample analysis"@en,
+        "manure sampling"@en,
+        "manure sensor"@en,
+        "manure testing"@en,
+        "near-infrared spectroscopy"@en,
+        "nitrogen content"@en,
+        "nutrient concentration"@en,
+        "nutrient management"@en,
+        "phosphorus content"@en,
+        "potassium content"@en,
+        "precision fertilisation"@en,
+        "slurry"@en,
+        "NIR"@nl,
+        "bemestingsplanning"@nl,
+        "drijfmest"@nl,
+        "drogestofgehalte"@nl,
+        "fosfaatgehalte"@nl,
+        "kaliumgehalte"@nl,
+        "mestanalyse"@nl,
+        "mestbestanddelen"@nl,
+        "mestmetingen"@nl,
+        "mestmonster"@nl,
+        "mestmonsteranalyse"@nl,
+        "mestonderzoek"@nl,
+        "mestsamenstelling"@nl,
+        "mestsensor"@nl,
+        "nabij-infraroodspectroscopie"@nl,
+        "nutriëntenbeheer"@nl,
+        "nutriëntengehalte"@nl,
+        "precisiebemesting"@nl,
+        "stikstofgehalte"@nl ;
     regenlmeta:selectablePractice true ;
-    regenlmeta:sourceLabelStatus "source" ;
+    regenlmeta:sourceLabelStatus "source-with-corrected-prefLabel" ;
     regenlmeta:sourceRow 44 .
 
 practice:R1-0044 a skos:Concept ;
     dcterms:identifier "PRACTICE_R1_0044" ;
+    dcterms:source <https://commons.wikimedia.org/wiki/File:Compost_heap_at_a_farmstead_i.jpg> ;
     skos:broader practice:meso-212f8535a6bebf70 ;
-    skos:definition "Practice concerning application of compost, classified under use of specific fertilizer types or manure - compost."@en,
-        "Toediening van compost aan landbouwgrond."@nl ;
+    skos:changeNote "Annotaties en selecteerbaarheid goedgekeurd tijdens conceptreview; bronbenamingen hersteld; afbeeldingskandidaat overgenomen."@nl ;
+    skos:definition "The application of organic material transformed into compost through controlled aerobic biological decomposition and stabilisation, as a source of organic matter and nutrients or as a soil amendment."@en,
+        "Het toepassen van organisch materiaal dat door gecontroleerde aerobe biologische afbraak en stabilisatie is omgezet in compost, als bron van organische stof en nutriënten of als bodemverbeteraar."@nl ;
     skos:inScheme practice:scheme ;
     skos:notation "Micro" ;
     skos:prefLabel "Application of compost"@en,
-        "Compost toepassen"@nl ;
+        "Toepassing van compost"@nl ;
+    foaf:depiction <https://commons.wikimedia.org/wiki/Special:Redirect/file/Compost_heap_at_a_farmstead_i.jpg?width=960> ;
     regenlmeta:classificationLevel "Micro" ;
-    regenlmeta:definitionStatus "draft-editorial" ;
+    regenlmeta:definitionStatus "user-reviewed" ;
     regenlmeta:farmerContentSource "Geplakte tekst(20261124-142404).txt" ;
-    regenlmeta:farmerDescription "Het aanbrengen van compost op het land om organisch materiaal en voedingsstoffen aan de bodem toe te voegen."@nl ;
-    regenlmeta:farmerDescriptionStatus "reused-from-qualtrics-review-required" ;
-    regenlmeta:farmerLabel "Compost toepassen"@nl ;
-    regenlmeta:farmerTopic "Bemesting en bodemvoeding"@nl ;
+    regenlmeta:farmerDescription "Applying compost to farmland to add organic matter and nutrients to the soil."@en,
+        "Het aanbrengen van compost op het land om organisch materiaal en voedingsstoffen aan de bodem toe te voegen."@nl ;
+    regenlmeta:farmerDescriptionStatus "user-reviewed" ;
+    regenlmeta:farmerLabel "Apply compost"@en,
+        "Compost toepassen"@nl ;
+    regenlmeta:farmerTopic "Fertilisation and soil nutrition"@en,
+        "Bemesting en bodemvoeding"@nl ;
     regenlmeta:originalPracticeIdentifier "PRACTICE_R1_0044" ;
     regenlmeta:originalPracticeLabel "Application of compost"@en,
         "Toepassing van compost"@nl ;
-    regenlmeta:searchKeyword "Compost toepassen"@nl,
-        "Toepassing van compost"@nl,
-        "bemesten"@nl,
+    regenlmeta:photoCaptionStatus "candidate-visual-and-license-review-needed" ;
+    regenlmeta:photoPracticeDescription "A compost heap on a farm shows the organic material applied as compost to provide organic matter and nutrients or to amend the soil."@en,
+        "Een composthoop op een landbouwbedrijf toont het organische materiaal dat bij compostbemesting wordt toegepast als bron van organische stof en nutriënten of als bodemverbeteraar."@nl ;
+    regenlmeta:searchKeyword "aerobic decomposition"@en,
+        "compost"@en,
+        "compost application"@en,
+        "compost spreading"@en,
+        "compost use"@en,
+        "composting"@en,
+        "green waste compost"@en,
+        "mature compost"@en,
+        "municipal organic waste compost"@en,
+        "nutrient cycling"@en,
+        "organic fertilisation"@en,
+        "organic fertilisers"@en,
+        "organic matter"@en,
+        "soil amendment"@en,
+        "soil biology"@en,
+        "soil fertility"@en,
+        "soil structure"@en,
+        "GFT-compost"@nl,
+        "bodemleven"@nl,
+        "bodemstructuur"@nl,
+        "bodemverbeteraar"@nl,
         "bodemvruchtbaarheid"@nl,
-        "fosfaat"@nl,
-        "kunstmest"@nl,
-        "mest"@nl,
-        "stikstof"@nl ;
+        "compost"@nl,
+        "compost strooien"@nl,
+        "compost uitrijden"@nl,
+        "compostbemesting"@nl,
+        "composteren"@nl,
+        "compostgebruik"@nl,
+        "groencompost"@nl,
+        "nutriëntenkringloop"@nl,
+        "organische bemesting"@nl,
+        "organische meststoffen"@nl,
+        "organische stof"@nl,
+        "rijpe compost"@nl ;
     regenlmeta:selectablePractice true ;
-    regenlmeta:sourceLabelStatus "editorial-draft" ;
+    regenlmeta:sourceLabelStatus "source" ;
     regenlmeta:sourceRow 45 .
 
 practice:R1-0045 a skos:Concept ;
