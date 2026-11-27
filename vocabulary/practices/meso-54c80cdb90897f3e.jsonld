@@ -1,0 +1,253 @@
+{
+  "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/meso-54c80cdb90897f3e",
+  "type": "Concept",
+  "prefLabel": {
+    "nl": "Wateropslag",
+    "en": "Water storage"
+  },
+  "definition": {
+    "nl": "Het tijdelijk vasthouden van water in tanks, vijvers, bodems of aangelegde reservoirs voor later gebruik of gecontroleerde afgifte.",
+    "en": "Holding water temporarily in tanks, ponds, soils or constructed reservoirs for use or controlled release at a later time."
+  },
+  "notation": [
+    "Meso"
+  ],
+  "narrower": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0206",
+      "prefLabel": {
+        "nl": "Natuurlijke wateropvang",
+        "en": "Natural water harvesting"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0207",
+      "prefLabel": {
+        "nl": "Zai-kuilen / plantkuilen",
+        "en": "Zai Pits / Planting Pits"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0208",
+      "prefLabel": {
+        "nl": "Halfronde wallen",
+        "en": "Semi-Circular Bunds"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0209",
+      "prefLabel": {
+        "nl": "Opvang van regenwater op daken",
+        "en": "Rooftop Rainwater Harvesting"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0210",
+      "prefLabel": {
+        "nl": "Infiltratiekanalen",
+        "en": "Infiltration channels"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0211",
+      "prefLabel": {
+        "nl": "Keyline/kernlijn-ontwerp",
+        "en": "Keyline design"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0212",
+      "prefLabel": {
+        "nl": "Aanleg van greppels",
+        "en": "Swale construction"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0213",
+      "prefLabel": {
+        "nl": "Aanleg van vijvers",
+        "en": "Pond creation"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0214",
+      "prefLabel": {
+        "nl": "Stuwdammen",
+        "en": "Check dams"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0215",
+      "prefLabel": {
+        "nl": "Zanddammen",
+        "en": "Sand Dams"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/macro-646d266ee3476d62",
+    "prefLabel": {
+      "nl": "Irrigatie en waterbeheer",
+      "en": "Irrigation and water management"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

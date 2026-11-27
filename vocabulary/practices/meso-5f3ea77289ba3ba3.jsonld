@@ -1,0 +1,239 @@
+{
+  "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/meso-5f3ea77289ba3ba3",
+  "type": "Concept",
+  "prefLabel": {
+    "nl": "Agroforestry met akkerbouw",
+    "en": "Agroforestry systems - silvoarable"
+  },
+  "definition": {
+    "nl": "Categorie voor maatregelen binnen agroforestry met akkerbouw.",
+    "en": "Category of practices concerning agroforestry systems - silvoarable."
+  },
+  "notation": [
+    "Meso"
+  ],
+  "narrower": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0230",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Alley cropping",
+        "en": "Agroforestry on arable land - Alley cropping"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0231",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Gemengde boomgaarden",
+        "en": "Agroforestry on arable land - Intercropped orchards"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0232",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Contourheggen",
+        "en": "Agroforestry on arable land - Contour hedgerows"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0233",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Strookteelt",
+        "en": "Agroforestry on arable land - Strip cropping"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0234",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Windschermen",
+        "en": "Agroforestry on arable land - Shelterbelts"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0235",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Verspreide bomen",
+        "en": "Agroforestry on arable land - Scattered trees"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0236",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Windscherm",
+        "en": "Agroforestry on arable land - windbreak"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0237",
+      "prefLabel": {
+        "nl": "Agroforestry op akkerland – Oeverbufferzones",
+        "en": "Agroforestry on arable land - riparian buffer strips"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/macro-fa9c122ee6dbbf6a",
+    "prefLabel": {
+      "nl": "Agroforestry en meerjarige teeltsystemen",
+      "en": "Agroforestry & perennial systems"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

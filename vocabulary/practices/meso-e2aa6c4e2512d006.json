@@ -1,0 +1,274 @@
+{
+  "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/meso-e2aa6c4e2512d006",
+  "type": "Concept",
+  "prefLabel": {
+    "nl": "Irrigatie-efficiëntie",
+    "en": "Irrigation efficiency"
+  },
+  "definition": {
+    "nl": "Categorie voor maatregelen binnen irrigatie-efficiëntie.",
+    "en": "Category of practices concerning irrigation efficiency."
+  },
+  "notation": [
+    "Meso"
+  ],
+  "narrower": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0193",
+      "prefLabel": {
+        "nl": "Druppelirrigatie",
+        "en": "Drip irrigation"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0194",
+      "prefLabel": {
+        "nl": "Irrigatie met variabele dosering",
+        "en": "Variable rate irrigation"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0195",
+      "prefLabel": {
+        "nl": "Tekortirrigatie",
+        "en": "Deficit irrigation"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0196",
+      "prefLabel": {
+        "nl": "Bodemkartering",
+        "en": "Soil mapping"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0197",
+      "prefLabel": {
+        "nl": "Bodemvochtmeting",
+        "en": "Soil moisture sensing"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0198",
+      "prefLabel": {
+        "nl": "Ondergrondse druppelirrigatie (SDI)",
+        "en": "Subsurface Drip Irrigation (SDI)"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0199",
+      "prefLabel": {
+        "nl": "Pulsbreedtemodulatie (PWM)-sproeiers",
+        "en": "Pulse Width Modulation (PWM) Nozzles"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0200",
+      "prefLabel": {
+        "nl": "Energiezuinige precisietoepassing (LEPA)",
+        "en": "Low-Energy Precision Application (LEPA)"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0201",
+      "prefLabel": {
+        "nl": "Planning op basis van verdamping (ET)",
+        "en": "Evapotranspiration (ET) Scheduling"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0202",
+      "prefLabel": {
+        "nl": "Infraroodsensoren voor bladerdaktemperatuur",
+        "en": "Canopy Temperature Infrared Sensors"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0203",
+      "prefLabel": {
+        "nl": "Monitoring van sapstroom",
+        "en": "Sap Flow Monitoring"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0204",
+      "prefLabel": {
+        "nl": "Irrigatie ’s nachts en bij zonsopgang",
+        "en": "Night and Dawn Irrigation"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0205",
+      "prefLabel": {
+        "nl": "Gecontroleerde tekortirrigatie",
+        "en": "Deficit Irrigation Management"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/macro-646d266ee3476d62",
+    "prefLabel": {
+      "nl": "Irrigatie en waterbeheer",
+      "en": "Irrigation and water management"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

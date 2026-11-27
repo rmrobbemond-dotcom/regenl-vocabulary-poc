@@ -1,0 +1,225 @@
+{
+  "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/meso-821035c368b252c7",
+  "type": "Concept",
+  "prefLabel": {
+    "nl": "Meten en monitoren",
+    "en": "Measuring and monitoring"
+  },
+  "definition": {
+    "nl": "Het systematisch en herhaald verzamelen van waarnemingen of metingen over bedrijfsmaatregelen, bodem, gewassen, dieren of milieuresultaten om veranderingen te volgen.",
+    "en": "Systematically collecting repeated observations or measurements of farm practices, soil, crops, livestock or environmental outcomes to assess change over time."
+  },
+  "notation": [
+    "Meso"
+  ],
+  "narrower": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0277",
+      "prefLabel": {
+        "nl": "Satellietbeelden en monitoring",
+        "en": "Satellite imagery and monitoring"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0278",
+      "prefLabel": {
+        "nl": "Monitoring via satellietdata/remote sensing",
+        "en": "Remote sensing monitoring"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0279",
+      "prefLabel": {
+        "nl": "Analyse van plantensap",
+        "en": "Plant juice analysis"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0280",
+      "prefLabel": {
+        "nl": "Analyse van mestmonsters",
+        "en": "Manure sample analysis"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0281",
+      "prefLabel": {
+        "nl": "Analyse van kuilvoer-/voermonsters",
+        "en": "Silage/feed sample analysis"
+      }
+    },
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/R1-0282",
+      "prefLabel": {
+        "nl": "Bodemmonsters",
+        "en": "Soil sampling"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/macro-25befd2b4453cb3a",
+    "prefLabel": {
+      "nl": "Diagnostiek en beheerplannen",
+      "en": "diagnosis and management plans"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://rmrobbemond-dotcom.github.io/regenl-vocabulary-poc/vocabulary/practices/scheme"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
